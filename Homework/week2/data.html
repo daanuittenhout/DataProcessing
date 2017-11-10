@@ -16,9 +16,9 @@
 <body>
 
 
-
+// create canvas
 <canvas id="graph" width = "650" height = "450 "> </canvas>
-
+// raw data
 <textarea id="rawdata">
 
   20170101,5
@@ -395,19 +395,22 @@
   20171231,18
 </textarea>
 <script>
-
+// create XMLHttpRequest
 var xhttp = new XMLHttpRequest();
+// when ready run
 xhttp.onreadystatechange = function(){
+  // check requirements to run
   if (this.readyState == 4 && this.status == 200){
     var canvas = document.getElementById("graph")
     var ctx = canvas.getContext("2d");
 
-
+    // check if the data is not null
     if (this.responseText != null){
+      // split the data
         var data = this.responseText.split("\n");
         var temp = [];
         var dates = [];
-
+        // divide the data in a date and a temperature
         for (var i = 1; i < data.length; i++ ){
           var year = data[i].substring(0,4);
       	  var month = data[i].substring(4,6);
@@ -418,19 +421,20 @@ xhttp.onreadystatechange = function(){
             temp.push (Number(data[i].slice(9)));
           }
         }
-
+        // calculate maximum and minimum
         var max = temp.reduce(function(a, b) {
           return Math.max(a, b);
         })
         var min = temp.reduce(function(a, b) {
           return Math.min(a, b);
         })
-
+        // determine graph height
         graphHeight = 300
-
+        // determine the domain and range
         domain = [min,max]
         range = [0,graphHeight]
     }
+    // create scale
     function createTransform(domain, range){
     	// domain is a two-element array of the data bounds [domain_min, domain_max]
     	// range is a two-element array of the screen bounds [range_min, range_max]
@@ -454,7 +458,7 @@ xhttp.onreadystatechange = function(){
 
     transformer = createTransform(domain, range)
 
-
+    // lay-out of the line and canvas
     ctx.strokeStyle = "red"
     ctx.lineWidth = 1
     pointDay = 1
@@ -462,7 +466,7 @@ xhttp.onreadystatechange = function(){
     xCorner = 50
     graphPosition = 100 - 41.605839416058416
 
-
+    // create the line and canvas
     for (i = 0, j = dates.length; i < j; i+= pointDay)
     {
     	ctx.beginPath();
@@ -471,12 +475,12 @@ xhttp.onreadystatechange = function(){
     	ctx.lineTo((i + xCorner + pointDay), (graphHeight + graphPosition) - transformer(temp[i + pointDay]));
     	ctx.stroke();
     }
-
+    // set the x axis
     ctx.beginPath();
     ctx.moveTo(xCorner, yCorner)
     ctx.lineTo(xCorner + dates.length, yCorner)
     ctx.stroke();
-
+    // create an araay with all the months as strings
     var month = new Array();
     month[0] = "Jan";
     month[1] = "Feb";
@@ -495,10 +499,9 @@ xhttp.onreadystatechange = function(){
     markerPoint = 10
     markerText = 30
 
-    // put down markers on axis for each month
+    // draw x axis and add months as markers
     for (i = xCorner, j = xCorner + dates.length; i < j; i ++)
     {
-    	// ensure markers appear for first of each month
     	if (counter == dates[(i-xCorner)].getMonth())
     	{
     		counter ++;
@@ -515,24 +518,23 @@ xhttp.onreadystatechange = function(){
 
     Yaxis = 320
 
-    // create y Axis
+    // set y axis
     ctx.beginPath();
     ctx.moveTo(xCorner, yCorner)
     ctx.lineTo(xCorner, yCorner - Yaxis)
     ctx.stroke();
 
-    // put markers on x Axis
-    xMarkers = 8
-    Markertemp = Yaxis / xMarkers
+    // determine place markers on axis
+    yMarkers = 8
+    Markertemp = Yaxis / yMarkers
 
 
-
+    // draw y axis markers
     for (i = yCorner - Yaxis; i <= yCorner; i ++)
     {
     	if (i % Markertemp == 0)
     	{
-    		
-    		ctx.beginPath();
+     		ctx.beginPath();
     		ctx.moveTo(xCorner, i)
     		ctx.lineTo(xCorner - markerPoint, i)
     		ctx.fillText(i - 80,
@@ -543,6 +545,7 @@ xhttp.onreadystatechange = function(){
     }
   }
 }
+// open and send the file
 xhttp.open("GET", "KNMI.csv", true);
 xhttp.send();
 
