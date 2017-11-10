@@ -1,73 +1,26 @@
-<!DOCTYPE html>
+<!doctype html>
 
 <html>
 
 <head>
-  <script src="lineGraph.js"></script>
-  
+  <h1>
+    I got the right average temperature to shelter you from the storm!
+    Oh lord, gal I got the right program to turn you on!
+  </h1>
+<style>
+
+</style>
+
+</head>
+
 <body>
-  <textarea id="rawdata">
-  20161101,81
-  20161102,72
-  20161103,67
-  20161104,76
-  20161105,69
-  20161106,61
-  20161107,42
-  20161108,19
-  20161109,30
-  20161110,40
-  20161111,18
-  20161112,20
-  20161113,27
-  20161114,31
-  20161115,108
-  20161116,119
-  20161117,93
-  20161118,60
-  20161119,58
-  20161120,84
-  20161121,120
-  20161122,110
-  20161123,79
-  20161124,66
-  20161125,33
-  20161126,-1
-  20161127,56
-  20161128,-3
-  20161129,-31
-  20161130,20
-  20161201,79
-  20161202,52
-  20161203,-1
-  20161204,-14
-  20161205,-27
-  20161206,1
-  20161207,63
-  20161208,82
-  20161209,91
-  20161210,78
-  20161211,85
-  20161212,53
-  20161213,66
-  20161214,73
-  20161215,65
-  20161216,54
-  20161217,61
-  20161218,62
-  20161219,43
-  20161220,-6
-  20161221,41
-  20161222,59
-  20161223,60
-  20161224,79
-  20161225,104
-  20161226,83
-  20161227,66
-  20161228,10
-  20161229,-22
-  20161230,-11
-  20161231,18
+
+
+
+<canvas id="graph" width = "650" height = "450 "> </canvas>
+
+<textarea id="rawdata">
+
   20170101,5
   20170102,30
   20170103,50
@@ -237,7 +190,7 @@
   20170616,162
   20170617,186
   20170618,208
-  20170619,236
+  20170619,246
   20170620,216
   20170621,214
   20170622,229
@@ -379,7 +332,221 @@
   20171105,78
   20171106,48
   20171107,33
-  </textarea>
+  20171101,81
+  20171102,72
+  20171103,67
+  20171104,76
+  20171105,69
+  20171106,61
+  20171107,42
+  20171108,19
+  20171109,30
+  20171110,40
+  20171111,18
+  20171112,20
+  20171113,27
+  20171114,31
+  20171115,108
+  20171116,119
+  20171117,93
+  20171118,60
+  20171119,58
+  20171120,84
+  20171121,120
+  20171122,110
+  20171123,79
+  20171124,66
+  20171125,33
+  20171126,-1
+  20171127,56
+  20171128,-3
+  20171129,-31
+  20171130,20
+  20171201,79
+  20171202,52
+  20171203,-1
+  20171204,-14
+  20171205,-27
+  20171206,1
+  20171207,63
+  20171208,82
+  20171209,91
+  20171210,78
+  20171211,85
+  20171212,53
+  20171213,66
+  20171214,73
+  20171215,65
+  20171216,54
+  20171217,61
+  20171218,62
+  20171219,43
+  20171220,-6
+  20171221,41
+  20171222,59
+  20171223,60
+  20171224,79
+  20171225,104
+  20171226,83
+  20171227,66
+  20171228,10
+  20171229,-22
+  20171230,-11
+  20171231,18
+</textarea>
+<script>
+
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function(){
+  if (this.readyState == 4 && this.status == 200){
+    var canvas = document.getElementById("graph")
+    var ctx = canvas.getContext("2d");
+
+
+    if (this.responseText != null){
+        var data = this.responseText.split("\n");
+        var temp = [];
+        var dates = [];
+
+        for (var i = 1; i < data.length; i++ ){
+          var year = data[i].substring(0,4);
+      	  var month = data[i].substring(4,6);
+      	  var day = data[i].substring(6,8);
+      	  var date = new Date(year, month - 1, day);
+          if (date[i] != ""){
+            dates.push(date);
+            temp.push (Number(data[i].slice(9)));
+          }
+        }
+
+        var max = temp.reduce(function(a, b) {
+          return Math.max(a, b);
+        })
+        var min = temp.reduce(function(a, b) {
+          return Math.min(a, b);
+        })
+
+        graphHeight = 300
+
+        domain = [min,max]
+        range = [0,graphHeight]
+    }
+    function createTransform(domain, range){
+    	// domain is a two-element array of the data bounds [domain_min, domain_max]
+    	// range is a two-element array of the screen bounds [range_min, range_max]
+    	// this gives you two equations to solve:
+    	// range_min = alpha * domain_min + beta
+    	// range_max = alpha * domain_max + beta
+
+        var domain_min = domain[0]
+        var domain_max = domain[1]
+        var range_min = range[0]
+        var range_max = range[1]
+
+        // formulas to calculate the alpha and the beta
+       	var alpha = (range_max - range_min) / (domain_max - domain_min)
+        var beta = range_max - alpha * domain_max
+        // returns the function for the linear transformation (y= a * x + b)
+        return function(x){
+          return alpha * x + beta;
+        }
+    }
+
+    transformer = createTransform(domain, range)
+
+
+    ctx.strokeStyle = "red"
+    ctx.lineWidth = 1
+    pointDay = 1
+    yCorner = 360
+    xCorner = 50
+    graphPosition = 100 - 41.605839416058416
+
+
+    for (i = 0, j = dates.length; i < j; i+= pointDay)
+    {
+    	ctx.beginPath();
+    	ctx.moveTo((i + xCorner),
+    			  (graphHeight + graphPosition) - transformer(temp[i]));
+    	ctx.lineTo((i + xCorner + pointDay), (graphHeight + graphPosition) - transformer(temp[i + pointDay]));
+    	ctx.stroke();
+    }
+
+    ctx.beginPath();
+    ctx.moveTo(xCorner, yCorner)
+    ctx.lineTo(xCorner + dates.length, yCorner)
+    ctx.stroke();
+
+    var month = new Array();
+    month[0] = "Jan";
+    month[1] = "Feb";
+    month[2] = "Mar";
+    month[3] = "Apr";
+    month[4] = "May";
+    month[5] = "Jun";
+    month[6] = "Jul";
+    month[7] = "Aug";
+    month[8] = "Sept";
+    month[9] = "Oct";
+    month[10] = "Nov";
+    month[11] = "Dec";
+
+    var counter = dates[0].getMonth();
+    markerPoint = 10
+    markerText = 30
+
+    // put down markers on axis for each month
+    for (i = xCorner, j = xCorner + dates.length; i < j; i ++)
+    {
+    	// ensure markers appear for first of each month
+    	if (counter == dates[(i-xCorner)].getMonth())
+    	{
+    		counter ++;
+    		ctx.beginPath();
+    		ctx.moveTo(i, yCorner)
+    		ctx.lineTo(i, yCorner + markerPoint)
+    		ctx.fillText(month[dates[(i - xCorner)].getMonth()],
+    					i, yCorner + markerText)
+    		ctx.stroke();
+    	}
+    }
+
+
+
+    Yaxis = 320
+
+    // create y Axis
+    ctx.beginPath();
+    ctx.moveTo(xCorner, yCorner)
+    ctx.lineTo(xCorner, yCorner - Yaxis)
+    ctx.stroke();
+
+    // put markers on x Axis
+    xMarkers = 8
+    Markertemp = Yaxis / xMarkers
+
+
+
+    for (i = yCorner - Yaxis; i <= yCorner; i ++)
+    {
+    	if (i % Markertemp == 0)
+    	{
+    		
+    		ctx.beginPath();
+    		ctx.moveTo(xCorner, i)
+    		ctx.lineTo(xCorner - markerPoint, i)
+    		ctx.fillText(i - 80,
+    					xCorner - markerText,
+    					yCorner - i + Markertemp);
+    		ctx.stroke();
+    	}
+    }
+  }
+}
+xhttp.open("GET", "KNMI.csv", true);
+xhttp.send();
+
+</script>
+
 </body>
 </html>
-</head>
