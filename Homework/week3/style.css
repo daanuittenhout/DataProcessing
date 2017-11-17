@@ -1,0 +1,35 @@
+
+/**/
+.svg text {
+  fill: black;
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+.axis text {
+  font: 10px sans-serif;
+}
+.y.axis text {
+  font: 15px sans-serif;
+
+}
+.bar:hover {
+  fill: yellow ;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.x.axis path {
+  display: none;
+}
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
