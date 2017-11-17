@@ -22,17 +22,6 @@
 
 <style>
 
-/*.chart div {
-  font: 10px sans-serif;
-  background-color: red;
-  text-align: left;
-  padding: 3px;
-  margin: 1px;
-  color: black;
-}*/
-.bar rect {
-  fill: yellow;
-}
 
 .svg text {
   fill: black;
@@ -68,25 +57,8 @@
   border-radius: 2px;
 }
 
-/* Creates a small triangle extender for the tooltip */
-.d3-tip:after {
-  box-sizing: border-box;
-  display: inline;
-  font-size: 10px;
-  width: 100%;
-  line-height: 1;
-  color: rgba(10, 10, 10, 0.8);
-  content: "\25BC";
-  position: absolute;
-  text-align: center;
-}
 
-/* Style northward tooltips differently */
-.d3-tip.n :after {
-  margin: -10px 0 0 0;
-  top: 100%;
-  left: 0;
-}
+
 </style>
 
 <svg class="chart"></svg>
@@ -129,7 +101,7 @@ var tip = d3.tip()
   .attr('class', 'd3-tip')
   .offset([-10, 0])
   .html(function(d) {
-    return "<strong>Market Capitalization:</strong> <span style='color:red'>" + d.Marketcap + "</span>";
+    return "<strong>Market Capitalization: $</strong> <span style='color:red'>" + d.Marketcap + "</span>";
   })
 
 
@@ -141,12 +113,6 @@ var svg = d3.select("body").append("svg")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 svg.call(tip);
-//
-// var chart = d3.select(".chart")
-//     .attr("width", width + margin.left + margin.right)
-//     .attr("height", height + margin.top + margin.bottom)
-//   .append("g")
-//     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 
 d3.json("bitcoin_price.json", function(error, data) {
