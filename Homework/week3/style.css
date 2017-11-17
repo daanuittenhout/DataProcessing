@@ -1,5 +1,7 @@
-
-/**/
+/*Daan Uittenhout
+  style sheet for barchart.html
+*/
+/*set text style*/
 .svg text {
   fill: black;
   font: 10px sans-serif;
@@ -12,10 +14,11 @@
   font: 15px sans-serif;
 
 }
+/*choose hover collour*/
 .bar:hover {
   fill: yellow ;
 }
-
+/*set axis*/
 .axis path,
 .axis line {
   fill: none;
@@ -25,6 +28,7 @@
 .x.axis path {
   display: none;
 }
+/*set up tooltip layout*/
 .d3-tip {
   line-height: 1;
   font-weight: bold;

@@ -1,12 +1,4 @@
-d3.json("bitcoin_price.json", function(data) {
 
-var dates = []
-var marketcaps = []
-for (var i = 0; i < data.length; i++){
-  dates.push((data[i].Date));
-  marketcaps.push((data[i].Marketcap / 1000000));
-}
-})
 
 
 var margin = {top: 20, right: 30, bottom: 30, left: 40},
@@ -49,7 +41,7 @@ d3.json("bitcoin_price.json", function(error, data) {
 
     return d;
   })
-  console.log(data.map(function(d) { return d.Date; }));
+  
   x.domain(data.map(function(d) { return d.Date; }));
   y.domain([0, d3.max(data, function(d) { return d.Marketcap; })]);
 
