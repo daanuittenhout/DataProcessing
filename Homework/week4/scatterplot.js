@@ -118,16 +118,16 @@ var legend = svg.selectAll(".legend")
 
 // append rect to legend
 legend.append("rect")
-    .attr("x", width)
-    .attr("width", 18)
+    .attr("x", width + 30)
+    .attr("width", 10)
     .attr("height", 18)
     .style("fill", color);
-    
+
 // append text to legend
 legend.append("text")
-    .attr("x", width - 20)
+    .attr("x", width + 29)
     .attr("y", 9)
-    .attr("dy", ".35em")
+    .attr("dy", ".25em")
     .style("text-anchor", "end")
     .text(function(d) { return d; });
 
