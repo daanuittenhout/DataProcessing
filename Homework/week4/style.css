@@ -1,0 +1,24 @@
+/*set body style*/
+body {
+  font: 10px sans-serif;
+}
+/*set axis style*/
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+/*set dot style*/
+.dot {
+  stroke: #000;
+}
+/*set mouse over slyle*/
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 1, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
