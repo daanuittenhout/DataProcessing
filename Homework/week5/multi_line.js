@@ -65,21 +65,66 @@ d3.json("data.json", function(error, data) {
 	// Scale the range of the data
 	x.domain(d3.extent(data, function(d) { return d.date; }));
 	y.domain([0, d3.max(data, function(d) { return Math.max(d.Belgium , d.Netherlands, d.Luxembourg); })]);
+d3.select("#inds").on("change", function () {
+	console.log(d3.select(this).node().value);
+
+	updateData(d3.select(this).node().value)
+})
+function updateData(key) {
+
+		    // Get the data again
+
+    	// Scale the range of the data again
+console.log();
+	  y.domain([0, d3.max(data, function(d) { return Math.max(d["Belgium" + key] , d["Netherlands" + key], d["Luxembourg" + key]) })]);
+
+    // Select the section we want to apply our changes to
+    var svg = d3.select("body").transition();
+
+		var	valueline4 = d3.svg.line()
+			.x(function(d) { return x(d.date); })
+			.y(function(d) { return y(d["Belgium" + key]); });
+
+		var	valueline5 = d3.svg.line()
+			.x(function(d) { return x(d.date); })
+			.y(function(d) { return y(d["Netherlands" + key]); });
+
+		var	valueline6 = d3.svg.line()
+			.x(function(d) { return x(d.date); })
+			.y(function(d) { return y(d["Luxembourg" + key]); });
+
+    // Make the changes
+
+        svg.select(".y.axis") // change the y axis
+            .duration(750)
+            .call(yAxis);
+
+				d3.select("svg g").select(".line.one")
+					.attr("d", valueline4(data));
+
+				d3.select("svg g").select(".line.two")
+					.attr("d", valueline5(data));
+
+				d3.select("svg g").select(".line.three")	// Add the valueline3 path
+					.attr("d", valueline6(data));
+					
+};
+
 
 	svg.append("path")		// Add the valueline path.
-		.attr("class", "line")
+		.attr("class", "line one")
 		.style("stroke", "black")
 		.style("fill", "none")
 		.attr("d", valueline(data));
 
 	svg.append("path")		// Add the valueline2 path.
-		.attr("class", "line")
+		.attr("class", "line two")
 		.style("stroke", "blue")
 		.style("fill", "none")
 		.attr("d", valueline2(data));
 
 	svg.append("path")		// Add the valueline3 path.
-		.attr("class", "line")
+		.attr("class", "line three")
 		.style("stroke", "red")
 		.style("fill", "none")
 		.attr("d", valueline3(data));
@@ -251,7 +296,6 @@ d3.json("data.json", function(error, data) {
 
 	    focus.attr("transform", "translate(" + x(d.date) + "," + y(d.Netherlands) + ")");
 
-	    // focus.select("text").text((d.Netherlands));
 			// draw line to x-axis
 			focus.select("#line_x").attr("x1", -x(d.date));
 
