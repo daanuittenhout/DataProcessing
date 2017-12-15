@@ -1,0 +1,4496 @@
+{
+  "2004": {
+    "state01": {
+      "Population": "4525375",
+      "Violent crime rate": "427",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "38.5",
+      "Robbery rate": "133.5",
+      "Aggravated assault rate": "249.4"
+    },
+    "state02": {
+      "Population": "657755",
+      "Violent crime rate": "632.3",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "84.8",
+      "Robbery rate": "68",
+      "Aggravated assault rate": "473.9"
+    },
+    "state04": {
+      "Population": "5739879",
+      "Violent crime rate": "504.4",
+      "Murder and nonnegligent Manslaughter rate": "7.2",
+      "Legacy rape rate": "33",
+      "Robbery rate": "134.5",
+      "Aggravated assault rate": "329.6"
+    },
+    "state05": {
+      "Population": "2750000",
+      "Violent crime rate": "502.3",
+      "Murder and nonnegligent Manslaughter rate": "6.4",
+      "Legacy rape rate": "43",
+      "Robbery rate": "86.3",
+      "Aggravated assault rate": "366.7"
+    },
+    "state06": {
+      "Population": "35842038",
+      "Violent crime rate": "527.8",
+      "Murder and nonnegligent Manslaughter rate": "6.7",
+      "Legacy rape rate": "26.8",
+      "Robbery rate": "172.3",
+      "Aggravated assault rate": "322"
+    },
+    "state08": {
+      "Population": "4601821",
+      "Violent crime rate": "372",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "42.3",
+      "Robbery rate": "81.3",
+      "Aggravated assault rate": "244.2"
+    },
+    "state09": {
+      "Population": "3498966",
+      "Violent crime rate": "289",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "21.6",
+      "Robbery rate": "119.7",
+      "Aggravated assault rate": "144.9"
+    },
+    "state10": {
+      "Population": "830069",
+      "Violent crime rate": "615",
+      "Murder and nonnegligent Manslaughter rate": "3.4",
+      "Legacy rape rate": "43",
+      "Robbery rate": "161.8",
+      "Aggravated assault rate": "406.8"
+    },
+    "state11": {
+      "Population": "554239",
+      "Violent crime rate": "1369.4",
+      "Murder and nonnegligent Manslaughter rate": "35.7",
+      "Legacy rape rate": "40.1",
+      "Robbery rate": "577.7",
+      "Aggravated assault rate": "715.9"
+    },
+    "state12": {
+      "Population": "17385430",
+      "Violent crime rate": "711.8",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "38",
+      "Robbery rate": "172.5",
+      "Aggravated assault rate": "495.8"
+    },
+    "state13": {
+      "Population": "8918129",
+      "Violent crime rate": "451",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "26.8",
+      "Robbery rate": "153.1",
+      "Aggravated assault rate": "264.2"
+    },
+    "state15": {
+      "Population": "1262124",
+      "Violent crime rate": "254.6",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "26.4",
+      "Robbery rate": "74.8",
+      "Aggravated assault rate": "150.8"
+    },
+    "state16": {
+      "Population": "1395140",
+      "Violent crime rate": "247.4",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "42.6",
+      "Robbery rate": "17.3",
+      "Aggravated assault rate": "185.4"
+    },
+    "state17": {
+      "Population": "12712016",
+      "Violent crime rate": "545.7",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "33.2",
+      "Robbery rate": "177.6",
+      "Aggravated assault rate": "328.7"
+    },
+    "state18": {
+      "Population": "6226537",
+      "Violent crime rate": "325.9",
+      "Murder and nonnegligent Manslaughter rate": "5.1",
+      "Legacy rape rate": "29",
+      "Robbery rate": "102.4",
+      "Aggravated assault rate": "189.5"
+    },
+    "state19": {
+      "Population": "2952904",
+      "Violent crime rate": "287.8",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "26.5",
+      "Robbery rate": "39.3",
+      "Aggravated assault rate": "220.6"
+    },
+    "state20": {
+      "Population": "2733697",
+      "Violent crime rate": "377.9",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "41.8",
+      "Robbery rate": "66.3",
+      "Aggravated assault rate": "265.4"
+    },
+    "state21": {
+      "Population": "4141835",
+      "Violent crime rate": "245.1",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "29.9",
+      "Robbery rate": "78.9",
+      "Aggravated assault rate": "130.6"
+    },
+    "state22": {
+      "Population": "4506685",
+      "Violent crime rate": "640",
+      "Murder and nonnegligent Manslaughter rate": "12.7",
+      "Legacy rape rate": "35.9",
+      "Robbery rate": "145.7",
+      "Aggravated assault rate": "445.8"
+    },
+    "state23": {
+      "Population": "1314985",
+      "Violent crime rate": "103.7",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "24",
+      "Robbery rate": "22",
+      "Aggravated assault rate": "56.4"
+    },
+    "state24": {
+      "Population": "5561332",
+      "Violent crime rate": "700.6",
+      "Murder and nonnegligent Manslaughter rate": "9.4",
+      "Legacy rape rate": "23.7",
+      "Robbery rate": "229.7",
+      "Aggravated assault rate": "437.9"
+    },
+    "state25": {
+      "Population": "6407382",
+      "Violent crime rate": "460.2",
+      "Murder and nonnegligent Manslaughter rate": "2.7",
+      "Legacy rape rate": "28",
+      "Robbery rate": "116.8",
+      "Aggravated assault rate": "312.8"
+    },
+    "state26": {
+      "Population": "10104206",
+      "Violent crime rate": "492.2",
+      "Murder and nonnegligent Manslaughter rate": "6.4",
+      "Legacy rape rate": "54.3",
+      "Robbery rate": "112.2",
+      "Aggravated assault rate": "319.4"
+    },
+    "state27": {
+      "Population": "5096546",
+      "Violent crime rate": "269.8",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "41.7",
+      "Robbery rate": "79.9",
+      "Aggravated assault rate": "146.1"
+    },
+    "state28": {
+      "Population": "2900768",
+      "Violent crime rate": "295.4",
+      "Murder and nonnegligent Manslaughter rate": "7.8",
+      "Legacy rape rate": "40",
+      "Robbery rate": "86.3",
+      "Aggravated assault rate": "161.2"
+    },
+    "state29": {
+      "Population": "5759532",
+      "Violent crime rate": "490.1",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "25.7",
+      "Robbery rate": "115.1",
+      "Aggravated assault rate": "343.1"
+    },
+    "state30": {
+      "Population": "926920",
+      "Violent crime rate": "293.8",
+      "Murder and nonnegligent Manslaughter rate": "3.2",
+      "Legacy rape rate": "29.5",
+      "Robbery rate": "25.1",
+      "Aggravated assault rate": "235.9"
+    },
+    "state31": {
+      "Population": "1747704",
+      "Violent crime rate": "308.6",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "35.5",
+      "Robbery rate": "65.1",
+      "Aggravated assault rate": "205.7"
+    },
+    "state32": {
+      "Population": "2332898",
+      "Violent crime rate": "616.4",
+      "Murder and nonnegligent Manslaughter rate": "7.4",
+      "Legacy rape rate": "40.9",
+      "Robbery rate": "210.3",
+      "Aggravated assault rate": "357.8"
+    },
+    "state33": {
+      "Population": "1299169",
+      "Violent crime rate": "169.5",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "35.9",
+      "Robbery rate": "38.5",
+      "Aggravated assault rate": "93.8"
+    },
+    "state34": {
+      "Population": "8685166",
+      "Violent crime rate": "356.3",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "15.3",
+      "Robbery rate": "150.6",
+      "Aggravated assault rate": "185.9"
+    },
+    "state35": {
+      "Population": "1903006",
+      "Violent crime rate": "687.4",
+      "Murder and nonnegligent Manslaughter rate": "8.9",
+      "Legacy rape rate": "54.6",
+      "Robbery rate": "108.4",
+      "Aggravated assault rate": "515.6"
+    },
+    "state36": {
+      "Population": "19280727",
+      "Violent crime rate": "440.4",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "18.7",
+      "Robbery rate": "173.8",
+      "Aggravated assault rate": "243.3"
+    },
+    "state37": {
+      "Population": "636308",
+      "Violent crime rate": "87.7",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "27.8",
+      "Robbery rate": "6.8",
+      "Aggravated assault rate": "51.9"
+    },
+    "state39": {
+      "Population": "11450143",
+      "Violent crime rate": "338.7",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "41.4",
+      "Robbery rate": "152.2",
+      "Aggravated assault rate": "140.7"
+    },
+    "state40": {
+      "Population": "3523546",
+      "Violent crime rate": "500.5",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "44.2",
+      "Robbery rate": "87.7",
+      "Aggravated assault rate": "363.3"
+    },
+    "state41": {
+      "Population": "3591363",
+      "Violent crime rate": "298.6",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "35.7",
+      "Robbery rate": "76.6",
+      "Aggravated assault rate": "183.8"
+    },
+    "state42": {
+      "Population": "12394471",
+      "Violent crime rate": "411.5",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "28.5",
+      "Robbery rate": "149.1",
+      "Aggravated assault rate": "228.6"
+    },
+    "state44": {
+      "Population": "1079916",
+      "Violent crime rate": "247.5",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "29.6",
+      "Robbery rate": "67.7",
+      "Aggravated assault rate": "147.8"
+    },
+    "state45": {
+      "Population": "4197892",
+      "Violent crime rate": "789.9",
+      "Murder and nonnegligent Manslaughter rate": "6.8",
+      "Legacy rape rate": "42.2",
+      "Robbery rate": "130.3",
+      "Aggravated assault rate": "610.6"
+    },
+    "state46": {
+      "Population": "770621",
+      "Violent crime rate": "171.2",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "43.6",
+      "Robbery rate": "14.5",
+      "Aggravated assault rate": "110.8"
+    },
+    "state47": {
+      "Population": "5893298",
+      "Violent crime rate": "697.6",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "38.7",
+      "Robbery rate": "150.4",
+      "Aggravated assault rate": "502.5"
+    },
+    "state48": {
+      "Population": "22471549",
+      "Violent crime rate": "540.9",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "37.3",
+      "Robbery rate": "159.4",
+      "Aggravated assault rate": "338.1"
+    },
+    "state49": {
+      "Population": "621233",
+      "Violent crime rate": "114.8",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "25.8",
+      "Robbery rate": "12.6",
+      "Aggravated assault rate": "73.9"
+    },
+    "state50": {
+      "Population": "7481332",
+      "Violent crime rate": "275.5",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "24.3",
+      "Robbery rate": "92.2",
+      "Aggravated assault rate": "153.8"
+    },
+    "state53": {
+      "Population": "6207046",
+      "Violent crime rate": "343.6",
+      "Murder and nonnegligent Manslaughter rate": "3.1",
+      "Legacy rape rate": "46",
+      "Robbery rate": "94.5",
+      "Aggravated assault rate": "200"
+    },
+    "state54": {
+      "Population": "1812548",
+      "Violent crime rate": "281.9",
+      "Murder and nonnegligent Manslaughter rate": "3.8",
+      "Legacy rape rate": "19.1",
+      "Robbery rate": "42.7",
+      "Aggravated assault rate": "216.4"
+    },
+    "state55": {
+      "Population": "5503533",
+      "Violent crime rate": "209.8",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "20.6",
+      "Robbery rate": "73.9",
+      "Aggravated assault rate": "112.5"
+    },
+    "state56": {
+      "Population": "505887",
+      "Violent crime rate": "229.9",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "22.1",
+      "Robbery rate": "13.2",
+      "Aggravated assault rate": "192.3"
+    }
+  },
+  "2005": {
+    "state01": {
+      "Population": "4548327",
+      "Violent crime rate": "433",
+      "Murder and nonnegligent Manslaughter rate": "8.2",
+      "Legacy rape rate": "34.4",
+      "Robbery rate": "141.7",
+      "Aggravated assault rate": "248.3"
+    },
+    "state02": {
+      "Population": "663253",
+      "Violent crime rate": "632",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "81.1",
+      "Robbery rate": "81",
+      "Aggravated assault rate": "465.4"
+    },
+    "state04": {
+      "Population": "5953007",
+      "Violent crime rate": "512",
+      "Murder and nonnegligent Manslaughter rate": "7.5",
+      "Legacy rape rate": "33.7",
+      "Robbery rate": "144.1",
+      "Aggravated assault rate": "326.7"
+    },
+    "state05": {
+      "Population": "2775708",
+      "Violent crime rate": "528",
+      "Murder and nonnegligent Manslaughter rate": "6.8",
+      "Legacy rape rate": "43.3",
+      "Robbery rate": "91.2",
+      "Aggravated assault rate": "387.2"
+    },
+    "state06": {
+      "Population": "36154147",
+      "Violent crime rate": "526",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "26",
+      "Robbery rate": "176",
+      "Aggravated assault rate": "317.1"
+    },
+    "state08": {
+      "Population": "4663295",
+      "Violent crime rate": "397",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "43.4",
+      "Robbery rate": "84.7",
+      "Aggravated assault rate": "264.9"
+    },
+    "state09": {
+      "Population": "3500701",
+      "Violent crime rate": "273",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "20.3",
+      "Robbery rate": "112.3",
+      "Aggravated assault rate": "136.9"
+    },
+    "state10": {
+      "Population": "841741",
+      "Violent crime rate": "633",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "44.8",
+      "Robbery rate": "155.2",
+      "Aggravated assault rate": "429.1"
+    },
+    "state11": {
+      "Population": "582049",
+      "Violent crime rate": "1380",
+      "Murder and nonnegligent Manslaughter rate": "33.5",
+      "Legacy rape rate": "28.5",
+      "Robbery rate": "635.7",
+      "Aggravated assault rate": "682.2"
+    },
+    "state12": {
+      "Population": "17768191",
+      "Violent crime rate": "709",
+      "Murder and nonnegligent Manslaughter rate": "5",
+      "Legacy rape rate": "37.1",
+      "Robbery rate": "169.6",
+      "Aggravated assault rate": "497.2"
+    },
+    "state13": {
+      "Population": "9132553",
+      "Violent crime rate": "446",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "23.5",
+      "Robbery rate": "153.7",
+      "Aggravated assault rate": "262.5"
+    },
+    "state15": {
+      "Population": "1273278",
+      "Violent crime rate": "256",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "26.9",
+      "Robbery rate": "78.6",
+      "Aggravated assault rate": "148"
+    },
+    "state16": {
+      "Population": "1429367",
+      "Violent crime rate": "257",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "40.4",
+      "Robbery rate": "18.6",
+      "Aggravated assault rate": "195.3"
+    },
+    "state17": {
+      "Population": "12765427",
+      "Violent crime rate": "552",
+      "Murder and nonnegligent Manslaughter rate": "6",
+      "Legacy rape rate": "33.8",
+      "Robbery rate": "182.2",
+      "Aggravated assault rate": "330.3"
+    },
+    "state18": {
+      "Population": "6266019",
+      "Violent crime rate": "324",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "29.6",
+      "Robbery rate": "108.7",
+      "Aggravated assault rate": "180"
+    },
+    "state19": {
+      "Population": "2965524",
+      "Violent crime rate": "293",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "28.6",
+      "Robbery rate": "38.9",
+      "Aggravated assault rate": "224.5"
+    },
+    "state20": {
+      "Population": "2748172",
+      "Violent crime rate": "389",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "40",
+      "Robbery rate": "65.3",
+      "Aggravated assault rate": "280.4"
+    },
+    "state21": {
+      "Population": "4172608",
+      "Violent crime rate": "267",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "34.1",
+      "Robbery rate": "88.4",
+      "Aggravated assault rate": "139.8"
+    },
+    "state22": {
+      "Population": "4507331",
+      "Violent crime rate": "597",
+      "Murder and nonnegligent Manslaughter rate": "10",
+      "Legacy rape rate": "31.5",
+      "Robbery rate": "118.4",
+      "Aggravated assault rate": "436.6"
+    },
+    "state23": {
+      "Population": "1318220",
+      "Violent crime rate": "112",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "24.7",
+      "Robbery rate": "24.5",
+      "Aggravated assault rate": "61.8"
+    },
+    "state24": {
+      "Population": "5589599",
+      "Violent crime rate": "704",
+      "Murder and nonnegligent Manslaughter rate": "9.9",
+      "Legacy rape rate": "22.6",
+      "Robbery rate": "257.2",
+      "Aggravated assault rate": "414.6"
+    },
+    "state25": {
+      "Population": "6433367",
+      "Violent crime rate": "461",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "27.2",
+      "Robbery rate": "121.8",
+      "Aggravated assault rate": "309"
+    },
+    "state26": {
+      "Population": "10100833",
+      "Violent crime rate": "554",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "51.5",
+      "Robbery rate": "132.1",
+      "Aggravated assault rate": "363.9"
+    },
+    "state27": {
+      "Population": "5126739",
+      "Violent crime rate": "297",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "44",
+      "Robbery rate": "92.1",
+      "Aggravated assault rate": "158.9"
+    },
+    "state28": {
+      "Population": "2908496",
+      "Violent crime rate": "280",
+      "Murder and nonnegligent Manslaughter rate": "7.4",
+      "Legacy rape rate": "39.4",
+      "Robbery rate": "82.7",
+      "Aggravated assault rate": "150.1"
+    },
+    "state29": {
+      "Population": "5797703",
+      "Violent crime rate": "526",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "28",
+      "Robbery rate": "124.1",
+      "Aggravated assault rate": "366.6"
+    },
+    "state30": {
+      "Population": "934737",
+      "Violent crime rate": "282",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "32.2",
+      "Robbery rate": "18.9",
+      "Aggravated assault rate": "228.7"
+    },
+    "state31": {
+      "Population": "1758163",
+      "Violent crime rate": "287",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "33",
+      "Robbery rate": "59.2",
+      "Aggravated assault rate": "192.6"
+    },
+    "state32": {
+      "Population": "2412301",
+      "Violent crime rate": "608",
+      "Murder and nonnegligent Manslaughter rate": "8.5",
+      "Legacy rape rate": "42.1",
+      "Robbery rate": "194.9",
+      "Aggravated assault rate": "361.9"
+    },
+    "state33": {
+      "Population": "1306819",
+      "Violent crime rate": "135",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "31.1",
+      "Robbery rate": "27.9",
+      "Aggravated assault rate": "74.3"
+    },
+    "state34": {
+      "Population": "8703150",
+      "Violent crime rate": "355",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "13.9",
+      "Robbery rate": "151.8",
+      "Aggravated assault rate": "184.7"
+    },
+    "state35": {
+      "Population": "1925985",
+      "Violent crime rate": "646",
+      "Murder and nonnegligent Manslaughter rate": "7.5",
+      "Legacy rape rate": "54.1",
+      "Robbery rate": "98.3",
+      "Aggravated assault rate": "486.5"
+    },
+    "state36": {
+      "Population": "19315721",
+      "Violent crime rate": "444",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "18.8",
+      "Robbery rate": "182.1",
+      "Aggravated assault rate": "238.9"
+    },
+    "state37": {
+      "Population": "8672459",
+      "Violent crime rate": "469",
+      "Murder and nonnegligent Manslaughter rate": "6.7",
+      "Legacy rape rate": "26.5",
+      "Robbery rate": "145.7",
+      "Aggravated assault rate": "289.7"
+    },
+    "state38": {
+      "Population": "634605",
+      "Violent crime rate": "111",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "28.4",
+      "Robbery rate": "8.5",
+      "Aggravated assault rate": "72.5"
+    },
+    "state39": {
+      "Population": "11470685",
+      "Violent crime rate": "350",
+      "Murder and nonnegligent Manslaughter rate": "5.1",
+      "Legacy rape rate": "40.7",
+      "Robbery rate": "162.8",
+      "Aggravated assault rate": "141.5"
+    },
+    "state40": {
+      "Population": "3543442",
+      "Violent crime rate": "509",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "41.8",
+      "Robbery rate": "91.2",
+      "Aggravated assault rate": "371"
+    },
+    "state41": {
+      "Population": "3638871",
+      "Violent crime rate": "287",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "34.8",
+      "Robbery rate": "68.1",
+      "Aggravated assault rate": "181.9"
+    },
+    "state42": {
+      "Population": "12405348",
+      "Violent crime rate": "425",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "28.9",
+      "Robbery rate": "154.9",
+      "Aggravated assault rate": "235.4"
+    },
+    "state44": {
+      "Population": "1073579",
+      "Violent crime rate": "252",
+      "Murder and nonnegligent Manslaughter rate": "3.2",
+      "Legacy rape rate": "30.1",
+      "Robbery rate": "72.3",
+      "Aggravated assault rate": "146.9"
+    },
+    "state45": {
+      "Population": "4246933",
+      "Violent crime rate": "767",
+      "Murder and nonnegligent Manslaughter rate": "7.4",
+      "Legacy rape rate": "43.8",
+      "Robbery rate": "133.2",
+      "Aggravated assault rate": "582.9"
+    },
+    "state46": {
+      "Population": "774883",
+      "Violent crime rate": "179",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "48.7",
+      "Robbery rate": "18.7",
+      "Aggravated assault rate": "109.3"
+    },
+    "state47": {
+      "Population": "5955745",
+      "Violent crime rate": "757",
+      "Murder and nonnegligent Manslaughter rate": "7.2",
+      "Legacy rape rate": "36.8",
+      "Robbery rate": "168.1",
+      "Aggravated assault rate": "545.2"
+    },
+    "state48": {
+      "Population": "22928508",
+      "Violent crime rate": "528",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "37.1",
+      "Robbery rate": "156.1",
+      "Aggravated assault rate": "328.8"
+    },
+    "state49": {
+      "Population": "2490334",
+      "Violent crime rate": "225",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "36.9",
+      "Robbery rate": "44",
+      "Aggravated assault rate": "142.2"
+    },
+    "state50": {
+      "Population": "622387",
+      "Violent crime rate": "126",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "24.6",
+      "Robbery rate": "12.2",
+      "Aggravated assault rate": "87.6"
+    },
+    "state51": {
+      "Population": "7564327",
+      "Violent crime rate": "283",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "23.3",
+      "Robbery rate": "99.1",
+      "Aggravated assault rate": "154.9"
+    },
+    "state53": {
+      "Population": "6291899",
+      "Violent crime rate": "346",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "44.7",
+      "Robbery rate": "92",
+      "Aggravated assault rate": "205.7"
+    },
+    "state54": {
+      "Population": "1814083",
+      "Violent crime rate": "274",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "18.5",
+      "Robbery rate": "45",
+      "Aggravated assault rate": "205.9"
+    },
+    "state55": {
+      "Population": "5527644",
+      "Violent crime rate": "242",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "20.5",
+      "Robbery rate": "82.4",
+      "Aggravated assault rate": "135.2"
+    },
+    "state56": {
+      "Population": "508798",
+      "Violent crime rate": "230",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "24",
+      "Robbery rate": "15.3",
+      "Aggravated assault rate": "188.3"
+    }
+  },
+  "2006": {
+    "state01": {
+      "Population": "4599030",
+      "Violent crime rate": "425.2",
+      "Murder and nonnegligent Manslaughter rate": "8.3",
+      "Legacy rape rate": "35.8",
+      "Robbery rate": "153.6",
+      "Aggravated assault rate": "227.5"
+    },
+    "state02": {
+      "Population": "670053",
+      "Violent crime rate": "688",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "76.4",
+      "Robbery rate": "89.5",
+      "Aggravated assault rate": "516.7"
+    },
+    "state04": {
+      "Population": "6166318",
+      "Violent crime rate": "542.6",
+      "Murder and nonnegligent Manslaughter rate": "8.6",
+      "Legacy rape rate": "39.7",
+      "Robbery rate": "153.9",
+      "Aggravated assault rate": "340.3"
+    },
+    "state05": {
+      "Population": "2810872",
+      "Violent crime rate": "552.8",
+      "Murder and nonnegligent Manslaughter rate": "7.3",
+      "Legacy rape rate": "47.1",
+      "Robbery rate": "97.8",
+      "Aggravated assault rate": "400.6"
+    },
+    "state06": {
+      "Population": "36457549",
+      "Violent crime rate": "533.5",
+      "Murder and nonnegligent Manslaughter rate": "6.8",
+      "Legacy rape rate": "25.3",
+      "Robbery rate": "195.1",
+      "Aggravated assault rate": "306.2"
+    },
+    "state08": {
+      "Population": "4753377",
+      "Violent crime rate": "395.4",
+      "Murder and nonnegligent Manslaughter rate": "3.6",
+      "Legacy rape rate": "45.4",
+      "Robbery rate": "80.4",
+      "Aggravated assault rate": "265.9"
+    },
+    "state09": {
+      "Population": "3504809",
+      "Violent crime rate": "299.7",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "19.9",
+      "Robbery rate": "127.3",
+      "Aggravated assault rate": "148.7"
+    },
+    "state10": {
+      "Population": "853476",
+      "Violent crime rate": "701",
+      "Murder and nonnegligent Manslaughter rate": "4.9",
+      "Legacy rape rate": "48.9",
+      "Robbery rate": "209.8",
+      "Aggravated assault rate": "437.4"
+    },
+    "state11": {
+      "Population": "581530",
+      "Violent crime rate": "1508.4",
+      "Murder and nonnegligent Manslaughter rate": "29.1",
+      "Legacy rape rate": "31.8",
+      "Robbery rate": "658.4",
+      "Aggravated assault rate": "789.1"
+    },
+    "state12": {
+      "Population": "18089888",
+      "Violent crime rate": "716.4",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "35.8",
+      "Robbery rate": "188.8",
+      "Aggravated assault rate": "485.6"
+    },
+    "state13": {
+      "Population": "9363941",
+      "Violent crime rate": "477.9",
+      "Murder and nonnegligent Manslaughter rate": "6.5",
+      "Legacy rape rate": "23.2",
+      "Robbery rate": "165.6",
+      "Aggravated assault rate": "282.7"
+    },
+    "state15": {
+      "Population": "1285498",
+      "Violent crime rate": "280.7",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "27.5",
+      "Robbery rate": "89",
+      "Aggravated assault rate": "162.6"
+    },
+    "state16": {
+      "Population": "1466465",
+      "Violent crime rate": "250",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "41.7",
+      "Robbery rate": "20",
+      "Aggravated assault rate": "185.9"
+    },
+    "state17": {
+      "Population": "12831970",
+      "Violent crime rate": "541.6",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "31.8",
+      "Robbery rate": "185.3",
+      "Aggravated assault rate": "318.4"
+    },
+    "state18": {
+      "Population": "6313520",
+      "Violent crime rate": "321.6",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "28.7",
+      "Robbery rate": "113.6",
+      "Aggravated assault rate": "173.5"
+    },
+    "state19": {
+      "Population": "2982085",
+      "Violent crime rate": "285.7",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "29.2",
+      "Robbery rate": "43.9",
+      "Aggravated assault rate": "210.8"
+    },
+    "state20": {
+      "Population": "2764075",
+      "Violent crime rate": "432.7",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "46.3",
+      "Robbery rate": "67.9",
+      "Aggravated assault rate": "314"
+    },
+    "state21": {
+      "Population": "4206074",
+      "Violent crime rate": "270.1",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "31.2",
+      "Robbery rate": "91.5",
+      "Aggravated assault rate": "143.3"
+    },
+    "state22": {
+      "Population": "4287768",
+      "Violent crime rate": "721.2",
+      "Murder and nonnegligent Manslaughter rate": "12.9",
+      "Legacy rape rate": "37",
+      "Robbery rate": "138.3",
+      "Aggravated assault rate": "533"
+    },
+    "state23": {
+      "Population": "1321574",
+      "Violent crime rate": "116",
+      "Murder and nonnegligent Manslaughter rate": "1.7",
+      "Legacy rape rate": "25.8",
+      "Robbery rate": "29",
+      "Aggravated assault rate": "59.5"
+    },
+    "state24": {
+      "Population": "5615727",
+      "Violent crime rate": "678.6",
+      "Murder and nonnegligent Manslaughter rate": "9.7",
+      "Legacy rape rate": "21",
+      "Robbery rate": "256",
+      "Aggravated assault rate": "392"
+    },
+    "state25": {
+      "Population": "6437193",
+      "Violent crime rate": "500.5",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "27.5",
+      "Robbery rate": "125.5",
+      "Aggravated assault rate": "344.5"
+    },
+    "state26": {
+      "Population": "10095643",
+      "Violent crime rate": "564.4",
+      "Murder and nonnegligent Manslaughter rate": "7.1",
+      "Legacy rape rate": "53",
+      "Robbery rate": "140.9",
+      "Aggravated assault rate": "363.4"
+    },
+    "state27": {
+      "Population": "5167101",
+      "Violent crime rate": "310.5",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "31.8",
+      "Robbery rate": "105.3",
+      "Aggravated assault rate": "170.9"
+    },
+    "state28": {
+      "Population": "2910540",
+      "Violent crime rate": "311.8",
+      "Murder and nonnegligent Manslaughter rate": "7.9",
+      "Legacy rape rate": "35.7",
+      "Robbery rate": "112",
+      "Aggravated assault rate": "156.2"
+    },
+    "state29": {
+      "Population": "5842713",
+      "Violent crime rate": "545.9",
+      "Murder and nonnegligent Manslaughter rate": "6.3",
+      "Legacy rape rate": "30.2",
+      "Robbery rate": "130",
+      "Aggravated assault rate": "379.4"
+    },
+    "state30": {
+      "Population": "944632",
+      "Violent crime rate": "377.3",
+      "Murder and nonnegligent Manslaughter rate": "3.5",
+      "Legacy rape rate": "36.8",
+      "Robbery rate": "24.7",
+      "Aggravated assault rate": "312.3"
+    },
+    "state31": {
+      "Population": "1768331",
+      "Violent crime rate": "293.9",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "32.6",
+      "Robbery rate": "64.2",
+      "Aggravated assault rate": "194.1"
+    },
+    "state32": {
+      "Population": "2495529",
+      "Violent crime rate": "748.8",
+      "Murder and nonnegligent Manslaughter rate": "9.1",
+      "Legacy rape rate": "43.8",
+      "Robbery rate": "282",
+      "Aggravated assault rate": "414"
+    },
+    "state33": {
+      "Population": "1314895",
+      "Violent crime rate": "138.8",
+      "Murder and nonnegligent Manslaughter rate": "1",
+      "Legacy rape rate": "22.4",
+      "Robbery rate": "33.1",
+      "Aggravated assault rate": "79.2"
+    },
+    "state34": {
+      "Population": "8724560",
+      "Violent crime rate": "350.2",
+      "Murder and nonnegligent Manslaughter rate": "4.9",
+      "Legacy rape rate": "13.8",
+      "Robbery rate": "153.1",
+      "Aggravated assault rate": "178.4"
+    },
+    "state35": {
+      "Population": "1954599",
+      "Violent crime rate": "654.7",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "54.9",
+      "Robbery rate": "107.2",
+      "Aggravated assault rate": "485.8"
+    },
+    "state36": {
+      "Population": "19306183",
+      "Violent crime rate": "435.2",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "16.4",
+      "Robbery rate": "178.5",
+      "Aggravated assault rate": "235.5"
+    },
+    "state37": {
+      "Population": "8856505",
+      "Violent crime rate": "475.2",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "28.2",
+      "Robbery rate": "152.1",
+      "Aggravated assault rate": "288.9"
+    },
+    "state38": {
+      "Population": "635867",
+      "Violent crime rate": "197.4",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "37.9",
+      "Robbery rate": "11.8",
+      "Aggravated assault rate": "145.5"
+    },
+    "state39": {
+      "Population": "11478006",
+      "Violent crime rate": "361.5",
+      "Murder and nonnegligent Manslaughter rate": "4.9",
+      "Legacy rape rate": "41.6",
+      "Robbery rate": "169.2",
+      "Aggravated assault rate": "145.9"
+    },
+    "state40": {
+      "Population": "3579212",
+      "Violent crime rate": "500.2",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "41.6",
+      "Robbery rate": "87.9",
+      "Aggravated assault rate": "364.9"
+    },
+    "state41": {
+      "Population": "3700758",
+      "Violent crime rate": "284.6",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "32.9",
+      "Robbery rate": "73.3",
+      "Aggravated assault rate": "176.1"
+    },
+    "state42": {
+      "Population": "12440621",
+      "Violent crime rate": "442.3",
+      "Murder and nonnegligent Manslaughter rate": "6",
+      "Legacy rape rate": "29",
+      "Robbery rate": "169.6",
+      "Aggravated assault rate": "237.8"
+    },
+    "state44": {
+      "Population": "1067610",
+      "Violent crime rate": "230.4",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "27.1",
+      "Robbery rate": "69.3",
+      "Aggravated assault rate": "131.5"
+    },
+    "state45": {
+      "Population": "4321249",
+      "Violent crime rate": "771.1",
+      "Murder and nonnegligent Manslaughter rate": "8.4",
+      "Legacy rape rate": "42.4",
+      "Robbery rate": "136.6",
+      "Aggravated assault rate": "583.7"
+    },
+    "state46": {
+      "Population": "781919",
+      "Violent crime rate": "264.9",
+      "Murder and nonnegligent Manslaughter rate": "3.8",
+      "Legacy rape rate": "59.5",
+      "Robbery rate": "20.2",
+      "Aggravated assault rate": "181.3"
+    },
+    "state47": {
+      "Population": "6038803",
+      "Violent crime rate": "762.5",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "36.3",
+      "Robbery rate": "184.5",
+      "Aggravated assault rate": "534.7"
+    },
+    "state48": {
+      "Population": "23507783",
+      "Violent crime rate": "517.3",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "35.9",
+      "Robbery rate": "158.5",
+      "Aggravated assault rate": "317"
+    },
+    "state49": {
+      "Population": "2550063",
+      "Violent crime rate": "226.3",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "34.9",
+      "Robbery rate": "48.7",
+      "Aggravated assault rate": "140.7"
+    },
+    "state50": {
+      "Population": "623908",
+      "Violent crime rate": "145.1",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "27.7",
+      "Robbery rate": "18.3",
+      "Aggravated assault rate": "96.8"
+    },
+    "state51": {
+      "Population": "7642884",
+      "Violent crime rate": "283.7",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "23.9",
+      "Robbery rate": "101.8",
+      "Aggravated assault rate": "152.7"
+    },
+    "state53": {
+      "Population": "6395798",
+      "Violent crime rate": "348.7",
+      "Murder and nonnegligent Manslaughter rate": "3.1",
+      "Legacy rape rate": "43",
+      "Robbery rate": "100.4",
+      "Aggravated assault rate": "202.2"
+    },
+    "state54": {
+      "Population": "1818470",
+      "Violent crime rate": "281.2",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "22.2",
+      "Robbery rate": "46.9",
+      "Aggravated assault rate": "207.6"
+    },
+    "state55": {
+      "Population": "5556506",
+      "Violent crime rate": "286.1",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "22.2",
+      "Robbery rate": "100.1",
+      "Aggravated assault rate": "160.8"
+    },
+    "state56": {
+      "Population": "515004",
+      "Violent crime rate": "253.8",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "29.3",
+      "Robbery rate": "14",
+      "Aggravated assault rate": "208"
+    }
+  },
+  "2007": {
+    "state01": {
+      "Population": "4627851",
+      "Violent crime rate": "448.9",
+      "Murder and nonnegligent Manslaughter rate": "8.9",
+      "Legacy rape rate": "33.4",
+      "Robbery rate": "159.9",
+      "Aggravated assault rate": "246.7"
+    },
+    "state02": {
+      "Population": "683478",
+      "Violent crime rate": "661.3",
+      "Murder and nonnegligent Manslaughter rate": "6.3",
+      "Legacy rape rate": "79.7",
+      "Robbery rate": "85",
+      "Aggravated assault rate": "490.3"
+    },
+    "state04": {
+      "Population": "6338755",
+      "Violent crime rate": "518",
+      "Murder and nonnegligent Manslaughter rate": "8.6",
+      "Legacy rape rate": "37.1",
+      "Robbery rate": "154",
+      "Aggravated assault rate": "318.2"
+    },
+    "state05": {
+      "Population": "2834797",
+      "Violent crime rate": "537.1",
+      "Murder and nonnegligent Manslaughter rate": "7",
+      "Legacy rape rate": "45.6",
+      "Robbery rate": "109.5",
+      "Aggravated assault rate": "374.9"
+    },
+    "state06": {
+      "Population": "36553215",
+      "Violent crime rate": "524.1",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "24.7",
+      "Robbery rate": "193.4",
+      "Aggravated assault rate": "299.7"
+    },
+    "state08": {
+      "Population": "4861515",
+      "Violent crime rate": "351.8",
+      "Murder and nonnegligent Manslaughter rate": "3.2",
+      "Legacy rape rate": "42.7",
+      "Robbery rate": "71.2",
+      "Aggravated assault rate": "234.7"
+    },
+    "state09": {
+      "Population": "3502309",
+      "Violent crime rate": "301.1",
+      "Murder and nonnegligent Manslaughter rate": "3.2",
+      "Legacy rape rate": "19.7",
+      "Robbery rate": "122.9",
+      "Aggravated assault rate": "155.4"
+    },
+    "state10": {
+      "Population": "864764",
+      "Violent crime rate": "705.4",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "39.4",
+      "Robbery rate": "203.9",
+      "Aggravated assault rate": "457.6"
+    },
+    "state11": {
+      "Population": "588292",
+      "Violent crime rate": "1415.1",
+      "Murder and nonnegligent Manslaughter rate": "30.8",
+      "Legacy rape rate": "32.6",
+      "Robbery rate": "725",
+      "Aggravated assault rate": "626.7"
+    },
+    "state12": {
+      "Population": "18251243",
+      "Violent crime rate": "722.6",
+      "Murder and nonnegligent Manslaughter rate": "6.6",
+      "Legacy rape rate": "33.7",
+      "Robbery rate": "209.1",
+      "Aggravated assault rate": "473.2"
+    },
+    "state13": {
+      "Population": "9544750",
+      "Violent crime rate": "491.5",
+      "Murder and nonnegligent Manslaughter rate": "7.5",
+      "Legacy rape rate": "23",
+      "Robbery rate": "181.2",
+      "Aggravated assault rate": "279.8"
+    },
+    "state15": {
+      "Population": "1283388",
+      "Violent crime rate": "276.1",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "29.4",
+      "Robbery rate": "87.4",
+      "Aggravated assault rate": "157.5"
+    },
+    "state16": {
+      "Population": "1499402",
+      "Violent crime rate": "256.2",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "40.5",
+      "Robbery rate": "16.2",
+      "Aggravated assault rate": "196.2"
+    },
+    "state17": {
+      "Population": "12852548",
+      "Violent crime rate": "533.2",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "31.9",
+      "Robbery rate": "179.7",
+      "Aggravated assault rate": "315.7"
+    },
+    "state18": {
+      "Population": "6345289",
+      "Violent crime rate": "335.8",
+      "Murder and nonnegligent Manslaughter rate": "5.5",
+      "Legacy rape rate": "27.4",
+      "Robbery rate": "123.6",
+      "Aggravated assault rate": "179.3"
+    },
+    "state19": {
+      "Population": "2988046",
+      "Violent crime rate": "300.2",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "32.5",
+      "Robbery rate": "44.4",
+      "Aggravated assault rate": "222"
+    },
+    "state20": {
+      "Population": "2775997",
+      "Violent crime rate": "458.6",
+      "Murder and nonnegligent Manslaughter rate": "3.8",
+      "Legacy rape rate": "46.4",
+      "Robbery rate": "72.8",
+      "Aggravated assault rate": "335.6"
+    },
+    "state21": {
+      "Population": "4241474",
+      "Violent crime rate": "290.7",
+      "Murder and nonnegligent Manslaughter rate": "4.9",
+      "Legacy rape rate": "32.2",
+      "Robbery rate": "95.9",
+      "Aggravated assault rate": "157.7"
+    },
+    "state22": {
+      "Population": "4293204",
+      "Violent crime rate": "740.4",
+      "Murder and nonnegligent Manslaughter rate": "14.6",
+      "Legacy rape rate": "33.2",
+      "Robbery rate": "147.1",
+      "Aggravated assault rate": "545.5"
+    },
+    "state23": {
+      "Population": "1317207",
+      "Violent crime rate": "118.8",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "29.8",
+      "Robbery rate": "26.5",
+      "Aggravated assault rate": "61"
+    },
+    "state24": {
+      "Population": "5618344",
+      "Violent crime rate": "641.9",
+      "Murder and nonnegligent Manslaughter rate": "9.9",
+      "Legacy rape rate": "21",
+      "Robbery rate": "236",
+      "Aggravated assault rate": "375.1"
+    },
+    "state25": {
+      "Population": "6449755",
+      "Violent crime rate": "441.7",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "25.5",
+      "Robbery rate": "108.9",
+      "Aggravated assault rate": "304.4"
+    },
+    "state26": {
+      "Population": "10071822",
+      "Violent crime rate": "533.8",
+      "Murder and nonnegligent Manslaughter rate": "6.6",
+      "Legacy rape rate": "45.6",
+      "Robbery rate": "132.7",
+      "Aggravated assault rate": "349"
+    },
+    "state27": {
+      "Population": "5197621",
+      "Violent crime rate": "289.6",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "36",
+      "Robbery rate": "91.8",
+      "Aggravated assault rate": "159.6"
+    },
+    "state28": {
+      "Population": "2918785",
+      "Violent crime rate": "291.3",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "35.4",
+      "Robbery rate": "99.2",
+      "Aggravated assault rate": "149.8"
+    },
+    "state29": {
+      "Population": "5878415",
+      "Violent crime rate": "560.7",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "30.4",
+      "Robbery rate": "131.5",
+      "Aggravated assault rate": "392.7"
+    },
+    "state30": {
+      "Population": "957861",
+      "Violent crime rate": "379.8",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "37.9",
+      "Robbery rate": "24.3",
+      "Aggravated assault rate": "314.8"
+    },
+    "state31": {
+      "Population": "1774571",
+      "Violent crime rate": "311.3",
+      "Murder and nonnegligent Manslaughter rate": "4",
+      "Legacy rape rate": "31",
+      "Robbery rate": "62.8",
+      "Aggravated assault rate": "213.5"
+    },
+    "state32": {
+      "Population": "2565382",
+      "Violent crime rate": "754.9",
+      "Murder and nonnegligent Manslaughter rate": "7.5",
+      "Legacy rape rate": "42.7",
+      "Robbery rate": "270.4",
+      "Aggravated assault rate": "434.2"
+    },
+    "state33": {
+      "Population": "1315828",
+      "Violent crime rate": "144.1",
+      "Murder and nonnegligent Manslaughter rate": "0.9",
+      "Legacy rape rate": "27.1",
+      "Robbery rate": "34.3",
+      "Aggravated assault rate": "81.8"
+    },
+    "state34": {
+      "Population": "8685920",
+      "Violent crime rate": "328.6",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "11.9",
+      "Robbery rate": "144.7",
+      "Aggravated assault rate": "167.7"
+    },
+    "state35": {
+      "Population": "1969915",
+      "Violent crime rate": "675.7",
+      "Murder and nonnegligent Manslaughter rate": "9.3",
+      "Legacy rape rate": "52.2",
+      "Robbery rate": "117.9",
+      "Aggravated assault rate": "496.3"
+    },
+    "state36": {
+      "Population": "19297729",
+      "Violent crime rate": "414.4",
+      "Murder and nonnegligent Manslaughter rate": "4.2",
+      "Legacy rape rate": "15.2",
+      "Robbery rate": "161.1",
+      "Aggravated assault rate": "233.9"
+    },
+    "state37": {
+      "Population": "9061032",
+      "Violent crime rate": "466.1",
+      "Murder and nonnegligent Manslaughter rate": "6.4",
+      "Legacy rape rate": "26.3",
+      "Robbery rate": "149.4",
+      "Aggravated assault rate": "283.9"
+    },
+    "state38": {
+      "Population": "639715",
+      "Violent crime rate": "209.9",
+      "Murder and nonnegligent Manslaughter rate": "2.7",
+      "Legacy rape rate": "39.4",
+      "Robbery rate": "11.7",
+      "Aggravated assault rate": "156.2"
+    },
+    "state39": {
+      "Population": "11466917",
+      "Violent crime rate": "355.4",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "40.6",
+      "Robbery rate": "160",
+      "Aggravated assault rate": "150.2"
+    },
+    "state40": {
+      "Population": "3617316",
+      "Violent crime rate": "504.1",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "43.3",
+      "Robbery rate": "93.8",
+      "Aggravated assault rate": "360.8"
+    },
+    "state41": {
+      "Population": "3747455",
+      "Violent crime rate": "293.9",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "34",
+      "Robbery rate": "76.4",
+      "Aggravated assault rate": "181.4"
+    },
+    "state42": {
+      "Population": "12432792",
+      "Violent crime rate": "416.7",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "27.7",
+      "Robbery rate": "156.4",
+      "Aggravated assault rate": "226.8"
+    },
+    "state44": {
+      "Population": "1057832",
+      "Violent crime rate": "229.1",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "24.4",
+      "Robbery rate": "71.8",
+      "Aggravated assault rate": "131.1"
+    },
+    "state45": {
+      "Population": "4407709",
+      "Violent crime rate": "785.7",
+      "Murder and nonnegligent Manslaughter rate": "8.3",
+      "Legacy rape rate": "40.2",
+      "Robbery rate": "144.2",
+      "Aggravated assault rate": "593"
+    },
+    "state46": {
+      "Population": "796214",
+      "Violent crime rate": "241.9",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "54.4",
+      "Robbery rate": "14.8",
+      "Aggravated assault rate": "168.8"
+    },
+    "state47": {
+      "Population": "6156719",
+      "Violent crime rate": "755",
+      "Murder and nonnegligent Manslaughter rate": "6.6",
+      "Legacy rape rate": "35.7",
+      "Robbery rate": "179.2",
+      "Aggravated assault rate": "533.4"
+    },
+    "state48": {
+      "Population": "23904380",
+      "Violent crime rate": "510.4",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "35.4",
+      "Robbery rate": "162.2",
+      "Aggravated assault rate": "306.9"
+    },
+    "state49": {
+      "Population": "2645330",
+      "Violent crime rate": "239.9",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "35.3",
+      "Robbery rate": "53.9",
+      "Aggravated assault rate": "148.5"
+    },
+    "state50": {
+      "Population": "621254",
+      "Violent crime rate": "129.1",
+      "Murder and nonnegligent Manslaughter rate": "2.1",
+      "Legacy rape rate": "20.6",
+      "Robbery rate": "12.7",
+      "Aggravated assault rate": "93.7"
+    },
+    "state51": {
+      "Population": "7712091",
+      "Violent crime rate": "272.8",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "23.2",
+      "Robbery rate": "99.8",
+      "Aggravated assault rate": "144.3"
+    },
+    "state53": {
+      "Population": "6468424",
+      "Violent crime rate": "336.5",
+      "Murder and nonnegligent Manslaughter rate": "2.7",
+      "Legacy rape rate": "41",
+      "Robbery rate": "94",
+      "Aggravated assault rate": "198.8"
+    },
+    "state54": {
+      "Population": "1812035",
+      "Violent crime rate": "276.8",
+      "Murder and nonnegligent Manslaughter rate": "3.6",
+      "Legacy rape rate": "21.4",
+      "Robbery rate": "46.7",
+      "Aggravated assault rate": "205.1"
+    },
+    "state55": {
+      "Population": "5601640",
+      "Violent crime rate": "291.5",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "21.9",
+      "Robbery rate": "97.8",
+      "Aggravated assault rate": "168.5"
+    },
+    "state56": {
+      "Population": "522830",
+      "Violent crime rate": "257.1",
+      "Murder and nonnegligent Manslaughter rate": "4",
+      "Legacy rape rate": "32.9",
+      "Robbery rate": "16.1",
+      "Aggravated assault rate": "204.1"
+    }
+  },
+  "2008": {
+    "state01": {
+      "Population": "4661900",
+      "Violent crime rate": "452.8",
+      "Murder and nonnegligent Manslaughter rate": "7.5",
+      "Legacy rape rate": "34.7",
+      "Robbery rate": "157.6",
+      "Aggravated assault rate": "253"
+    },
+    "state02": {
+      "Population": "686293",
+      "Violent crime rate": "652.1",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "65.1",
+      "Robbery rate": "94",
+      "Aggravated assault rate": "489"
+    },
+    "state04": {
+      "Population": "6500180",
+      "Violent crime rate": "485.6",
+      "Murder and nonnegligent Manslaughter rate": "7.1",
+      "Legacy rape rate": "33.8",
+      "Robbery rate": "150.9",
+      "Aggravated assault rate": "293.8"
+    },
+    "state05": {
+      "Population": "2855390",
+      "Violent crime rate": "513",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "51.2",
+      "Robbery rate": "97.3",
+      "Aggravated assault rate": "358.8"
+    },
+    "state06": {
+      "Population": "36756666",
+      "Violent crime rate": "504.2",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "24.2",
+      "Robbery rate": "188.8",
+      "Aggravated assault rate": "285.4"
+    },
+    "state08": {
+      "Population": "4939456",
+      "Violent crime rate": "353.9",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "43.5",
+      "Robbery rate": "68.9",
+      "Aggravated assault rate": "238.1"
+    },
+    "state09": {
+      "Population": "3501252",
+      "Violent crime rate": "306.7",
+      "Murder and nonnegligent Manslaughter rate": "3.8",
+      "Legacy rape rate": "19.4",
+      "Robbery rate": "115.5",
+      "Aggravated assault rate": "168"
+    },
+    "state10": {
+      "Population": "873092",
+      "Violent crime rate": "708.6",
+      "Murder and nonnegligent Manslaughter rate": "6.5",
+      "Legacy rape rate": "42.5",
+      "Robbery rate": "211.5",
+      "Aggravated assault rate": "448.1"
+    },
+    "state11": {
+      "Population": "591833",
+      "Violent crime rate": "1437.7",
+      "Murder and nonnegligent Manslaughter rate": "31.4",
+      "Legacy rape rate": "31.4",
+      "Robbery rate": "748.5",
+      "Aggravated assault rate": "626.4"
+    },
+    "state12": {
+      "Population": "18328340",
+      "Violent crime rate": "688.9",
+      "Murder and nonnegligent Manslaughter rate": "6.4",
+      "Legacy rape rate": "32.6",
+      "Robbery rate": "197.9",
+      "Aggravated assault rate": "452"
+    },
+    "state13": {
+      "Population": "9685744",
+      "Violent crime rate": "488.9",
+      "Murder and nonnegligent Manslaughter rate": "6.6",
+      "Legacy rape rate": "24.1",
+      "Robbery rate": "183.9",
+      "Aggravated assault rate": "274.3"
+    },
+    "state15": {
+      "Population": "1288198",
+      "Violent crime rate": "272.5",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "28.2",
+      "Robbery rate": "84.2",
+      "Aggravated assault rate": "158.1"
+    },
+    "state16": {
+      "Population": "1523816",
+      "Violent crime rate": "241.5",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "38",
+      "Robbery rate": "15.7",
+      "Aggravated assault rate": "186.3"
+    },
+    "state17": {
+      "Population": "12901563",
+      "Violent crime rate": "525.4",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "31.9",
+      "Robbery rate": "186.4",
+      "Aggravated assault rate": "300.9"
+    },
+    "state18": {
+      "Population": "6376792",
+      "Violent crime rate": "337.6",
+      "Murder and nonnegligent Manslaughter rate": "5",
+      "Legacy rape rate": "26.8",
+      "Robbery rate": "118.9",
+      "Aggravated assault rate": "186.8"
+    },
+    "state19": {
+      "Population": "3002555",
+      "Violent crime rate": "288.1",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "31.2",
+      "Robbery rate": "41.6",
+      "Aggravated assault rate": "212.8"
+    },
+    "state20": {
+      "Population": "2802134",
+      "Violent crime rate": "412.3",
+      "Murder and nonnegligent Manslaughter rate": "4",
+      "Legacy rape rate": "43.8",
+      "Robbery rate": "60",
+      "Aggravated assault rate": "304.6"
+    },
+    "state21": {
+      "Population": "4269245",
+      "Violent crime rate": "297.2",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "34.1",
+      "Robbery rate": "95.6",
+      "Aggravated assault rate": "162.8"
+    },
+    "state22": {
+      "Population": "4410796",
+      "Violent crime rate": "671.4",
+      "Murder and nonnegligent Manslaughter rate": "12.3",
+      "Legacy rape rate": "28.3",
+      "Robbery rate": "141.5",
+      "Aggravated assault rate": "489.2"
+    },
+    "state23": {
+      "Population": "1316456",
+      "Violent crime rate": "119.4",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "28.8",
+      "Robbery rate": "25.3",
+      "Aggravated assault rate": "63"
+    },
+    "state24": {
+      "Population": "5633597",
+      "Violent crime rate": "628.2",
+      "Murder and nonnegligent Manslaughter rate": "8.8",
+      "Legacy rape rate": "20",
+      "Robbery rate": "234.4",
+      "Aggravated assault rate": "365.1"
+    },
+    "state25": {
+      "Population": "6497967",
+      "Violent crime rate": "463.8",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "26.9",
+      "Robbery rate": "108.9",
+      "Aggravated assault rate": "325.4"
+    },
+    "state26": {
+      "Population": "10003422",
+      "Violent crime rate": "514.9",
+      "Murder and nonnegligent Manslaughter rate": "5.5",
+      "Legacy rape rate": "45.1",
+      "Robbery rate": "132.4",
+      "Aggravated assault rate": "331.9"
+    },
+    "state27": {
+      "Population": "5220393",
+      "Violent crime rate": "265.4",
+      "Murder and nonnegligent Manslaughter rate": "2.1",
+      "Legacy rape rate": "34.6",
+      "Robbery rate": "80.1",
+      "Aggravated assault rate": "148.6"
+    },
+    "state28": {
+      "Population": "2938618",
+      "Violent crime rate": "304.3",
+      "Murder and nonnegligent Manslaughter rate": "8",
+      "Legacy rape rate": "32.6",
+      "Robbery rate": "104.8",
+      "Aggravated assault rate": "158.9"
+    },
+    "state29": {
+      "Population": "5911605",
+      "Violent crime rate": "502.4",
+      "Murder and nonnegligent Manslaughter rate": "7.7",
+      "Legacy rape rate": "27.3",
+      "Robbery rate": "125.1",
+      "Aggravated assault rate": "342.3"
+    },
+    "state30": {
+      "Population": "967440",
+      "Violent crime rate": "311.4",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "37",
+      "Robbery rate": "21.1",
+      "Aggravated assault rate": "249.2"
+    },
+    "state31": {
+      "Population": "1783432",
+      "Violent crime rate": "312.3",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "33.7",
+      "Robbery rate": "72.7",
+      "Aggravated assault rate": "202"
+    },
+    "state32": {
+      "Population": "2600167",
+      "Violent crime rate": "729.7",
+      "Murder and nonnegligent Manslaughter rate": "6.3",
+      "Legacy rape rate": "42.5",
+      "Robbery rate": "249.4",
+      "Aggravated assault rate": "431.4"
+    },
+    "state33": {
+      "Population": "1315809",
+      "Violent crime rate": "156.1",
+      "Murder and nonnegligent Manslaughter rate": "1.1",
+      "Legacy rape rate": "29.3",
+      "Robbery rate": "32",
+      "Aggravated assault rate": "93.8"
+    },
+    "state34": {
+      "Population": "8682661",
+      "Violent crime rate": "326.5",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "12.9",
+      "Robbery rate": "146.3",
+      "Aggravated assault rate": "163"
+    },
+    "state35": {
+      "Population": "1984356",
+      "Violent crime rate": "653.5",
+      "Murder and nonnegligent Manslaughter rate": "8.1",
+      "Legacy rape rate": "56.3",
+      "Robbery rate": "108.4",
+      "Aggravated assault rate": "480.6"
+    },
+    "state36": {
+      "Population": "19490297",
+      "Violent crime rate": "397.9",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "14.4",
+      "Robbery rate": "163.1",
+      "Aggravated assault rate": "216.1"
+    },
+    "state37": {
+      "Population": "9222414",
+      "Violent crime rate": "467.6",
+      "Murder and nonnegligent Manslaughter rate": "6.5",
+      "Legacy rape rate": "24.9",
+      "Robbery rate": "155.3",
+      "Aggravated assault rate": "280.9"
+    },
+    "state38": {
+      "Population": "641481",
+      "Violent crime rate": "224.6",
+      "Murder and nonnegligent Manslaughter rate": "1.7",
+      "Legacy rape rate": "51.6",
+      "Robbery rate": "11.4",
+      "Aggravated assault rate": "159.9"
+    },
+    "state39": {
+      "Population": "11485910",
+      "Violent crime rate": "352",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "39.4",
+      "Robbery rate": "162.9",
+      "Aggravated assault rate": "145"
+    },
+    "state40": {
+      "Population": "3642361",
+      "Violent crime rate": "531.5",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "40.4",
+      "Robbery rate": "101.5",
+      "Aggravated assault rate": "383.7"
+    },
+    "state41": {
+      "Population": "3790060",
+      "Violent crime rate": "261.4",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "31.2",
+      "Robbery rate": "70.1",
+      "Aggravated assault rate": "157.9"
+    },
+    "state42": {
+      "Population": "12448279",
+      "Violent crime rate": "410",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "28",
+      "Robbery rate": "151.6",
+      "Aggravated assault rate": "224.8"
+    },
+    "state44": {
+      "Population": "1050788",
+      "Violent crime rate": "252.8",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "26.8",
+      "Robbery rate": "83.7",
+      "Aggravated assault rate": "139.2"
+    },
+    "state45": {
+      "Population": "4479800",
+      "Violent crime rate": "731",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "37.6",
+      "Robbery rate": "147.2",
+      "Aggravated assault rate": "539.3"
+    },
+    "state46": {
+      "Population": "804194",
+      "Violent crime rate": "276.9",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "69.9",
+      "Robbery rate": "16.7",
+      "Aggravated assault rate": "185.8"
+    },
+    "state47": {
+      "Population": "6214888",
+      "Violent crime rate": "722.7",
+      "Murder and nonnegligent Manslaughter rate": "6.6",
+      "Legacy rape rate": "33.4",
+      "Robbery rate": "173.8",
+      "Aggravated assault rate": "508.8"
+    },
+    "state48": {
+      "Population": "24326974",
+      "Violent crime rate": "508",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "33.1",
+      "Robbery rate": "155.1",
+      "Aggravated assault rate": "314.1"
+    },
+    "state49": {
+      "Population": "2736424",
+      "Violent crime rate": "225.3",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "33.4",
+      "Robbery rate": "51.9",
+      "Aggravated assault rate": "138.4"
+    },
+    "state50": {
+      "Population": "621270",
+      "Violent crime rate": "137.5",
+      "Murder and nonnegligent Manslaughter rate": "2.7",
+      "Legacy rape rate": "21.4",
+      "Robbery rate": "15",
+      "Aggravated assault rate": "98.3"
+    },
+    "state51": {
+      "Population": "7769089",
+      "Violent crime rate": "257.8",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "23.1",
+      "Robbery rate": "96.2",
+      "Aggravated assault rate": "133.8"
+    },
+    "state53": {
+      "Population": "6549224",
+      "Violent crime rate": "334.2",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "40.5",
+      "Robbery rate": "98",
+      "Aggravated assault rate": "192.7"
+    },
+    "state54": {
+      "Population": "1814468",
+      "Violent crime rate": "275.9",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "21.4",
+      "Robbery rate": "49.4",
+      "Aggravated assault rate": "201.4"
+    },
+    "state55": {
+      "Population": "5627967",
+      "Violent crime rate": "275.5",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "20",
+      "Robbery rate": "91.7",
+      "Aggravated assault rate": "161.2"
+    },
+    "state56": {
+      "Population": "532668",
+      "Violent crime rate": "249.7",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "34.7",
+      "Robbery rate": "16.3",
+      "Aggravated assault rate": "196.4"
+    }
+  },
+  "2009": {
+    "state01": {
+      "Population": "4708708",
+      "Violent crime rate": "450.1",
+      "Murder and nonnegligent Manslaughter rate": "6.8",
+      "Legacy rape rate": "31.9",
+      "Robbery rate": "133.1",
+      "Aggravated assault rate": "278.3"
+    },
+    "state02": {
+      "Population": "698473",
+      "Violent crime rate": "633.4",
+      "Murder and nonnegligent Manslaughter rate": "3.1",
+      "Legacy rape rate": "73.4",
+      "Robbery rate": "93.6",
+      "Aggravated assault rate": "463.2"
+    },
+    "state04": {
+      "Population": "6595778",
+      "Violent crime rate": "426.5",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "34.6",
+      "Robbery rate": "124.3",
+      "Aggravated assault rate": "261.8"
+    },
+    "state05": {
+      "Population": "2889450",
+      "Violent crime rate": "515.8",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "47.7",
+      "Robbery rate": "89.2",
+      "Aggravated assault rate": "372.8"
+    },
+    "state06": {
+      "Population": "36961664",
+      "Violent crime rate": "473.3",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "23.6",
+      "Robbery rate": "173.4",
+      "Aggravated assault rate": "271"
+    },
+    "state08": {
+      "Population": "5024748",
+      "Violent crime rate": "338.8",
+      "Murder and nonnegligent Manslaughter rate": "3.2",
+      "Legacy rape rate": "45.2",
+      "Robbery rate": "67.1",
+      "Aggravated assault rate": "223.4"
+    },
+    "state09": {
+      "Population": "3518288",
+      "Violent crime rate": "300.9",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "18.7",
+      "Robbery rate": "113.7",
+      "Aggravated assault rate": "165.5"
+    },
+    "state10": {
+      "Population": "885122",
+      "Violent crime rate": "645.4",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "44.6",
+      "Robbery rate": "189.8",
+      "Aggravated assault rate": "406.4"
+    },
+    "state11": {
+      "Population": "599657",
+      "Violent crime rate": "1348.9",
+      "Murder and nonnegligent Manslaughter rate": "24.2",
+      "Legacy rape rate": "25",
+      "Robbery rate": "734.4",
+      "Aggravated assault rate": "565.3"
+    },
+    "state12": {
+      "Population": "18537969",
+      "Violent crime rate": "612.5",
+      "Murder and nonnegligent Manslaughter rate": "5.5",
+      "Legacy rape rate": "29.7",
+      "Robbery rate": "166.7",
+      "Aggravated assault rate": "410.6"
+    },
+    "state13": {
+      "Population": "9829211",
+      "Violent crime rate": "428",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "23.6",
+      "Robbery rate": "148.9",
+      "Aggravated assault rate": "249.8"
+    },
+    "state15": {
+      "Population": "1295178",
+      "Violent crime rate": "274.1",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "29.7",
+      "Robbery rate": "79.5",
+      "Aggravated assault rate": "163.1"
+    },
+    "state16": {
+      "Population": "1545801",
+      "Violent crime rate": "246.2",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "37.2",
+      "Robbery rate": "16.4",
+      "Aggravated assault rate": "191"
+    },
+    "state17": {
+      "Population": "12910409",
+      "Violent crime rate": "497.2",
+      "Murder and nonnegligent Manslaughter rate": "6",
+      "Legacy rape rate": "30.2",
+      "Robbery rate": "177.6",
+      "Aggravated assault rate": "283.4"
+    },
+    "state18": {
+      "Population": "6423113",
+      "Violent crime rate": "334",
+      "Murder and nonnegligent Manslaughter rate": "4.9",
+      "Legacy rape rate": "25.2",
+      "Robbery rate": "114.4",
+      "Aggravated assault rate": "189.5"
+    },
+    "state19": {
+      "Population": "3007856",
+      "Violent crime rate": "282.1",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "29.6",
+      "Robbery rate": "39.9",
+      "Aggravated assault rate": "211.3"
+    },
+    "state20": {
+      "Population": "2818747",
+      "Violent crime rate": "406.6",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "41.8",
+      "Robbery rate": "63.4",
+      "Aggravated assault rate": "296.9"
+    },
+    "state21": {
+      "Population": "4314113",
+      "Violent crime rate": "255",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "35.5",
+      "Robbery rate": "84.4",
+      "Aggravated assault rate": "130.8"
+    },
+    "state22": {
+      "Population": "4492076",
+      "Violent crime rate": "642.9",
+      "Murder and nonnegligent Manslaughter rate": "11.8",
+      "Legacy rape rate": "30.1",
+      "Robbery rate": "136.9",
+      "Aggravated assault rate": "464.1"
+    },
+    "state23": {
+      "Population": "1318301",
+      "Violent crime rate": "119.9",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "28.4",
+      "Robbery rate": "30.3",
+      "Aggravated assault rate": "59.2"
+    },
+    "state24": {
+      "Population": "5699478",
+      "Violent crime rate": "590",
+      "Murder and nonnegligent Manslaughter rate": "7.7",
+      "Legacy rape rate": "20.3",
+      "Robbery rate": "210.7",
+      "Aggravated assault rate": "351.3"
+    },
+    "state25": {
+      "Population": "6593587",
+      "Violent crime rate": "462.6",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "26.3",
+      "Robbery rate": "113.2",
+      "Aggravated assault rate": "320.4"
+    },
+    "state26": {
+      "Population": "9969727",
+      "Violent crime rate": "499.8",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "45.4",
+      "Robbery rate": "124.6",
+      "Aggravated assault rate": "323.5"
+    },
+    "state27": {
+      "Population": "5266214",
+      "Violent crime rate": "244.5",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "34",
+      "Robbery rate": "68.7",
+      "Aggravated assault rate": "140.4"
+    },
+    "state28": {
+      "Population": "2951996",
+      "Violent crime rate": "286.3",
+      "Murder and nonnegligent Manslaughter rate": "6.6",
+      "Legacy rape rate": "33.6",
+      "Robbery rate": "100.6",
+      "Aggravated assault rate": "145.6"
+    },
+    "state29": {
+      "Population": "5987580",
+      "Violent crime rate": "492.9",
+      "Murder and nonnegligent Manslaughter rate": "6.5",
+      "Legacy rape rate": "26.8",
+      "Robbery rate": "124.2",
+      "Aggravated assault rate": "335.4"
+    },
+    "state30": {
+      "Population": "974989",
+      "Violent crime rate": "287",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "36.6",
+      "Robbery rate": "23.4",
+      "Aggravated assault rate": "223.7"
+    },
+    "state31": {
+      "Population": "1796619",
+      "Violent crime rate": "289.4",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "34.3",
+      "Robbery rate": "67.9",
+      "Aggravated assault rate": "184.8"
+    },
+    "state32": {
+      "Population": "2643085",
+      "Violent crime rate": "705.2",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "38.7",
+      "Robbery rate": "228.1",
+      "Aggravated assault rate": "432.5"
+    },
+    "state33": {
+      "Population": "1324575",
+      "Violent crime rate": "160.4",
+      "Murder and nonnegligent Manslaughter rate": "0.8",
+      "Legacy rape rate": "30.1",
+      "Robbery rate": "34.3",
+      "Aggravated assault rate": "95.2"
+    },
+    "state34": {
+      "Population": "8707739",
+      "Violent crime rate": "311.4",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "12",
+      "Robbery rate": "133.7",
+      "Aggravated assault rate": "162.1"
+    },
+    "state35": {
+      "Population": "2009671",
+      "Violent crime rate": "632.4",
+      "Murder and nonnegligent Manslaughter rate": "9.9",
+      "Legacy rape rate": "53.2",
+      "Robbery rate": "96.1",
+      "Aggravated assault rate": "473.2"
+    },
+    "state36": {
+      "Population": "19541453",
+      "Violent crime rate": "384.4",
+      "Murder and nonnegligent Manslaughter rate": "4",
+      "Legacy rape rate": "13.2",
+      "Robbery rate": "144",
+      "Aggravated assault rate": "223.1"
+    },
+    "state37": {
+      "Population": "9380884",
+      "Violent crime rate": "404.5",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "24.6",
+      "Robbery rate": "126.1",
+      "Aggravated assault rate": "248.7"
+    },
+    "state38": {
+      "Population": "646844",
+      "Violent crime rate": "266.4",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "45.8",
+      "Robbery rate": "16.5",
+      "Aggravated assault rate": "202.2"
+    },
+    "state39": {
+      "Population": "11542645",
+      "Violent crime rate": "331.9",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "35.7",
+      "Robbery rate": "153.1",
+      "Aggravated assault rate": "138.5"
+    },
+    "state40": {
+      "Population": "3687050",
+      "Violent crime rate": "503.4",
+      "Murder and nonnegligent Manslaughter rate": "6.3",
+      "Legacy rape rate": "41.6",
+      "Robbery rate": "91.1",
+      "Aggravated assault rate": "364.3"
+    },
+    "state41": {
+      "Population": "3825657",
+      "Violent crime rate": "260.6",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "31.4",
+      "Robbery rate": "65.3",
+      "Aggravated assault rate": "161.5"
+    },
+    "state42": {
+      "Population": "12604767",
+      "Violent crime rate": "382.3",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "28.8",
+      "Robbery rate": "138.9",
+      "Aggravated assault rate": "209.4"
+    },
+    "state44": {
+      "Population": "1053209",
+      "Violent crime rate": "254.3",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "28.1",
+      "Robbery rate": "74.5",
+      "Aggravated assault rate": "148.6"
+    },
+    "state45": {
+      "Population": "4561242",
+      "Violent crime rate": "675.2",
+      "Murder and nonnegligent Manslaughter rate": "6.7",
+      "Legacy rape rate": "36.5",
+      "Robbery rate": "126.1",
+      "Aggravated assault rate": "506"
+    },
+    "state46": {
+      "Population": "812383",
+      "Violent crime rate": "218.7",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "61.7",
+      "Robbery rate": "14.4",
+      "Aggravated assault rate": "139"
+    },
+    "state47": {
+      "Population": "6296254",
+      "Violent crime rate": "666",
+      "Murder and nonnegligent Manslaughter rate": "7.4",
+      "Legacy rape rate": "32.1",
+      "Robbery rate": "153.3",
+      "Aggravated assault rate": "473.2"
+    },
+    "state48": {
+      "Population": "24782302",
+      "Violent crime rate": "491",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "33.5",
+      "Robbery rate": "153.4",
+      "Aggravated assault rate": "298.7"
+    },
+    "state49": {
+      "Population": "2784572",
+      "Violent crime rate": "215.4",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "33.8",
+      "Robbery rate": "46.8",
+      "Aggravated assault rate": "133.4"
+    },
+    "state50": {
+      "Population": "621760",
+      "Violent crime rate": "134.6",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "21.2",
+      "Robbery rate": "17.9",
+      "Aggravated assault rate": "94.2"
+    },
+    "state51": {
+      "Population": "7882590",
+      "Violent crime rate": "230.8",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "19.9",
+      "Robbery rate": "80.5",
+      "Aggravated assault rate": "125.7"
+    },
+    "state53": {
+      "Population": "6664195",
+      "Violent crime rate": "336.3",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "38.8",
+      "Robbery rate": "100.7",
+      "Aggravated assault rate": "194"
+    },
+    "state54": {
+      "Population": "1819777",
+      "Violent crime rate": "305.2",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "25.8",
+      "Robbery rate": "50.2",
+      "Aggravated assault rate": "224.5"
+    },
+    "state55": {
+      "Population": "5654774",
+      "Violent crime rate": "259.1",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "19.8",
+      "Robbery rate": "86.7",
+      "Aggravated assault rate": "150"
+    },
+    "state56": {
+      "Population": "544270",
+      "Violent crime rate": "219.7",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "31.6",
+      "Robbery rate": "14.3",
+      "Aggravated assault rate": "171.8"
+    }
+  },
+  "2010": {
+    "state01": {
+      "Population": "4785401",
+      "Violent crime rate": "383.7",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "28.3",
+      "Robbery rate": "101.6",
+      "Aggravated assault rate": "248"
+    },
+    "state02": {
+      "Population": "714146",
+      "Violent crime rate": "635.3",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "74.6",
+      "Robbery rate": "83.2",
+      "Aggravated assault rate": "473.2"
+    },
+    "state04": {
+      "Population": "6413158",
+      "Violent crime rate": "413.6",
+      "Murder and nonnegligent Manslaughter rate": "6.4",
+      "Legacy rape rate": "34.2",
+      "Robbery rate": "108.4",
+      "Aggravated assault rate": "264.7"
+    },
+    "state05": {
+      "Population": "2921588",
+      "Violent crime rate": "503.5",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "45.2",
+      "Robbery rate": "81.1",
+      "Aggravated assault rate": "372.6"
+    },
+    "state06": {
+      "Population": "37338198",
+      "Violent crime rate": "439.6",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "22.3",
+      "Robbery rate": "155.6",
+      "Aggravated assault rate": "256.8"
+    },
+    "state08": {
+      "Population": "5047692",
+      "Violent crime rate": "323.7",
+      "Murder and nonnegligent Manslaughter rate": "2.6",
+      "Legacy rape rate": "44.2",
+      "Robbery rate": "62.7",
+      "Aggravated assault rate": "214.3"
+    },
+    "state09": {
+      "Population": "3575498",
+      "Violent crime rate": "282",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "16.6",
+      "Robbery rate": "99.4",
+      "Aggravated assault rate": "162.3"
+    },
+    "state10": {
+      "Population": "899792",
+      "Violent crime rate": "623.3",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "36.2",
+      "Robbery rate": "204.4",
+      "Aggravated assault rate": "377"
+    },
+    "state11": {
+      "Population": "604912",
+      "Violent crime rate": "1326.8",
+      "Murder and nonnegligent Manslaughter rate": "21.8",
+      "Legacy rape rate": "30.9",
+      "Robbery rate": "715",
+      "Aggravated assault rate": "559.1"
+    },
+    "state12": {
+      "Population": "18838613",
+      "Violent crime rate": "541.3",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "28.5",
+      "Robbery rate": "138.5",
+      "Aggravated assault rate": "369"
+    },
+    "state13": {
+      "Population": "9712157",
+      "Violent crime rate": "402.3",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "21.7",
+      "Robbery rate": "127.4",
+      "Aggravated assault rate": "247.5"
+    },
+    "state15": {
+      "Population": "1363359",
+      "Violent crime rate": "264.3",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "27.7",
+      "Robbery rate": "78.1",
+      "Aggravated assault rate": "156.7"
+    },
+    "state16": {
+      "Population": "1571102",
+      "Violent crime rate": "220.5",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "33.9",
+      "Robbery rate": "13.6",
+      "Aggravated assault rate": "171.6"
+    },
+    "state17": {
+      "Population": "12841980",
+      "Violent crime rate": "444.9",
+      "Murder and nonnegligent Manslaughter rate": "5.5",
+      "Legacy rape rate": "23.9",
+      "Robbery rate": "158.7",
+      "Aggravated assault rate": "256.8"
+    },
+    "state18": {
+      "Population": "6490622",
+      "Violent crime rate": "323.3",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "27.1",
+      "Robbery rate": "101.1",
+      "Aggravated assault rate": "191"
+    },
+    "state19": {
+      "Population": "3050202",
+      "Violent crime rate": "268.5",
+      "Murder and nonnegligent Manslaughter rate": "1.2",
+      "Legacy rape rate": "28.9",
+      "Robbery rate": "33.2",
+      "Aggravated assault rate": "205.2"
+    },
+    "state20": {
+      "Population": "2859143",
+      "Violent crime rate": "370.8",
+      "Murder and nonnegligent Manslaughter rate": "3.4",
+      "Legacy rape rate": "40.1",
+      "Robbery rate": "53.8",
+      "Aggravated assault rate": "273.5"
+    },
+    "state21": {
+      "Population": "4347223",
+      "Violent crime rate": "243.9",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "33.1",
+      "Robbery rate": "86.2",
+      "Aggravated assault rate": "120.3"
+    },
+    "state22": {
+      "Population": "4545343",
+      "Violent crime rate": "555.3",
+      "Murder and nonnegligent Manslaughter rate": "11",
+      "Legacy rape rate": "27.1",
+      "Robbery rate": "116.5",
+      "Aggravated assault rate": "400.7"
+    },
+    "state23": {
+      "Population": "1327379",
+      "Violent crime rate": "122.1",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "29.3",
+      "Robbery rate": "31",
+      "Aggravated assault rate": "60"
+    },
+    "state24": {
+      "Population": "5785681",
+      "Violent crime rate": "546.3",
+      "Murder and nonnegligent Manslaughter rate": "7.4",
+      "Legacy rape rate": "21.2",
+      "Robbery rate": "191.1",
+      "Aggravated assault rate": "326.7"
+    },
+    "state25": {
+      "Population": "6555466",
+      "Violent crime rate": "468.9",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "27.2",
+      "Robbery rate": "105.2",
+      "Aggravated assault rate": "333.2"
+    },
+    "state26": {
+      "Population": "9877143",
+      "Violent crime rate": "493",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "47.9",
+      "Robbery rate": "116.7",
+      "Aggravated assault rate": "322.5"
+    },
+    "state27": {
+      "Population": "5310658",
+      "Violent crime rate": "235.7",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "33.9",
+      "Robbery rate": "63.8",
+      "Aggravated assault rate": "136.2"
+    },
+    "state28": {
+      "Population": "2970072",
+      "Violent crime rate": "269.3",
+      "Murder and nonnegligent Manslaughter rate": "6.9",
+      "Legacy rape rate": "31.3",
+      "Robbery rate": "93.5",
+      "Aggravated assault rate": "137.6"
+    },
+    "state29": {
+      "Population": "5995715",
+      "Violent crime rate": "457.7",
+      "Murder and nonnegligent Manslaughter rate": "7",
+      "Legacy rape rate": "24.1",
+      "Robbery rate": "103.2",
+      "Aggravated assault rate": "323.4"
+    },
+    "state30": {
+      "Population": "990958",
+      "Violent crime rate": "275.8",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "33.5",
+      "Robbery rate": "15.5",
+      "Aggravated assault rate": "224.2"
+    },
+    "state31": {
+      "Population": "1830141",
+      "Violent crime rate": "278.3",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "36.8",
+      "Robbery rate": "55.7",
+      "Aggravated assault rate": "182.8"
+    },
+    "state32": {
+      "Population": "2704283",
+      "Violent crime rate": "663",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "35.7",
+      "Robbery rate": "195.9",
+      "Aggravated assault rate": "425.5"
+    },
+    "state33": {
+      "Population": "1316807",
+      "Violent crime rate": "167.4",
+      "Murder and nonnegligent Manslaughter rate": "1",
+      "Legacy rape rate": "31.2",
+      "Robbery rate": "34.2",
+      "Aggravated assault rate": "101"
+    },
+    "state34": {
+      "Population": "8799593",
+      "Violent crime rate": "307.5",
+      "Murder and nonnegligent Manslaughter rate": "4.2",
+      "Legacy rape rate": "11.1",
+      "Robbery rate": "134.3",
+      "Aggravated assault rate": "157.8"
+    },
+    "state35": {
+      "Population": "2065913",
+      "Violent crime rate": "588",
+      "Murder and nonnegligent Manslaughter rate": "6.8",
+      "Legacy rape rate": "46.4",
+      "Robbery rate": "78.2",
+      "Aggravated assault rate": "456.6"
+    },
+    "state36": {
+      "Population": "19395206",
+      "Violent crime rate": "394.4",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "14.4",
+      "Robbery rate": "147.6",
+      "Aggravated assault rate": "227.9"
+    },
+    "state37": {
+      "Population": "9560234",
+      "Violent crime rate": "362.7",
+      "Murder and nonnegligent Manslaughter rate": "5",
+      "Legacy rape rate": "20.9",
+      "Robbery rate": "100.6",
+      "Aggravated assault rate": "236.2"
+    },
+    "state38": {
+      "Population": "674629",
+      "Violent crime rate": "229.5",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "36.3",
+      "Robbery rate": "13.3",
+      "Aggravated assault rate": "178.3"
+    },
+    "state39": {
+      "Population": "11537968",
+      "Violent crime rate": "314.7",
+      "Murder and nonnegligent Manslaughter rate": "4.2",
+      "Legacy rape rate": "32.3",
+      "Robbery rate": "142.9",
+      "Aggravated assault rate": "135.3"
+    },
+    "state40": {
+      "Population": "3760184",
+      "Violent crime rate": "481.4",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "39.1",
+      "Robbery rate": "89",
+      "Aggravated assault rate": "348.1"
+    },
+    "state41": {
+      "Population": "3838332",
+      "Violent crime rate": "251.4",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "32.3",
+      "Robbery rate": "63.1",
+      "Aggravated assault rate": "153.5"
+    },
+    "state42": {
+      "Population": "12717722",
+      "Violent crime rate": "366.5",
+      "Murder and nonnegligent Manslaughter rate": "5.1",
+      "Legacy rape rate": "27.3",
+      "Robbery rate": "128.8",
+      "Aggravated assault rate": "205.3"
+    },
+    "state44": {
+      "Population": "1052528",
+      "Violent crime rate": "257.4",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "28.3",
+      "Robbery rate": "74.3",
+      "Aggravated assault rate": "152"
+    },
+    "state45": {
+      "Population": "4637106",
+      "Violent crime rate": "602.2",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "33.4",
+      "Robbery rate": "108.2",
+      "Aggravated assault rate": "454.8"
+    },
+    "state46": {
+      "Population": "816598",
+      "Violent crime rate": "268.9",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "47.1",
+      "Robbery rate": "18.9",
+      "Aggravated assault rate": "200.1"
+    },
+    "state47": {
+      "Population": "6357436",
+      "Violent crime rate": "612",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "34.2",
+      "Robbery rate": "131.5",
+      "Aggravated assault rate": "440.7"
+    },
+    "state48": {
+      "Population": "25253466",
+      "Violent crime rate": "448.4",
+      "Murder and nonnegligent Manslaughter rate": "4.9",
+      "Legacy rape rate": "30.2",
+      "Robbery rate": "130.1",
+      "Aggravated assault rate": "283.2"
+    },
+    "state49": {
+      "Population": "2775479",
+      "Violent crime rate": "213.5",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "35.4",
+      "Robbery rate": "45.7",
+      "Aggravated assault rate": "130.4"
+    },
+    "state50": {
+      "Population": "625909",
+      "Violent crime rate": "131",
+      "Murder and nonnegligent Manslaughter rate": "1.1",
+      "Legacy rape rate": "22.5",
+      "Robbery rate": "12.1",
+      "Aggravated assault rate": "95.2"
+    },
+    "state51": {
+      "Population": "8023953",
+      "Violent crime rate": "214.2",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "19.7",
+      "Robbery rate": "70.8",
+      "Aggravated assault rate": "119"
+    },
+    "state53": {
+      "Population": "6742950",
+      "Violent crime rate": "313.5",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "38.2",
+      "Robbery rate": "87.9",
+      "Aggravated assault rate": "185"
+    },
+    "state54": {
+      "Population": "1854368",
+      "Violent crime rate": "301.2",
+      "Murder and nonnegligent Manslaughter rate": "3.1",
+      "Legacy rape rate": "19.5",
+      "Robbery rate": "41.8",
+      "Aggravated assault rate": "236.7"
+    },
+    "state55": {
+      "Population": "5691659",
+      "Violent crime rate": "248.9",
+      "Murder and nonnegligent Manslaughter rate": "2.7",
+      "Legacy rape rate": "20.9",
+      "Robbery rate": "79.3",
+      "Aggravated assault rate": "145.9"
+    },
+    "state56": {
+      "Population": "564554",
+      "Violent crime rate": "197.9",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "28.7",
+      "Robbery rate": "13.6",
+      "Aggravated assault rate": "154.1"
+    }
+  },
+  "2011": {
+    "state01": {
+      "Population": "4803689",
+      "Violent crime rate": "419.8",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "28.5",
+      "Robbery rate": "102.1",
+      "Aggravated assault rate": "282.9"
+    },
+    "state02": {
+      "Population": "723860",
+      "Violent crime rate": "610.1",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "60.2",
+      "Robbery rate": "79.6",
+      "Aggravated assault rate": "466.1"
+    },
+    "state04": {
+      "Population": "6467315",
+      "Violent crime rate": "414.2",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "38.6",
+      "Robbery rate": "110.5",
+      "Aggravated assault rate": "259"
+    },
+    "state05": {
+      "Population": "2938582",
+      "Violent crime rate": "482.3",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "41.9",
+      "Robbery rate": "80.2",
+      "Aggravated assault rate": "354.8"
+    },
+    "state06": {
+      "Population": "37683933",
+      "Violent crime rate": "411.2",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "20.3",
+      "Robbery rate": "144.1",
+      "Aggravated assault rate": "242"
+    },
+    "state08": {
+      "Population": "5116302",
+      "Violent crime rate": "314.4",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "44.7",
+      "Robbery rate": "64.5",
+      "Aggravated assault rate": "202.2"
+    },
+    "state09": {
+      "Population": "3586717",
+      "Violent crime rate": "275.7",
+      "Murder and nonnegligent Manslaughter rate": "3.6",
+      "Legacy rape rate": "19.2",
+      "Robbery rate": "102.9",
+      "Aggravated assault rate": "150.1"
+    },
+    "state10": {
+      "Population": "908137",
+      "Violent crime rate": "566.4",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "33.8",
+      "Robbery rate": "171.6",
+      "Aggravated assault rate": "355.8"
+    },
+    "state11": {
+      "Population": "619020",
+      "Violent crime rate": "1200.8",
+      "Murder and nonnegligent Manslaughter rate": "17.4",
+      "Legacy rape rate": "27.9",
+      "Robbery rate": "661.4",
+      "Aggravated assault rate": "494"
+    },
+    "state12": {
+      "Population": "19082262",
+      "Violent crime rate": "514.6",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "27.6",
+      "Robbery rate": "134.3",
+      "Aggravated assault rate": "347.5"
+    },
+    "state13": {
+      "Population": "9812460",
+      "Violent crime rate": "374.6",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "21.1",
+      "Robbery rate": "125",
+      "Aggravated assault rate": "223"
+    },
+    "state15": {
+      "Population": "1378129",
+      "Violent crime rate": "251.4",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "25.6",
+      "Robbery rate": "72.1",
+      "Aggravated assault rate": "152.2"
+    },
+    "state16": {
+      "Population": "1583744",
+      "Violent crime rate": "202.2",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "28",
+      "Robbery rate": "11.9",
+      "Aggravated assault rate": "160.1"
+    },
+    "state17": {
+      "Population": "12859752",
+      "Violent crime rate": "424",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "23.6",
+      "Robbery rate": "157.2",
+      "Aggravated assault rate": "237.1"
+    },
+    "state18": {
+      "Population": "6516353",
+      "Violent crime rate": "331.8",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "27",
+      "Robbery rate": "107.1",
+      "Aggravated assault rate": "193"
+    },
+    "state19": {
+      "Population": "3064097",
+      "Violent crime rate": "257.3",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "28.3",
+      "Robbery rate": "26.9",
+      "Aggravated assault rate": "200.7"
+    },
+    "state20": {
+      "Population": "2870386",
+      "Violent crime rate": "355.7",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "39.1",
+      "Robbery rate": "50.4",
+      "Aggravated assault rate": "262.3"
+    },
+    "state21": {
+      "Population": "4366814",
+      "Violent crime rate": "239.6",
+      "Murder and nonnegligent Manslaughter rate": "3.5",
+      "Legacy rape rate": "34.3",
+      "Robbery rate": "84.8",
+      "Aggravated assault rate": "117"
+    },
+    "state22": {
+      "Population": "4574766",
+      "Violent crime rate": "554.6",
+      "Murder and nonnegligent Manslaughter rate": "11.1",
+      "Legacy rape rate": "27.6",
+      "Robbery rate": "114.4",
+      "Aggravated assault rate": "401.6"
+    },
+    "state23": {
+      "Population": "1328544",
+      "Violent crime rate": "123.3",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "29.7",
+      "Robbery rate": "27.9",
+      "Aggravated assault rate": "63.8"
+    },
+    "state24": {
+      "Population": "5839572",
+      "Violent crime rate": "493.5",
+      "Murder and nonnegligent Manslaughter rate": "6.8",
+      "Legacy rape rate": "20.5",
+      "Robbery rate": "177.1",
+      "Aggravated assault rate": "289"
+    },
+    "state25": {
+      "Population": "6607003",
+      "Violent crime rate": "427.3",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "25",
+      "Robbery rate": "102.4",
+      "Aggravated assault rate": "297"
+    },
+    "state26": {
+      "Population": "9876801",
+      "Violent crime rate": "442.8",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "44",
+      "Robbery rate": "103.9",
+      "Aggravated assault rate": "288.6"
+    },
+    "state27": {
+      "Population": "5347299",
+      "Violent crime rate": "230.5",
+      "Murder and nonnegligent Manslaughter rate": "1.4",
+      "Legacy rape rate": "39.5",
+      "Robbery rate": "63.3",
+      "Aggravated assault rate": "126.2"
+    },
+    "state28": {
+      "Population": "2977457",
+      "Violent crime rate": "269",
+      "Murder and nonnegligent Manslaughter rate": "7.8",
+      "Legacy rape rate": "29",
+      "Robbery rate": "83.8",
+      "Aggravated assault rate": "148.4"
+    },
+    "state29": {
+      "Population": "6008984",
+      "Violent crime rate": "447.5",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "24.4",
+      "Robbery rate": "104.4",
+      "Aggravated assault rate": "312.5"
+    },
+    "state30": {
+      "Population": "997667",
+      "Violent crime rate": "276.1",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "36.7",
+      "Robbery rate": "17.1",
+      "Aggravated assault rate": "219.4"
+    },
+    "state31": {
+      "Population": "1842234",
+      "Violent crime rate": "253.6",
+      "Murder and nonnegligent Manslaughter rate": "3.7",
+      "Legacy rape rate": "37.9",
+      "Robbery rate": "53.9",
+      "Aggravated assault rate": "158.1"
+    },
+    "state32": {
+      "Population": "2720028",
+      "Violent crime rate": "568.1",
+      "Murder and nonnegligent Manslaughter rate": "5.1",
+      "Legacy rape rate": "33.6",
+      "Robbery rate": "158.4",
+      "Aggravated assault rate": "371"
+    },
+    "state33": {
+      "Population": "1317807",
+      "Violent crime rate": "217.3",
+      "Murder and nonnegligent Manslaughter rate": "1.2",
+      "Legacy rape rate": "44.1",
+      "Robbery rate": "38.6",
+      "Aggravated assault rate": "133.4"
+    },
+    "state34": {
+      "Population": "8834773",
+      "Violent crime rate": "307.9",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "11.4",
+      "Robbery rate": "138.2",
+      "Aggravated assault rate": "154"
+    },
+    "state35": {
+      "Population": "2078674",
+      "Violent crime rate": "572.7",
+      "Murder and nonnegligent Manslaughter rate": "7.6",
+      "Legacy rape rate": "41.2",
+      "Robbery rate": "82.7",
+      "Aggravated assault rate": "441.1"
+    },
+    "state36": {
+      "Population": "19501616",
+      "Violent crime rate": "397.2",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "14.1",
+      "Robbery rate": "145.7",
+      "Aggravated assault rate": "233.5"
+    },
+    "state37": {
+      "Population": "9651103",
+      "Violent crime rate": "346.3",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "20.3",
+      "Robbery rate": "97.9",
+      "Aggravated assault rate": "222.9"
+    },
+    "state38": {
+      "Population": "684740",
+      "Violent crime rate": "248.1",
+      "Murder and nonnegligent Manslaughter rate": "3.5",
+      "Legacy rape rate": "38.8",
+      "Robbery rate": "13.3",
+      "Aggravated assault rate": "192.5"
+    },
+    "state39": {
+      "Population": "11541007",
+      "Violent crime rate": "305.2",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "31.9",
+      "Robbery rate": "138.6",
+      "Aggravated assault rate": "130.4"
+    },
+    "state40": {
+      "Population": "3784163",
+      "Violent crime rate": "457.5",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "37.3",
+      "Robbery rate": "86.9",
+      "Aggravated assault rate": "327.7"
+    },
+    "state41": {
+      "Population": "3868229",
+      "Violent crime rate": "249.3",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "32",
+      "Robbery rate": "57.8",
+      "Aggravated assault rate": "157.3"
+    },
+    "state42": {
+      "Population": "12743948",
+      "Violent crime rate": "362.4",
+      "Murder and nonnegligent Manslaughter rate": "5",
+      "Legacy rape rate": "26.2",
+      "Robbery rate": "126.8",
+      "Aggravated assault rate": "204.4"
+    },
+    "state44": {
+      "Population": "1050646",
+      "Violent crime rate": "246.1",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "30.4",
+      "Robbery rate": "70.8",
+      "Aggravated assault rate": "143.1"
+    },
+    "state45": {
+      "Population": "4673348",
+      "Violent crime rate": "596.9",
+      "Murder and nonnegligent Manslaughter rate": "6.8",
+      "Legacy rape rate": "35.9",
+      "Robbery rate": "99.1",
+      "Aggravated assault rate": "455"
+    },
+    "state46": {
+      "Population": "823593",
+      "Violent crime rate": "255.6",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "61.1",
+      "Robbery rate": "20.3",
+      "Aggravated assault rate": "171.8"
+    },
+    "state47": {
+      "Population": "6399787",
+      "Violent crime rate": "607.8",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "32.7",
+      "Robbery rate": "126.3",
+      "Aggravated assault rate": "442.8"
+    },
+    "state48": {
+      "Population": "25631778",
+      "Violent crime rate": "408.6",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "29.2",
+      "Robbery rate": "111.7",
+      "Aggravated assault rate": "263.3"
+    },
+    "state49": {
+      "Population": "2814347",
+      "Violent crime rate": "197.1",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "32",
+      "Robbery rate": "38.3",
+      "Aggravated assault rate": "125"
+    },
+    "state50": {
+      "Population": "626592",
+      "Violent crime rate": "147.6",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "23.3",
+      "Robbery rate": "15.8",
+      "Aggravated assault rate": "106.8"
+    },
+    "state51": {
+      "Population": "8104384",
+      "Violent crime rate": "197.6",
+      "Murder and nonnegligent Manslaughter rate": "3.8",
+      "Legacy rape rate": "19.6",
+      "Robbery rate": "66.9",
+      "Aggravated assault rate": "107.3"
+    },
+    "state53": {
+      "Population": "6823267",
+      "Violent crime rate": "295.3",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "34",
+      "Robbery rate": "82.5",
+      "Aggravated assault rate": "176.5"
+    },
+    "state54": {
+      "Population": "1854908",
+      "Violent crime rate": "296.3",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "20.1",
+      "Robbery rate": "43.2",
+      "Aggravated assault rate": "228.4"
+    },
+    "state55": {
+      "Population": "5709843",
+      "Violent crime rate": "249.9",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "20.8",
+      "Robbery rate": "80.6",
+      "Aggravated assault rate": "146.1"
+    },
+    "state56": {
+      "Population": "567356",
+      "Violent crime rate": "219.4",
+      "Murder and nonnegligent Manslaughter rate": "3.2",
+      "Legacy rape rate": "25.7",
+      "Robbery rate": "12.5",
+      "Aggravated assault rate": "178"
+    }
+  },
+  "2012": {
+    "state01": {
+      "Population": "4817528",
+      "Violent crime rate": "450.3",
+      "Murder and nonnegligent Manslaughter rate": "7.1",
+      "Legacy rape rate": "26.9",
+      "Robbery rate": "104.2",
+      "Aggravated assault rate": "312.1"
+    },
+    "state02": {
+      "Population": "730307",
+      "Violent crime rate": "604.1",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "79.8",
+      "Robbery rate": "86.3",
+      "Aggravated assault rate": "433.9"
+    },
+    "state04": {
+      "Population": "6551149",
+      "Violent crime rate": "428.6",
+      "Murder and nonnegligent Manslaughter rate": "5.5",
+      "Legacy rape rate": "34.8",
+      "Robbery rate": "112.7",
+      "Aggravated assault rate": "275.6"
+    },
+    "state05": {
+      "Population": "2949828",
+      "Violent crime rate": "469.6",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "41.8",
+      "Robbery rate": "78.3",
+      "Aggravated assault rate": "343.5"
+    },
+    "state06": {
+      "Population": "37999878",
+      "Violent crime rate": "423.5",
+      "Murder and nonnegligent Manslaughter rate": "5",
+      "Legacy rape rate": "20.6",
+      "Robbery rate": "148.7",
+      "Aggravated assault rate": "249.2"
+    },
+    "state08": {
+      "Population": "5189458",
+      "Violent crime rate": "307.4",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "40.9",
+      "Robbery rate": "65.4",
+      "Aggravated assault rate": "198.2"
+    },
+    "state09": {
+      "Population": "3591765",
+      "Violent crime rate": "283.5",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "26",
+      "Robbery rate": "103.3",
+      "Aggravated assault rate": "151"
+    },
+    "state10": {
+      "Population": "917053",
+      "Violent crime rate": "550.5",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "27.2",
+      "Robbery rate": "163.3",
+      "Aggravated assault rate": "353.9"
+    },
+    "state11": {
+      "Population": "633427",
+      "Violent crime rate": "1241.8",
+      "Murder and nonnegligent Manslaughter rate": "13.9",
+      "Legacy rape rate": "37.3",
+      "Robbery rate": "637.3",
+      "Aggravated assault rate": "553.3"
+    },
+    "state12": {
+      "Population": "19320749",
+      "Violent crime rate": "487",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "27.2",
+      "Robbery rate": "123.6",
+      "Aggravated assault rate": "330.9"
+    },
+    "state13": {
+      "Population": "9915646",
+      "Violent crime rate": "380",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "21.6",
+      "Robbery rate": "126.1",
+      "Aggravated assault rate": "226.4"
+    },
+    "state15": {
+      "Population": "1390090",
+      "Violent crime rate": "243",
+      "Murder and nonnegligent Manslaughter rate": "1.5",
+      "Legacy rape rate": "20.1",
+      "Robbery rate": "80.9",
+      "Aggravated assault rate": "140.5"
+    },
+    "state16": {
+      "Population": "1595590",
+      "Violent crime rate": "209.8",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "31",
+      "Robbery rate": "15.2",
+      "Aggravated assault rate": "161.7"
+    },
+    "state17": {
+      "Population": "12868192",
+      "Violent crime rate": "416.2",
+      "Murder and nonnegligent Manslaughter rate": "6",
+      "Legacy rape rate": "27.8",
+      "Robbery rate": "151.4",
+      "Aggravated assault rate": "231"
+    },
+    "state18": {
+      "Population": "6537782",
+      "Violent crime rate": "344.8",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "25.4",
+      "Robbery rate": "101",
+      "Aggravated assault rate": "213.8"
+    },
+    "state19": {
+      "Population": "3075039",
+      "Violent crime rate": "265.6",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "29.3",
+      "Robbery rate": "31.3",
+      "Aggravated assault rate": "203.4"
+    },
+    "state20": {
+      "Population": "2885398",
+      "Violent crime rate": "356.7",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "38.3",
+      "Robbery rate": "51.7",
+      "Aggravated assault rate": "263.7"
+    },
+    "state21": {
+      "Population": "4379730",
+      "Violent crime rate": "224.9",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "30",
+      "Robbery rate": "81",
+      "Aggravated assault rate": "109.4"
+    },
+    "state22": {
+      "Population": "4602134",
+      "Violent crime rate": "496.3",
+      "Murder and nonnegligent Manslaughter rate": "10.6",
+      "Legacy rape rate": "25.1",
+      "Robbery rate": "118.6",
+      "Aggravated assault rate": "342"
+    },
+    "state23": {
+      "Population": "1328501",
+      "Violent crime rate": "122.4",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "28",
+      "Robbery rate": "31.6",
+      "Aggravated assault rate": "60.8"
+    },
+    "state24": {
+      "Population": "5884868",
+      "Violent crime rate": "477.3",
+      "Murder and nonnegligent Manslaughter rate": "6.3",
+      "Legacy rape rate": "21",
+      "Robbery rate": "172.9",
+      "Aggravated assault rate": "277"
+    },
+    "state25": {
+      "Population": "6645303",
+      "Violent crime rate": "407",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "24.8",
+      "Robbery rate": "98.6",
+      "Aggravated assault rate": "281.7"
+    },
+    "state26": {
+      "Population": "9882519",
+      "Violent crime rate": "455",
+      "Murder and nonnegligent Manslaughter rate": "7.1",
+      "Legacy rape rate": "46.9",
+      "Robbery rate": "105.5",
+      "Aggravated assault rate": "295.5"
+    },
+    "state27": {
+      "Population": "5379646",
+      "Violent crime rate": "230.9",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "30.4",
+      "Robbery rate": "64.6",
+      "Aggravated assault rate": "134"
+    },
+    "state28": {
+      "Population": "2986450",
+      "Violent crime rate": "260.1",
+      "Murder and nonnegligent Manslaughter rate": "7.1",
+      "Legacy rape rate": "27.4",
+      "Robbery rate": "76.2",
+      "Aggravated assault rate": "149.3"
+    },
+    "state29": {
+      "Population": "6024522",
+      "Violent crime rate": "451.3",
+      "Murder and nonnegligent Manslaughter rate": "6.5",
+      "Legacy rape rate": "25.3",
+      "Robbery rate": "96",
+      "Aggravated assault rate": "323.5"
+    },
+    "state30": {
+      "Population": "1005494",
+      "Violent crime rate": "278.8",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "39",
+      "Robbery rate": "20.1",
+      "Aggravated assault rate": "216.8"
+    },
+    "state31": {
+      "Population": "1855350",
+      "Violent crime rate": "258.8",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "38.3",
+      "Robbery rate": "60.8",
+      "Aggravated assault rate": "157"
+    },
+    "state32": {
+      "Population": "2754354",
+      "Violent crime rate": "608.6",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "33.8",
+      "Robbery rate": "178.6",
+      "Aggravated assault rate": "391.7"
+    },
+    "state33": {
+      "Population": "1321617",
+      "Violent crime rate": "215",
+      "Murder and nonnegligent Manslaughter rate": "1.1",
+      "Legacy rape rate": "36.8",
+      "Robbery rate": "35.6",
+      "Aggravated assault rate": "141.4"
+    },
+    "state34": {
+      "Population": "8867749",
+      "Violent crime rate": "290.1",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "11.7",
+      "Robbery rate": "128.4",
+      "Aggravated assault rate": "145.7"
+    },
+    "state35": {
+      "Population": "2083540",
+      "Violent crime rate": "559.6",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "45.9",
+      "Robbery rate": "88.6",
+      "Aggravated assault rate": "419.5"
+    },
+    "state36": {
+      "Population": "19576125",
+      "Violent crime rate": "406.3",
+      "Murder and nonnegligent Manslaughter rate": "3.5",
+      "Legacy rape rate": "14.5",
+      "Robbery rate": "146.3",
+      "Aggravated assault rate": "242"
+    },
+    "state37": {
+      "Population": "9748364",
+      "Violent crime rate": "353.5",
+      "Murder and nonnegligent Manslaughter rate": "4.9",
+      "Legacy rape rate": "20.4",
+      "Robbery rate": "96.3",
+      "Aggravated assault rate": "231.9"
+    },
+    "state38": {
+      "Population": "701345",
+      "Violent crime rate": "245.7",
+      "Murder and nonnegligent Manslaughter rate": "3.6",
+      "Legacy rape rate": "39.8",
+      "Robbery rate": "18.1",
+      "Aggravated assault rate": "184.2"
+    },
+    "state39": {
+      "Population": "11553031",
+      "Violent crime rate": "301.5",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "33",
+      "Robbery rate": "133.3",
+      "Aggravated assault rate": "131"
+    },
+    "state40": {
+      "Population": "3815780",
+      "Violent crime rate": "474.4",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "42.5",
+      "Robbery rate": "85.1",
+      "Aggravated assault rate": "341"
+    },
+    "state41": {
+      "Population": "3899801",
+      "Violent crime rate": "247.1",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "29.7",
+      "Robbery rate": "62",
+      "Aggravated assault rate": "153.1"
+    },
+    "state42": {
+      "Population": "12764475",
+      "Violent crime rate": "355.5",
+      "Murder and nonnegligent Manslaughter rate": "5.5",
+      "Legacy rape rate": "26.4",
+      "Robbery rate": "123.3",
+      "Aggravated assault rate": "200.3"
+    },
+    "state44": {
+      "Population": "1050304",
+      "Violent crime rate": "253",
+      "Murder and nonnegligent Manslaughter rate": "3.4",
+      "Legacy rape rate": "27.8",
+      "Robbery rate": "68.1",
+      "Aggravated assault rate": "153.7"
+    },
+    "state45": {
+      "Population": "4723417",
+      "Violent crime rate": "560.5",
+      "Murder and nonnegligent Manslaughter rate": "7",
+      "Legacy rape rate": "36.2",
+      "Robbery rate": "95.5",
+      "Aggravated assault rate": "421.7"
+    },
+    "state46": {
+      "Population": "834047",
+      "Violent crime rate": "323.8",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "71.9",
+      "Robbery rate": "18.8",
+      "Aggravated assault rate": "230.3"
+    },
+    "state47": {
+      "Population": "6454914",
+      "Violent crime rate": "638.5",
+      "Murder and nonnegligent Manslaughter rate": "6.2",
+      "Legacy rape rate": "31.7",
+      "Robbery rate": "126.3",
+      "Aggravated assault rate": "474.3"
+    },
+    "state48": {
+      "Population": "26060796",
+      "Violent crime rate": "408.6",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "29.6",
+      "Robbery rate": "116.6",
+      "Aggravated assault rate": "258"
+    },
+    "state49": {
+      "Population": "2854871",
+      "Violent crime rate": "208",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "34.2",
+      "Robbery rate": "38.7",
+      "Aggravated assault rate": "133.4"
+    },
+    "state50": {
+      "Population": "625953",
+      "Violent crime rate": "142.3",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "20.9",
+      "Robbery rate": "18.2",
+      "Aggravated assault rate": "101.9"
+    },
+    "state51": {
+      "Population": "8186628",
+      "Violent crime rate": "191.5",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "18.4",
+      "Robbery rate": "57.6",
+      "Aggravated assault rate": "111.5"
+    },
+    "state53": {
+      "Population": "6895318",
+      "Violent crime rate": "298.1",
+      "Murder and nonnegligent Manslaughter rate": "3.1",
+      "Legacy rape rate": "32.6",
+      "Robbery rate": "84.1",
+      "Aggravated assault rate": "178.2"
+    },
+    "state54": {
+      "Population": "1856680",
+      "Violent crime rate": "320.1",
+      "Murder and nonnegligent Manslaughter rate": "3.8",
+      "Legacy rape rate": "22.4",
+      "Robbery rate": "45",
+      "Aggravated assault rate": "249"
+    },
+    "state55": {
+      "Population": "5724554",
+      "Violent crime rate": "283.9",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "21.5",
+      "Robbery rate": "82",
+      "Aggravated assault rate": "177.6"
+    },
+    "state56": {
+      "Population": "576626",
+      "Violent crime rate": "201.3",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "26.7",
+      "Robbery rate": "10.6",
+      "Aggravated assault rate": "161.6"
+    }
+  },
+  "2013": {
+    "state01": {
+      "Population": "4833996",
+      "Violent crime rate": "431",
+      "Murder and nonnegligent Manslaughter rate": "7.2",
+      "Legacy rape rate": "30",
+      "Robbery rate": "96.1",
+      "Aggravated assault rate": "285.2"
+    },
+    "state02": {
+      "Population": "737259",
+      "Violent crime rate": "638.7",
+      "Murder and nonnegligent Manslaughter rate": "4.6",
+      "Legacy rape rate": "89.1",
+      "Robbery rate": "84.5",
+      "Aggravated assault rate": "424.1"
+    },
+    "state04": {
+      "Population": "6634997",
+      "Violent crime rate": "415.6",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "35.3",
+      "Robbery rate": "100.3",
+      "Aggravated assault rate": "262.1"
+    },
+    "state05": {
+      "Population": "2958765",
+      "Violent crime rate": "463.2",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "38.4",
+      "Robbery rate": "76.4",
+      "Aggravated assault rate": "331.1"
+    },
+    "state06": {
+      "Population": "38431393",
+      "Violent crime rate": "402.6",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "19.4",
+      "Robbery rate": "139.6",
+      "Aggravated assault rate": "231.7"
+    },
+    "state08": {
+      "Population": "5272086",
+      "Violent crime rate": "305.4",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "41.7",
+      "Robbery rate": "59.5",
+      "Aggravated assault rate": "186.4"
+    },
+    "state09": {
+      "Population": "3599341",
+      "Violent crime rate": "262.2",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "18",
+      "Robbery rate": "98.7",
+      "Aggravated assault rate": "136.3"
+    },
+    "state10": {
+      "Population": "925240",
+      "Violent crime rate": "500.7",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "30",
+      "Robbery rate": "133.3",
+      "Aggravated assault rate": "319.9"
+    },
+    "state11": {
+      "Population": "649111",
+      "Violent crime rate": "1296.4",
+      "Murder and nonnegligent Manslaughter rate": "15.9",
+      "Legacy rape rate": "45.8",
+      "Robbery rate": "628.9",
+      "Aggravated assault rate": "590.8"
+    },
+    "state12": {
+      "Population": "19600311",
+      "Violent crime rate": "469.3",
+      "Murder and nonnegligent Manslaughter rate": "5",
+      "Legacy rape rate": "24.3",
+      "Robbery rate": "118.4",
+      "Aggravated assault rate": "311.5"
+    },
+    "state13": {
+      "Population": "9994759",
+      "Violent crime rate": "375.4",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "20.2",
+      "Robbery rate": "127.1",
+      "Aggravated assault rate": "213.7"
+    },
+    "state15": {
+      "Population": "1408987",
+      "Violent crime rate": "254.4",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "26",
+      "Robbery rate": "66.3",
+      "Aggravated assault rate": "149.8"
+    },
+    "state16": {
+      "Population": "1612843",
+      "Violent crime rate": "215.2",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "32",
+      "Robbery rate": "13.6",
+      "Aggravated assault rate": "158"
+    },
+    "state17": {
+      "Population": "12890552",
+      "Violent crime rate": "403.1",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "30.2",
+      "Robbery rate": "137.6",
+      "Aggravated assault rate": "218.5"
+    },
+    "state18": {
+      "Population": "6570713",
+      "Violent crime rate": "359.6",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "24.7",
+      "Robbery rate": "108.3",
+      "Aggravated assault rate": "211.8"
+    },
+    "state19": {
+      "Population": "3092341",
+      "Violent crime rate": "273",
+      "Murder and nonnegligent Manslaughter rate": "1.3",
+      "Legacy rape rate": "28.2",
+      "Robbery rate": "30.3",
+      "Aggravated assault rate": "204.8"
+    },
+    "state20": {
+      "Population": "2895801",
+      "Violent crime rate": "342.8",
+      "Murder and nonnegligent Manslaughter rate": "4",
+      "Legacy rape rate": "34.6",
+      "Robbery rate": "46.2",
+      "Aggravated assault rate": "247.8"
+    },
+    "state21": {
+      "Population": "4399583",
+      "Violent crime rate": "210.9",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "21.6",
+      "Robbery rate": "73.8",
+      "Aggravated assault rate": "95.8"
+    },
+    "state22": {
+      "Population": "4629284",
+      "Violent crime rate": "521.2",
+      "Murder and nonnegligent Manslaughter rate": "10.7",
+      "Legacy rape rate": "27",
+      "Robbery rate": "119.7",
+      "Aggravated assault rate": "352.8"
+    },
+    "state23": {
+      "Population": "1328702",
+      "Violent crime rate": "132.5",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "27.5",
+      "Robbery rate": "25.2",
+      "Aggravated assault rate": "68.3"
+    },
+    "state24": {
+      "Population": "5938737",
+      "Violent crime rate": "475.4",
+      "Murder and nonnegligent Manslaughter rate": "6.5",
+      "Legacy rape rate": "19.9",
+      "Robbery rate": "169.2",
+      "Aggravated assault rate": "271.5"
+    },
+    "state25": {
+      "Population": "6708874",
+      "Violent crime rate": "406.4",
+      "Murder and nonnegligent Manslaughter rate": "2.1",
+      "Legacy rape rate": "25.7",
+      "Robbery rate": "99.9",
+      "Aggravated assault rate": "270.1"
+    },
+    "state26": {
+      "Population": "9898193",
+      "Violent crime rate": "452.2",
+      "Murder and nonnegligent Manslaughter rate": "6.3",
+      "Legacy rape rate": "45.5",
+      "Robbery rate": "102",
+      "Aggravated assault rate": "275.3"
+    },
+    "state27": {
+      "Population": "5422060",
+      "Violent crime rate": "234.4",
+      "Murder and nonnegligent Manslaughter rate": "2.1",
+      "Legacy rape rate": "26.8",
+      "Robbery rate": "67.8",
+      "Aggravated assault rate": "127.4"
+    },
+    "state28": {
+      "Population": "2992206",
+      "Violent crime rate": "277.5",
+      "Murder and nonnegligent Manslaughter rate": "7.3",
+      "Legacy rape rate": "24.3",
+      "Robbery rate": "80.6",
+      "Aggravated assault rate": "155.4"
+    },
+    "state29": {
+      "Population": "6044917",
+      "Violent crime rate": "433.7",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "27.8",
+      "Robbery rate": "90.8",
+      "Aggravated assault rate": "298.7"
+    },
+    "state30": {
+      "Population": "1014864",
+      "Violent crime rate": "288.1",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "37.6",
+      "Robbery rate": "21.4",
+      "Aggravated assault rate": "218.5"
+    },
+    "state31": {
+      "Population": "1868969",
+      "Violent crime rate": "264.8",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "33.2",
+      "Robbery rate": "55.4",
+      "Aggravated assault rate": "161.1"
+    },
+    "state32": {
+      "Population": "2791494",
+      "Violent crime rate": "605",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "39",
+      "Robbery rate": "185.7",
+      "Aggravated assault rate": "360.4"
+    },
+    "state33": {
+      "Population": "1322616",
+      "Violent crime rate": "223.2",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "39.5",
+      "Robbery rate": "48.9",
+      "Aggravated assault rate": "113.9"
+    },
+    "state34": {
+      "Population": "8911502",
+      "Violent crime rate": "288.9",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "9.7",
+      "Robbery rate": "135.6",
+      "Aggravated assault rate": "135.5"
+    },
+    "state35": {
+      "Population": "2086895",
+      "Violent crime rate": "622.5",
+      "Murder and nonnegligent Manslaughter rate": "5.9",
+      "Legacy rape rate": "54.4",
+      "Robbery rate": "87.8",
+      "Aggravated assault rate": "453.8"
+    },
+    "state36": {
+      "Population": "19695680",
+      "Violent crime rate": "393.8",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "13.1",
+      "Robbery rate": "138.3",
+      "Aggravated assault rate": "234.2"
+    },
+    "state37": {
+      "Population": "9848917",
+      "Violent crime rate": "341",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "18.2",
+      "Robbery rate": "94.2",
+      "Aggravated assault rate": "216.5"
+    },
+    "state38": {
+      "Population": "723857",
+      "Violent crime rate": "273.4",
+      "Murder and nonnegligent Manslaughter rate": "2.2",
+      "Legacy rape rate": "39.8",
+      "Robbery rate": "22.2",
+      "Aggravated assault rate": "199.9"
+    },
+    "state39": {
+      "Population": "11572005",
+      "Violent crime rate": "291.4",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "31.1",
+      "Robbery rate": "125.2",
+      "Aggravated assault rate": "124.2"
+    },
+    "state40": {
+      "Population": "3853118",
+      "Violent crime rate": "446.1",
+      "Murder and nonnegligent Manslaughter rate": "5.1",
+      "Legacy rape rate": "44.5",
+      "Robbery rate": "78.5",
+      "Aggravated assault rate": "302.4"
+    },
+    "state41": {
+      "Population": "3928068",
+      "Violent crime rate": "242.8",
+      "Murder and nonnegligent Manslaughter rate": "2.1",
+      "Legacy rape rate": "25.5",
+      "Robbery rate": "60.9",
+      "Aggravated assault rate": "142.5"
+    },
+    "state42": {
+      "Population": "12781296",
+      "Violent crime rate": "335.1",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "21.3",
+      "Robbery rate": "115.3",
+      "Aggravated assault rate": "185.3"
+    },
+    "state44": {
+      "Population": "1053354",
+      "Violent crime rate": "257.3",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "31.6",
+      "Robbery rate": "64.8",
+      "Aggravated assault rate": "146.9"
+    },
+    "state45": {
+      "Population": "4771929",
+      "Violent crime rate": "508.5",
+      "Murder and nonnegligent Manslaughter rate": "6.4",
+      "Legacy rape rate": "36.4",
+      "Robbery rate": "83.1",
+      "Aggravated assault rate": "372.2"
+    },
+    "state46": {
+      "Population": "845510",
+      "Violent crime rate": "323.2",
+      "Murder and nonnegligent Manslaughter rate": "2.1",
+      "Legacy rape rate": "53.7",
+      "Robbery rate": "18.5",
+      "Aggravated assault rate": "242.7"
+    },
+    "state47": {
+      "Population": "6497269",
+      "Violent crime rate": "585.8",
+      "Murder and nonnegligent Manslaughter rate": "5.2",
+      "Legacy rape rate": "29.3",
+      "Robbery rate": "112.9",
+      "Aggravated assault rate": "429.3"
+    },
+    "state48": {
+      "Population": "26505637",
+      "Violent crime rate": "410.3",
+      "Murder and nonnegligent Manslaughter rate": "4.3",
+      "Legacy rape rate": "28.7",
+      "Robbery rate": "120",
+      "Aggravated assault rate": "246.6"
+    },
+    "state49": {
+      "Population": "2902787",
+      "Violent crime rate": "228.9",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "31.9",
+      "Robbery rate": "43",
+      "Aggravated assault rate": "131.7"
+    },
+    "state50": {
+      "Population": "626855",
+      "Violent crime rate": "123.6",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "18",
+      "Robbery rate": "12",
+      "Aggravated assault rate": "88.4"
+    },
+    "state51": {
+      "Population": "8270345",
+      "Violent crime rate": "197.8",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "17.8",
+      "Robbery rate": "55.3",
+      "Aggravated assault rate": "110.2"
+    },
+    "state53": {
+      "Population": "6973742",
+      "Violent crime rate": "290",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "29.7",
+      "Robbery rate": "83.6",
+      "Aggravated assault rate": "166.7"
+    },
+    "state54": {
+      "Population": "1853595",
+      "Violent crime rate": "305.2",
+      "Murder and nonnegligent Manslaughter rate": "3.3",
+      "Legacy rape rate": "19.8",
+      "Robbery rate": "35.2",
+      "Aggravated assault rate": "228.9"
+    },
+    "state55": {
+      "Population": "5742953",
+      "Violent crime rate": "280.7",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "22.8",
+      "Robbery rate": "84.2",
+      "Aggravated assault rate": "161.7"
+    },
+    "state56": {
+      "Population": "583223",
+      "Violent crime rate": "207.8",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "24.7",
+      "Robbery rate": "12.7",
+      "Aggravated assault rate": "157.2"
+    }
+  },
+  "2014": {
+    "state01": {
+      "Population": "4849377",
+      "Violent crime rate": "427.4",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "29.6",
+      "Robbery rate": "96.9",
+      "Aggravated assault rate": "283.4"
+    },
+    "state02": {
+      "Population": "736732",
+      "Violent crime rate": "635.8",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "75.3",
+      "Robbery rate": "85.4",
+      "Aggravated assault rate": "440.2"
+    },
+    "state04": {
+      "Population": "6731484",
+      "Violent crime rate": "399.9",
+      "Murder and nonnegligent Manslaughter rate": "4.7",
+      "Legacy rape rate": "36.6",
+      "Robbery rate": "92.8",
+      "Aggravated assault rate": "252.1"
+    },
+    "state05": {
+      "Population": "2966369",
+      "Violent crime rate": "480.1",
+      "Murder and nonnegligent Manslaughter rate": "5.6",
+      "Legacy rape rate": "39.8",
+      "Robbery rate": "69.1",
+      "Aggravated assault rate": "346"
+    },
+    "state06": {
+      "Population": "38802500",
+      "Violent crime rate": "396.1",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "21.6",
+      "Robbery rate": "125.5",
+      "Aggravated assault rate": "236.6"
+    },
+    "state08": {
+      "Population": "5355866",
+      "Violent crime rate": "309.1",
+      "Murder and nonnegligent Manslaughter rate": "2.8",
+      "Legacy rape rate": "39.6",
+      "Robbery rate": "56.7",
+      "Aggravated assault rate": "192.8"
+    },
+    "state09": {
+      "Population": "3596677",
+      "Violent crime rate": "236.9",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "15.9",
+      "Robbery rate": "87.8",
+      "Aggravated assault rate": "125"
+    },
+    "state10": {
+      "Population": "935614",
+      "Violent crime rate": "489.1",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "26.6",
+      "Robbery rate": "135.6",
+      "Aggravated assault rate": "306.4"
+    },
+    "state11": {
+      "Population": "658893",
+      "Violent crime rate": "1244.4",
+      "Murder and nonnegligent Manslaughter rate": "15.9",
+      "Legacy rape rate": "53.4",
+      "Robbery rate": "530.7",
+      "Aggravated assault rate": "626.1"
+    },
+    "state12": {
+      "Population": "19893297",
+      "Violent crime rate": "540.5",
+      "Murder and nonnegligent Manslaughter rate": "5.8",
+      "Legacy rape rate": "30.4",
+      "Robbery rate": "125.2",
+      "Aggravated assault rate": "366.4"
+    },
+    "state13": {
+      "Population": "10097343",
+      "Violent crime rate": "377.3",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "21.4",
+      "Robbery rate": "123",
+      "Aggravated assault rate": "218.4"
+    },
+    "state15": {
+      "Population": "1419561",
+      "Violent crime rate": "259.2",
+      "Murder and nonnegligent Manslaughter rate": "1.8",
+      "Legacy rape rate": "22.1",
+      "Robbery rate": "78",
+      "Aggravated assault rate": "148.1"
+    },
+    "state16": {
+      "Population": "1634464",
+      "Violent crime rate": "212.2",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "28.6",
+      "Robbery rate": "12.5",
+      "Aggravated assault rate": "160.5"
+    },
+    "state17": {
+      "Population": "12880580",
+      "Violent crime rate": "370",
+      "Murder and nonnegligent Manslaughter rate": "5.3",
+      "Legacy rape rate": "23.9",
+      "Robbery rate": "118.8",
+      "Aggravated assault rate": "213.7"
+    },
+    "state18": {
+      "Population": "6596855",
+      "Violent crime rate": "365.3",
+      "Murder and nonnegligent Manslaughter rate": "5",
+      "Legacy rape rate": "24.5",
+      "Robbery rate": "104.5",
+      "Aggravated assault rate": "222.6"
+    },
+    "state19": {
+      "Population": "3107126",
+      "Violent crime rate": "273.5",
+      "Murder and nonnegligent Manslaughter rate": "1.9",
+      "Legacy rape rate": "26.6",
+      "Robbery rate": "33.6",
+      "Aggravated assault rate": "201.6"
+    },
+    "state20": {
+      "Population": "2904021",
+      "Violent crime rate": "348.6",
+      "Murder and nonnegligent Manslaughter rate": "3.1",
+      "Legacy rape rate": "37",
+      "Robbery rate": "46.9",
+      "Aggravated assault rate": "250"
+    },
+    "state21": {
+      "Population": "4413457",
+      "Violent crime rate": "211.6",
+      "Murder and nonnegligent Manslaughter rate": "3.6",
+      "Legacy rape rate": "20",
+      "Robbery rate": "75.6",
+      "Aggravated assault rate": "99.8"
+    },
+    "state22": {
+      "Population": "4649676",
+      "Violent crime rate": "514.7",
+      "Murder and nonnegligent Manslaughter rate": "10.3",
+      "Legacy rape rate": "21.3",
+      "Robbery rate": "122.5",
+      "Aggravated assault rate": "352.4"
+    },
+    "state23": {
+      "Population": "1330089",
+      "Violent crime rate": "127.8",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "27.1",
+      "Robbery rate": "22.9",
+      "Aggravated assault rate": "66.9"
+    },
+    "state24": {
+      "Population": "5976407",
+      "Violent crime rate": "446.1",
+      "Murder and nonnegligent Manslaughter rate": "6.1",
+      "Legacy rape rate": "19.1",
+      "Robbery rate": "159.7",
+      "Aggravated assault rate": "253.2"
+    },
+    "state25": {
+      "Population": "6745408",
+      "Violent crime rate": "391.4",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "24.1",
+      "Robbery rate": "89.5",
+      "Aggravated assault rate": "267.6"
+    },
+    "state26": {
+      "Population": "9909877",
+      "Violent crime rate": "427.3",
+      "Murder and nonnegligent Manslaughter rate": "5.4",
+      "Legacy rape rate": "40.9",
+      "Robbery rate": "80.9",
+      "Aggravated assault rate": "277.7"
+    },
+    "state27": {
+      "Population": "5457173",
+      "Violent crime rate": "229.1",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "26.6",
+      "Robbery rate": "67.6",
+      "Aggravated assault rate": "123.3"
+    },
+    "state28": {
+      "Population": "2994079",
+      "Violent crime rate": "278.5",
+      "Murder and nonnegligent Manslaughter rate": "8.6",
+      "Legacy rape rate": "25.5",
+      "Robbery rate": "81.2",
+      "Aggravated assault rate": "153.4"
+    },
+    "state29": {
+      "Population": "6063589",
+      "Violent crime rate": "442.9",
+      "Murder and nonnegligent Manslaughter rate": "6.6",
+      "Legacy rape rate": "28.1",
+      "Robbery rate": "92.2",
+      "Aggravated assault rate": "304.8"
+    },
+    "state30": {
+      "Population": "1023579",
+      "Violent crime rate": "323.7",
+      "Murder and nonnegligent Manslaughter rate": "3.6",
+      "Legacy rape rate": "42",
+      "Robbery rate": "19.8",
+      "Aggravated assault rate": "247.4"
+    },
+    "state31": {
+      "Population": "1881503",
+      "Violent crime rate": "280.4",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "33",
+      "Robbery rate": "55.4",
+      "Aggravated assault rate": "176.2"
+    },
+    "state32": {
+      "Population": "2839099",
+      "Violent crime rate": "635.6",
+      "Murder and nonnegligent Manslaughter rate": "6",
+      "Legacy rape rate": "35",
+      "Robbery rate": "209.7",
+      "Aggravated assault rate": "372.1"
+    },
+    "state33": {
+      "Population": "1326813",
+      "Violent crime rate": "196.1",
+      "Murder and nonnegligent Manslaughter rate": "0.9",
+      "Legacy rape rate": "34.5",
+      "Robbery rate": "40.5",
+      "Aggravated assault rate": "110"
+    },
+    "state34": {
+      "Population": "8938175",
+      "Violent crime rate": "261.2",
+      "Murder and nonnegligent Manslaughter rate": "3.9",
+      "Legacy rape rate": "10.7",
+      "Robbery rate": "117.5",
+      "Aggravated assault rate": "125.6"
+    },
+    "state35": {
+      "Population": "2085572",
+      "Violent crime rate": "597.4",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "51.4",
+      "Robbery rate": "100",
+      "Aggravated assault rate": "421.8"
+    },
+    "state36": {
+      "Population": "19746227",
+      "Violent crime rate": "381.8",
+      "Murder and nonnegligent Manslaughter rate": "3.1",
+      "Legacy rape rate": "19.8",
+      "Robbery rate": "121.8",
+      "Aggravated assault rate": "229.4"
+    },
+    "state37": {
+      "Population": "9943964",
+      "Violent crime rate": "329.5",
+      "Murder and nonnegligent Manslaughter rate": "5.1",
+      "Legacy rape rate": "17.5",
+      "Robbery rate": "84.6",
+      "Aggravated assault rate": "215.4"
+    },
+    "state38": {
+      "Population": "739482",
+      "Violent crime rate": "265.1",
+      "Murder and nonnegligent Manslaughter rate": "3",
+      "Legacy rape rate": "37.3",
+      "Robbery rate": "23.4",
+      "Aggravated assault rate": "190.3"
+    },
+    "state39": {
+      "Population": "11594163",
+      "Violent crime rate": "284.9",
+      "Murder and nonnegligent Manslaughter rate": "4",
+      "Legacy rape rate": "35.3",
+      "Robbery rate": "110",
+      "Aggravated assault rate": "127.4"
+    },
+    "state40": {
+      "Population": "3878051",
+      "Violent crime rate": "406",
+      "Murder and nonnegligent Manslaughter rate": "4.5",
+      "Legacy rape rate": "32.9",
+      "Robbery rate": "78.6",
+      "Aggravated assault rate": "277"
+    },
+    "state41": {
+      "Population": "3970239",
+      "Violent crime rate": "232.3",
+      "Murder and nonnegligent Manslaughter rate": "2",
+      "Legacy rape rate": "26.5",
+      "Robbery rate": "52.7",
+      "Aggravated assault rate": "140.8"
+    },
+    "state42": {
+      "Population": "12787209",
+      "Violent crime rate": "314.1",
+      "Murder and nonnegligent Manslaughter rate": "4.8",
+      "Legacy rape rate": "21.8",
+      "Robbery rate": "105.8",
+      "Aggravated assault rate": "173.5"
+    },
+    "state44": {
+      "Population": "1055173",
+      "Violent crime rate": "219.2",
+      "Murder and nonnegligent Manslaughter rate": "2.4",
+      "Legacy rape rate": "24",
+      "Robbery rate": "50.1",
+      "Aggravated assault rate": "132.5"
+    },
+    "state45": {
+      "Population": "4832482",
+      "Violent crime rate": "497.7",
+      "Murder and nonnegligent Manslaughter rate": "6.4",
+      "Legacy rape rate": "30.6",
+      "Robbery rate": "82.7",
+      "Aggravated assault rate": "365.8"
+    },
+    "state46": {
+      "Population": "853175",
+      "Violent crime rate": "326.5",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "48.4",
+      "Robbery rate": "23.4",
+      "Aggravated assault rate": "245.7"
+    },
+    "state47": {
+      "Population": "6549352",
+      "Violent crime rate": "608.4",
+      "Murder and nonnegligent Manslaughter rate": "5.7",
+      "Legacy rape rate": "28.4",
+      "Robbery rate": "110.9",
+      "Aggravated assault rate": "453.2"
+    },
+    "state48": {
+      "Population": "26956958",
+      "Violent crime rate": "405.9",
+      "Murder and nonnegligent Manslaughter rate": "4.4",
+      "Legacy rape rate": "30.6",
+      "Robbery rate": "115.7",
+      "Aggravated assault rate": "243.6"
+    },
+    "state49": {
+      "Population": "2942902",
+      "Violent crime rate": "215.6",
+      "Murder and nonnegligent Manslaughter rate": "2.3",
+      "Legacy rape rate": "32.1",
+      "Robbery rate": "44.6",
+      "Aggravated assault rate": "119.4"
+    },
+    "state50": {
+      "Population": "626562",
+      "Violent crime rate": "99.3",
+      "Murder and nonnegligent Manslaughter rate": "1.6",
+      "Legacy rape rate": "15.8",
+      "Robbery rate": "11.2",
+      "Aggravated assault rate": "68.9"
+    },
+    "state51": {
+      "Population": "8326289",
+      "Violent crime rate": "196.2",
+      "Murder and nonnegligent Manslaughter rate": "4.1",
+      "Legacy rape rate": "17.2",
+      "Robbery rate": "51.5",
+      "Aggravated assault rate": "112.9"
+    },
+    "state53": {
+      "Population": "7061530",
+      "Violent crime rate": "285.2",
+      "Murder and nonnegligent Manslaughter rate": "2.5",
+      "Legacy rape rate": "30.7",
+      "Robbery rate": "79.9",
+      "Aggravated assault rate": "164.7"
+    },
+    "state54": {
+      "Population": "1850326",
+      "Violent crime rate": "302",
+      "Murder and nonnegligent Manslaughter rate": "4",
+      "Legacy rape rate": "15.4",
+      "Robbery rate": "35.2",
+      "Aggravated assault rate": "235.5"
+    },
+    "state55": {
+      "Population": "5757564",
+      "Violent crime rate": "290.3",
+      "Murder and nonnegligent Manslaughter rate": "2.9",
+      "Legacy rape rate": "20.3",
+      "Robbery rate": "88",
+      "Aggravated assault rate": "170.4"
+    },
+    "state56": {
+      "Population": "584153",
+      "Violent crime rate": "195.5",
+      "Murder and nonnegligent Manslaughter rate": "2.7",
+      "Legacy rape rate": "21.6",
+      "Robbery rate": "9.1",
+      "Aggravated assault rate": "153.9"
+    }
+  }
+}

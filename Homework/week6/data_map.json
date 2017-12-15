@@ -1,0 +1,4496 @@
+{
+  "2004": {
+    "state01": {
+      "Population": "4525375",
+      "Violent crime total": "19324",
+      "Murder and nonnegligent Manslaughter": "254",
+      "Legacy rape": "1742",
+      "Robbery": "6042",
+      "Aggravated assault": "11286"
+    },
+    "state02": {
+      "Population": "657755",
+      "Violent crime total": "4159",
+      "Murder and nonnegligent Manslaughter": "37",
+      "Legacy rape": "558",
+      "Robbery": "447",
+      "Aggravated assault": "3117"
+    },
+    "state04": {
+      "Population": "5739879",
+      "Violent crime total": "28952",
+      "Murder and nonnegligent Manslaughter": "414",
+      "Legacy rape": "1896",
+      "Robbery": "7721",
+      "Aggravated assault": "18921"
+    },
+    "state05": {
+      "Population": "2750000",
+      "Violent crime total": "13814",
+      "Murder and nonnegligent Manslaughter": "176",
+      "Legacy rape": "1183",
+      "Robbery": "2372",
+      "Aggravated assault": "10083"
+    },
+    "state06": {
+      "Population": "35842038",
+      "Violent crime total": "189175",
+      "Murder and nonnegligent Manslaughter": "2392",
+      "Legacy rape": "9615",
+      "Robbery": "61768",
+      "Aggravated assault": "115400"
+    },
+    "state08": {
+      "Population": "4601821",
+      "Violent crime total": "17121",
+      "Murder and nonnegligent Manslaughter": "201",
+      "Legacy rape": "1945",
+      "Robbery": "3739",
+      "Aggravated assault": "11236"
+    },
+    "state09": {
+      "Population": "3498966",
+      "Violent crime total": "10113",
+      "Murder and nonnegligent Manslaughter": "100",
+      "Legacy rape": "755",
+      "Robbery": "4188",
+      "Aggravated assault": "5070"
+    },
+    "state10": {
+      "Population": "830069",
+      "Violent crime total": "5105",
+      "Murder and nonnegligent Manslaughter": "28",
+      "Legacy rape": "357",
+      "Robbery": "1343",
+      "Aggravated assault": "3377"
+    },
+    "state11": {
+      "Population": "554239",
+      "Violent crime total": "7590",
+      "Murder and nonnegligent Manslaughter": "198",
+      "Legacy rape": "222",
+      "Robbery": "3202",
+      "Aggravated assault": "3968"
+    },
+    "state12": {
+      "Population": "17385430",
+      "Violent crime total": "123754",
+      "Murder and nonnegligent Manslaughter": "946",
+      "Legacy rape": "6612",
+      "Robbery": "29997",
+      "Aggravated assault": "86199"
+    },
+    "state13": {
+      "Population": "8918129",
+      "Violent crime total": "40217",
+      "Murder and nonnegligent Manslaughter": "613",
+      "Legacy rape": "2387",
+      "Robbery": "13656",
+      "Aggravated assault": "23561"
+    },
+    "state15": {
+      "Population": "1262124",
+      "Violent crime total": "3213",
+      "Murder and nonnegligent Manslaughter": "33",
+      "Legacy rape": "333",
+      "Robbery": "944",
+      "Aggravated assault": "1903"
+    },
+    "state16": {
+      "Population": "1395140",
+      "Violent crime total": "3452",
+      "Murder and nonnegligent Manslaughter": "31",
+      "Legacy rape": "594",
+      "Robbery": "241",
+      "Aggravated assault": "2586"
+    },
+    "state17": {
+      "Population": "12712016",
+      "Violent crime total": "69365",
+      "Murder and nonnegligent Manslaughter": "780",
+      "Legacy rape": "4220",
+      "Robbery": "22582",
+      "Aggravated assault": "41783"
+    },
+    "state18": {
+      "Population": "6226537",
+      "Violent crime total": "20294",
+      "Murder and nonnegligent Manslaughter": "316",
+      "Legacy rape": "1803",
+      "Robbery": "6373",
+      "Aggravated assault": "11802"
+    },
+    "state19": {
+      "Population": "2952904",
+      "Violent crime total": "8499",
+      "Murder and nonnegligent Manslaughter": "44",
+      "Legacy rape": "782",
+      "Robbery": "1160",
+      "Aggravated assault": "6513"
+    },
+    "state20": {
+      "Population": "2733697",
+      "Violent crime total": "10330",
+      "Murder and nonnegligent Manslaughter": "122",
+      "Legacy rape": "1142",
+      "Robbery": "1812",
+      "Aggravated assault": "7254"
+    },
+    "state21": {
+      "Population": "4141835",
+      "Violent crime total": "10152",
+      "Murder and nonnegligent Manslaughter": "236",
+      "Legacy rape": "1238",
+      "Robbery": "3268",
+      "Aggravated assault": "5410"
+    },
+    "state22": {
+      "Population": "4506685",
+      "Violent crime total": "28844",
+      "Murder and nonnegligent Manslaughter": "574",
+      "Legacy rape": "1616",
+      "Robbery": "6564",
+      "Aggravated assault": "20090"
+    },
+    "state23": {
+      "Population": "1314985",
+      "Violent crime total": "1364",
+      "Murder and nonnegligent Manslaughter": "18",
+      "Legacy rape": "315",
+      "Robbery": "289",
+      "Aggravated assault": "742"
+    },
+    "state24": {
+      "Population": "5561332",
+      "Violent crime total": "38961",
+      "Murder and nonnegligent Manslaughter": "521",
+      "Legacy rape": "1317",
+      "Robbery": "12772",
+      "Aggravated assault": "24351"
+    },
+    "state25": {
+      "Population": "6407382",
+      "Violent crime total": "29489",
+      "Murder and nonnegligent Manslaughter": "171",
+      "Legacy rape": "1794",
+      "Robbery": "7484",
+      "Aggravated assault": "20040"
+    },
+    "state26": {
+      "Population": "10104206",
+      "Violent crime total": "49737",
+      "Murder and nonnegligent Manslaughter": "643",
+      "Legacy rape": "5482",
+      "Robbery": "11336",
+      "Aggravated assault": "32276"
+    },
+    "state27": {
+      "Population": "5096546",
+      "Violent crime total": "13751",
+      "Murder and nonnegligent Manslaughter": "113",
+      "Legacy rape": "2123",
+      "Robbery": "4070",
+      "Aggravated assault": "7445"
+    },
+    "state28": {
+      "Population": "2900768",
+      "Violent crime total": "8568",
+      "Murder and nonnegligent Manslaughter": "227",
+      "Legacy rape": "1161",
+      "Robbery": "2503",
+      "Aggravated assault": "4677"
+    },
+    "state29": {
+      "Population": "5759532",
+      "Violent crime total": "28226",
+      "Murder and nonnegligent Manslaughter": "354",
+      "Legacy rape": "1479",
+      "Robbery": "6630",
+      "Aggravated assault": "19763"
+    },
+    "state30": {
+      "Population": "926920",
+      "Violent crime total": "2723",
+      "Murder and nonnegligent Manslaughter": "30",
+      "Legacy rape": "273",
+      "Robbery": "233",
+      "Aggravated assault": "2187"
+    },
+    "state31": {
+      "Population": "1747704",
+      "Violent crime total": "5393",
+      "Murder and nonnegligent Manslaughter": "40",
+      "Legacy rape": "620",
+      "Robbery": "1138",
+      "Aggravated assault": "3595"
+    },
+    "state32": {
+      "Population": "2332898",
+      "Violent crime total": "14379",
+      "Murder and nonnegligent Manslaughter": "172",
+      "Legacy rape": "954",
+      "Robbery": "4905",
+      "Aggravated assault": "8348"
+    },
+    "state33": {
+      "Population": "1299169",
+      "Violent crime total": "2202",
+      "Murder and nonnegligent Manslaughter": "17",
+      "Legacy rape": "466",
+      "Robbery": "500",
+      "Aggravated assault": "1219"
+    },
+    "state34": {
+      "Population": "8685166",
+      "Violent crime total": "30943",
+      "Murder and nonnegligent Manslaughter": "392",
+      "Legacy rape": "1331",
+      "Robbery": "13076",
+      "Aggravated assault": "16144"
+    },
+    "state35": {
+      "Population": "1903006",
+      "Violent crime total": "13081",
+      "Murder and nonnegligent Manslaughter": "169",
+      "Legacy rape": "1039",
+      "Robbery": "2062",
+      "Aggravated assault": "9811"
+    },
+    "state36": {
+      "Population": "19280727",
+      "Violent crime total": "84914",
+      "Murder and nonnegligent Manslaughter": "889",
+      "Legacy rape": "3608",
+      "Robbery": "33506",
+      "Aggravated assault": "46911"
+    },
+    "state37": {
+      "Population": "636308",
+      "Violent crime total": "558",
+      "Murder and nonnegligent Manslaughter": "8",
+      "Legacy rape": "177",
+      "Robbery": "43",
+      "Aggravated assault": "330"
+    },
+    "state39": {
+      "Population": "11450143",
+      "Violent crime total": "38787",
+      "Murder and nonnegligent Manslaughter": "506",
+      "Legacy rape": "4744",
+      "Robbery": "17429",
+      "Aggravated assault": "16108"
+    },
+    "state40": {
+      "Population": "3523546",
+      "Violent crime total": "17635",
+      "Murder and nonnegligent Manslaughter": "186",
+      "Legacy rape": "1557",
+      "Robbery": "3090",
+      "Aggravated assault": "12802"
+    },
+    "state41": {
+      "Population": "3591363",
+      "Violent crime total": "10724",
+      "Murder and nonnegligent Manslaughter": "90",
+      "Legacy rape": "1283",
+      "Robbery": "2751",
+      "Aggravated assault": "6600"
+    },
+    "state42": {
+      "Population": "12394471",
+      "Violent crime total": "50998",
+      "Murder and nonnegligent Manslaughter": "650",
+      "Legacy rape": "3535",
+      "Robbery": "18474",
+      "Aggravated assault": "28339"
+    },
+    "state44": {
+      "Population": "1079916",
+      "Violent crime total": "2673",
+      "Murder and nonnegligent Manslaughter": "26",
+      "Legacy rape": "320",
+      "Robbery": "731",
+      "Aggravated assault": "1596"
+    },
+    "state45": {
+      "Population": "4197892",
+      "Violent crime total": "33160",
+      "Murder and nonnegligent Manslaughter": "286",
+      "Legacy rape": "1772",
+      "Robbery": "5468",
+      "Aggravated assault": "25634"
+    },
+    "state46": {
+      "Population": "770621",
+      "Violent crime total": "1319",
+      "Murder and nonnegligent Manslaughter": "17",
+      "Legacy rape": "336",
+      "Robbery": "112",
+      "Aggravated assault": "854"
+    },
+    "state47": {
+      "Population": "5893298",
+      "Violent crime total": "41113",
+      "Murder and nonnegligent Manslaughter": "357",
+      "Legacy rape": "2282",
+      "Robbery": "8863",
+      "Aggravated assault": "29611"
+    },
+    "state48": {
+      "Population": "22471549",
+      "Violent crime total": "121554",
+      "Murder and nonnegligent Manslaughter": "1364",
+      "Legacy rape": "8388",
+      "Robbery": "35817",
+      "Aggravated assault": "75985"
+    },
+    "state49": {
+      "Population": "621233",
+      "Violent crime total": "713",
+      "Murder and nonnegligent Manslaughter": "16",
+      "Legacy rape": "160",
+      "Robbery": "78",
+      "Aggravated assault": "459"
+    },
+    "state50": {
+      "Population": "7481332",
+      "Violent crime total": "20608",
+      "Murder and nonnegligent Manslaughter": "390",
+      "Legacy rape": "1816",
+      "Robbery": "6899",
+      "Aggravated assault": "11503"
+    },
+    "state53": {
+      "Population": "6207046",
+      "Violent crime total": "21330",
+      "Murder and nonnegligent Manslaughter": "190",
+      "Legacy rape": "2857",
+      "Robbery": "5866",
+      "Aggravated assault": "12417"
+    },
+    "state54": {
+      "Population": "1812548",
+      "Violent crime total": "5110",
+      "Murder and nonnegligent Manslaughter": "68",
+      "Legacy rape": "346",
+      "Robbery": "774",
+      "Aggravated assault": "3922"
+    },
+    "state55": {
+      "Population": "5503533",
+      "Violent crime total": "11548",
+      "Murder and nonnegligent Manslaughter": "154",
+      "Legacy rape": "1136",
+      "Robbery": "4067",
+      "Aggravated assault": "6191"
+    },
+    "state56": {
+      "Population": "505887",
+      "Violent crime total": "1163",
+      "Murder and nonnegligent Manslaughter": "11",
+      "Legacy rape": "112",
+      "Robbery": "67",
+      "Aggravated assault": "973"
+    }
+  },
+  "2005": {
+    "state01": {
+      "Population": "4548327",
+      "Violent crime total": "19678",
+      "Murder and nonnegligent Manslaughter": "374",
+      "Legacy rape": "1564",
+      "Robbery": "6447",
+      "Aggravated assault": "11293"
+    },
+    "state02": {
+      "Population": "663253",
+      "Violent crime total": "4194",
+      "Murder and nonnegligent Manslaughter": "32",
+      "Legacy rape": "538",
+      "Robbery": "537",
+      "Aggravated assault": "3087"
+    },
+    "state04": {
+      "Population": "5953007",
+      "Violent crime total": "30478",
+      "Murder and nonnegligent Manslaughter": "445",
+      "Legacy rape": "2006",
+      "Robbery": "8579",
+      "Aggravated assault": "19448"
+    },
+    "state05": {
+      "Population": "2775708",
+      "Violent crime total": "14670",
+      "Murder and nonnegligent Manslaughter": "189",
+      "Legacy rape": "1202",
+      "Robbery": "2532",
+      "Aggravated assault": "10747"
+    },
+    "state06": {
+      "Population": "36154147",
+      "Violent crime total": "190178",
+      "Murder and nonnegligent Manslaughter": "2503",
+      "Legacy rape": "9392",
+      "Robbery": "63622",
+      "Aggravated assault": "114661"
+    },
+    "state08": {
+      "Population": "4663295",
+      "Violent crime total": "18498",
+      "Murder and nonnegligent Manslaughter": "173",
+      "Legacy rape": "2026",
+      "Robbery": "3948",
+      "Aggravated assault": "12351"
+    },
+    "state09": {
+      "Population": "3500701",
+      "Violent crime total": "9542",
+      "Murder and nonnegligent Manslaughter": "105",
+      "Legacy rape": "712",
+      "Robbery": "3933",
+      "Aggravated assault": "4792"
+    },
+    "state10": {
+      "Population": "841741",
+      "Violent crime total": "5332",
+      "Murder and nonnegligent Manslaughter": "37",
+      "Legacy rape": "377",
+      "Robbery": "1306",
+      "Aggravated assault": "3612"
+    },
+    "state11": {
+      "Population": "582049",
+      "Violent crime total": "8032",
+      "Murder and nonnegligent Manslaughter": "195",
+      "Legacy rape": "166",
+      "Robbery": "3700",
+      "Aggravated assault": "3971"
+    },
+    "state12": {
+      "Population": "17768191",
+      "Violent crime total": "125957",
+      "Murder and nonnegligent Manslaughter": "883",
+      "Legacy rape": "6592",
+      "Robbery": "30141",
+      "Aggravated assault": "88341"
+    },
+    "state13": {
+      "Population": "9132553",
+      "Violent crime total": "40725",
+      "Murder and nonnegligent Manslaughter": "564",
+      "Legacy rape": "2143",
+      "Robbery": "14041",
+      "Aggravated assault": "23977"
+    },
+    "state15": {
+      "Population": "1273278",
+      "Violent crime total": "3253",
+      "Murder and nonnegligent Manslaughter": "24",
+      "Legacy rape": "343",
+      "Robbery": "1001",
+      "Aggravated assault": "1885"
+    },
+    "state16": {
+      "Population": "1429367",
+      "Violent crime total": "3670",
+      "Murder and nonnegligent Manslaughter": "35",
+      "Legacy rape": "577",
+      "Robbery": "266",
+      "Aggravated assault": "2792"
+    },
+    "state17": {
+      "Population": "12765427",
+      "Violent crime total": "70496",
+      "Murder and nonnegligent Manslaughter": "770",
+      "Legacy rape": "4313",
+      "Robbery": "23255",
+      "Aggravated assault": "42158"
+    },
+    "state18": {
+      "Population": "6266019",
+      "Violent crime total": "20302",
+      "Murder and nonnegligent Manslaughter": "356",
+      "Legacy rape": "1856",
+      "Robbery": "6809",
+      "Aggravated assault": "11281"
+    },
+    "state19": {
+      "Population": "2965524",
+      "Violent crime total": "8697",
+      "Murder and nonnegligent Manslaughter": "40",
+      "Legacy rape": "847",
+      "Robbery": "1153",
+      "Aggravated assault": "6657"
+    },
+    "state20": {
+      "Population": "2748172",
+      "Violent crime total": "10701",
+      "Murder and nonnegligent Manslaughter": "101",
+      "Legacy rape": "1098",
+      "Robbery": "1795",
+      "Aggravated assault": "7707"
+    },
+    "state21": {
+      "Population": "4172608",
+      "Violent crime total": "11134",
+      "Murder and nonnegligent Manslaughter": "190",
+      "Legacy rape": "1421",
+      "Robbery": "3690",
+      "Aggravated assault": "5833"
+    },
+    "state22": {
+      "Population": "4507331",
+      "Violent crime total": "26889",
+      "Murder and nonnegligent Manslaughter": "450",
+      "Legacy rape": "1421",
+      "Robbery": "5337",
+      "Aggravated assault": "19681"
+    },
+    "state23": {
+      "Population": "1318220",
+      "Violent crime total": "1483",
+      "Murder and nonnegligent Manslaughter": "19",
+      "Legacy rape": "326",
+      "Robbery": "323",
+      "Aggravated assault": "815"
+    },
+    "state24": {
+      "Population": "5589599",
+      "Violent crime total": "39369",
+      "Murder and nonnegligent Manslaughter": "552",
+      "Legacy rape": "1266",
+      "Robbery": "14378",
+      "Aggravated assault": "23173"
+    },
+    "state25": {
+      "Population": "6433367",
+      "Violent crime total": "29644",
+      "Murder and nonnegligent Manslaughter": "178",
+      "Legacy rape": "1751",
+      "Robbery": "7837",
+      "Aggravated assault": "19878"
+    },
+    "state26": {
+      "Population": "10100833",
+      "Violent crime total": "55936",
+      "Murder and nonnegligent Manslaughter": "629",
+      "Legacy rape": "5199",
+      "Robbery": "13348",
+      "Aggravated assault": "36760"
+    },
+    "state27": {
+      "Population": "5126739",
+      "Violent crime total": "15243",
+      "Murder and nonnegligent Manslaughter": "115",
+      "Legacy rape": "2258",
+      "Robbery": "4724",
+      "Aggravated assault": "8146"
+    },
+    "state28": {
+      "Population": "2908496",
+      "Violent crime total": "8131",
+      "Murder and nonnegligent Manslaughter": "214",
+      "Legacy rape": "1147",
+      "Robbery": "2405",
+      "Aggravated assault": "4365"
+    },
+    "state29": {
+      "Population": "5797703",
+      "Violent crime total": "30477",
+      "Murder and nonnegligent Manslaughter": "402",
+      "Legacy rape": "1625",
+      "Robbery": "7196",
+      "Aggravated assault": "21254"
+    },
+    "state30": {
+      "Population": "934737",
+      "Violent crime total": "2634",
+      "Murder and nonnegligent Manslaughter": "18",
+      "Legacy rape": "301",
+      "Robbery": "177",
+      "Aggravated assault": "2138"
+    },
+    "state31": {
+      "Population": "1758163",
+      "Violent crime total": "5052",
+      "Murder and nonnegligent Manslaughter": "44",
+      "Legacy rape": "581",
+      "Robbery": "1040",
+      "Aggravated assault": "3387"
+    },
+    "state32": {
+      "Population": "2412301",
+      "Violent crime total": "14654",
+      "Murder and nonnegligent Manslaughter": "206",
+      "Legacy rape": "1016",
+      "Robbery": "4702",
+      "Aggravated assault": "8730"
+    },
+    "state33": {
+      "Population": "1306819",
+      "Violent crime total": "1761",
+      "Murder and nonnegligent Manslaughter": "19",
+      "Legacy rape": "406",
+      "Robbery": "365",
+      "Aggravated assault": "971"
+    },
+    "state34": {
+      "Population": "8703150",
+      "Violent crime total": "30919",
+      "Murder and nonnegligent Manslaughter": "417",
+      "Legacy rape": "1208",
+      "Robbery": "13215",
+      "Aggravated assault": "16079"
+    },
+    "state35": {
+      "Population": "1925985",
+      "Violent crime total": "12448",
+      "Murder and nonnegligent Manslaughter": "144",
+      "Legacy rape": "1041",
+      "Robbery": "1893",
+      "Aggravated assault": "9370"
+    },
+    "state36": {
+      "Population": "19315721",
+      "Violent crime total": "85839",
+      "Murder and nonnegligent Manslaughter": "874",
+      "Legacy rape": "3636",
+      "Robbery": "35179",
+      "Aggravated assault": "46150"
+    },
+    "state37": {
+      "Population": "8672459",
+      "Violent crime total": "40650",
+      "Murder and nonnegligent Manslaughter": "585",
+      "Legacy rape": "2302",
+      "Robbery": "12635",
+      "Aggravated assault": "25128"
+    },
+    "state38": {
+      "Population": "634605",
+      "Violent crime total": "706",
+      "Murder and nonnegligent Manslaughter": "12",
+      "Legacy rape": "180",
+      "Robbery": "54",
+      "Aggravated assault": "460"
+    },
+    "state39": {
+      "Population": "11470685",
+      "Violent crime total": "40162",
+      "Murder and nonnegligent Manslaughter": "590",
+      "Legacy rape": "4671",
+      "Robbery": "18673",
+      "Aggravated assault": "16228"
+    },
+    "state40": {
+      "Population": "3543442",
+      "Violent crime total": "18044",
+      "Murder and nonnegligent Manslaughter": "187",
+      "Legacy rape": "1481",
+      "Robbery": "3230",
+      "Aggravated assault": "13146"
+    },
+    "state41": {
+      "Population": "3638871",
+      "Violent crime total": "10444",
+      "Murder and nonnegligent Manslaughter": "80",
+      "Legacy rape": "1266",
+      "Robbery": "2478",
+      "Aggravated assault": "6620"
+    },
+    "state42": {
+      "Population": "12405348",
+      "Violent crime total": "52761",
+      "Murder and nonnegligent Manslaughter": "756",
+      "Legacy rape": "3586",
+      "Robbery": "19214",
+      "Aggravated assault": "29205"
+    },
+    "state44": {
+      "Population": "1073579",
+      "Violent crime total": "2710",
+      "Murder and nonnegligent Manslaughter": "34",
+      "Legacy rape": "323",
+      "Robbery": "776",
+      "Aggravated assault": "1577"
+    },
+    "state45": {
+      "Population": "4246933",
+      "Violent crime total": "32590",
+      "Murder and nonnegligent Manslaughter": "314",
+      "Legacy rape": "1862",
+      "Robbery": "5657",
+      "Aggravated assault": "24757"
+    },
+    "state46": {
+      "Population": "774883",
+      "Violent crime total": "1387",
+      "Murder and nonnegligent Manslaughter": "18",
+      "Legacy rape": "377",
+      "Robbery": "145",
+      "Aggravated assault": "847"
+    },
+    "state47": {
+      "Population": "5955745",
+      "Violent crime total": "45104",
+      "Murder and nonnegligent Manslaughter": "431",
+      "Legacy rape": "2194",
+      "Robbery": "10009",
+      "Aggravated assault": "32470"
+    },
+    "state48": {
+      "Population": "22928508",
+      "Violent crime total": "121091",
+      "Murder and nonnegligent Manslaughter": "1407",
+      "Legacy rape": "8511",
+      "Robbery": "35790",
+      "Aggravated assault": "75383"
+    },
+    "state49": {
+      "Population": "2490334",
+      "Violent crime total": "5612",
+      "Murder and nonnegligent Manslaughter": "56",
+      "Legacy rape": "920",
+      "Robbery": "1095",
+      "Aggravated assault": "3541"
+    },
+    "state50": {
+      "Population": "622387",
+      "Violent crime total": "782",
+      "Murder and nonnegligent Manslaughter": "8",
+      "Legacy rape": "153",
+      "Robbery": "76",
+      "Aggravated assault": "545"
+    },
+    "state51": {
+      "Population": "7564327",
+      "Violent crime total": "21434",
+      "Murder and nonnegligent Manslaughter": "458",
+      "Legacy rape": "1763",
+      "Robbery": "7495",
+      "Aggravated assault": "11718"
+    },
+    "state53": {
+      "Population": "6291899",
+      "Violent crime total": "21745",
+      "Murder and nonnegligent Manslaughter": "205",
+      "Legacy rape": "2811",
+      "Robbery": "5788",
+      "Aggravated assault": "12941"
+    },
+    "state54": {
+      "Population": "1814083",
+      "Violent crime total": "4968",
+      "Murder and nonnegligent Manslaughter": "82",
+      "Legacy rape": "335",
+      "Robbery": "816",
+      "Aggravated assault": "3735"
+    },
+    "state55": {
+      "Population": "5527644",
+      "Violent crime total": "13367",
+      "Murder and nonnegligent Manslaughter": "206",
+      "Legacy rape": "1135",
+      "Robbery": "4555",
+      "Aggravated assault": "7471"
+    },
+    "state56": {
+      "Population": "508798",
+      "Violent crime total": "1172",
+      "Murder and nonnegligent Manslaughter": "14",
+      "Legacy rape": "122",
+      "Robbery": "78",
+      "Aggravated assault": "958"
+    }
+  },
+  "2006": {
+    "state01": {
+      "Population": "4599030",
+      "Violent crime total": "19553",
+      "Murder and nonnegligent Manslaughter": "382",
+      "Legacy rape": "1646",
+      "Robbery": "7062",
+      "Aggravated assault": "10463"
+    },
+    "state02": {
+      "Population": "670053",
+      "Violent crime total": "4610",
+      "Murder and nonnegligent Manslaughter": "36",
+      "Legacy rape": "512",
+      "Robbery": "600",
+      "Aggravated assault": "3462"
+    },
+    "state04": {
+      "Population": "6166318",
+      "Violent crime total": "33456",
+      "Murder and nonnegligent Manslaughter": "533",
+      "Legacy rape": "2449",
+      "Robbery": "9491",
+      "Aggravated assault": "20983"
+    },
+    "state05": {
+      "Population": "2810872",
+      "Violent crime total": "15538",
+      "Murder and nonnegligent Manslaughter": "205",
+      "Legacy rape": "1325",
+      "Robbery": "2749",
+      "Aggravated assault": "11259"
+    },
+    "state06": {
+      "Population": "36457549",
+      "Violent crime total": "194483",
+      "Murder and nonnegligent Manslaughter": "2486",
+      "Legacy rape": "9235",
+      "Robbery": "71142",
+      "Aggravated assault": "111620"
+    },
+    "state08": {
+      "Population": "4753377",
+      "Violent crime total": "18794",
+      "Murder and nonnegligent Manslaughter": "171",
+      "Legacy rape": "2158",
+      "Robbery": "3824",
+      "Aggravated assault": "12641"
+    },
+    "state09": {
+      "Population": "3504809",
+      "Violent crime total": "10505",
+      "Murder and nonnegligent Manslaughter": "137",
+      "Legacy rape": "696",
+      "Robbery": "4460",
+      "Aggravated assault": "5212"
+    },
+    "state10": {
+      "Population": "853476",
+      "Violent crime total": "5983",
+      "Murder and nonnegligent Manslaughter": "42",
+      "Legacy rape": "417",
+      "Robbery": "1791",
+      "Aggravated assault": "3733"
+    },
+    "state11": {
+      "Population": "581530",
+      "Violent crime total": "8772",
+      "Murder and nonnegligent Manslaughter": "169",
+      "Legacy rape": "185",
+      "Robbery": "3829",
+      "Aggravated assault": "4589"
+    },
+    "state12": {
+      "Population": "18089888",
+      "Violent crime total": "129602",
+      "Murder and nonnegligent Manslaughter": "1129",
+      "Legacy rape": "6475",
+      "Robbery": "34147",
+      "Aggravated assault": "87851"
+    },
+    "state13": {
+      "Population": "9363941",
+      "Violent crime total": "44754",
+      "Murder and nonnegligent Manslaughter": "605",
+      "Legacy rape": "2169",
+      "Robbery": "15511",
+      "Aggravated assault": "26469"
+    },
+    "state15": {
+      "Population": "1285498",
+      "Violent crime total": "3608",
+      "Murder and nonnegligent Manslaughter": "21",
+      "Legacy rape": "353",
+      "Robbery": "1144",
+      "Aggravated assault": "2090"
+    },
+    "state16": {
+      "Population": "1466465",
+      "Violent crime total": "3666",
+      "Murder and nonnegligent Manslaughter": "35",
+      "Legacy rape": "611",
+      "Robbery": "294",
+      "Aggravated assault": "2726"
+    },
+    "state17": {
+      "Population": "12831970",
+      "Violent crime total": "69498",
+      "Murder and nonnegligent Manslaughter": "780",
+      "Legacy rape": "4078",
+      "Robbery": "23782",
+      "Aggravated assault": "40858"
+    },
+    "state18": {
+      "Population": "6313520",
+      "Violent crime total": "20303",
+      "Murder and nonnegligent Manslaughter": "361",
+      "Legacy rape": "1811",
+      "Robbery": "7175",
+      "Aggravated assault": "10956"
+    },
+    "state19": {
+      "Population": "2982085",
+      "Violent crime total": "8521",
+      "Murder and nonnegligent Manslaughter": "55",
+      "Legacy rape": "871",
+      "Robbery": "1309",
+      "Aggravated assault": "6286"
+    },
+    "state20": {
+      "Population": "2764075",
+      "Violent crime total": "11960",
+      "Murder and nonnegligent Manslaughter": "125",
+      "Legacy rape": "1279",
+      "Robbery": "1878",
+      "Aggravated assault": "8678"
+    },
+    "state21": {
+      "Population": "4206074",
+      "Violent crime total": "11361",
+      "Murder and nonnegligent Manslaughter": "173",
+      "Legacy rape": "1312",
+      "Robbery": "3850",
+      "Aggravated assault": "6026"
+    },
+    "state22": {
+      "Population": "4287768",
+      "Violent crime total": "30923",
+      "Murder and nonnegligent Manslaughter": "555",
+      "Legacy rape": "1587",
+      "Robbery": "5928",
+      "Aggravated assault": "22853"
+    },
+    "state23": {
+      "Population": "1321574",
+      "Violent crime total": "1533",
+      "Murder and nonnegligent Manslaughter": "23",
+      "Legacy rape": "341",
+      "Robbery": "383",
+      "Aggravated assault": "786"
+    },
+    "state24": {
+      "Population": "5615727",
+      "Violent crime total": "38111",
+      "Murder and nonnegligent Manslaughter": "546",
+      "Legacy rape": "1178",
+      "Robbery": "14376",
+      "Aggravated assault": "22011"
+    },
+    "state25": {
+      "Population": "6437193",
+      "Violent crime total": "32217",
+      "Murder and nonnegligent Manslaughter": "188",
+      "Legacy rape": "1771",
+      "Robbery": "8080",
+      "Aggravated assault": "22178"
+    },
+    "state26": {
+      "Population": "10095643",
+      "Violent crime total": "56981",
+      "Murder and nonnegligent Manslaughter": "721",
+      "Legacy rape": "5347",
+      "Robbery": "14229",
+      "Aggravated assault": "36684"
+    },
+    "state27": {
+      "Population": "5167101",
+      "Violent crime total": "16042",
+      "Murder and nonnegligent Manslaughter": "126",
+      "Legacy rape": "1645",
+      "Robbery": "5441",
+      "Aggravated assault": "8830"
+    },
+    "state28": {
+      "Population": "2910540",
+      "Violent crime total": "9076",
+      "Murder and nonnegligent Manslaughter": "231",
+      "Legacy rape": "1039",
+      "Robbery": "3259",
+      "Aggravated assault": "4547"
+    },
+    "state29": {
+      "Population": "5842713",
+      "Violent crime total": "31897",
+      "Murder and nonnegligent Manslaughter": "369",
+      "Legacy rape": "1764",
+      "Robbery": "7597",
+      "Aggravated assault": "22167"
+    },
+    "state30": {
+      "Population": "944632",
+      "Violent crime total": "3564",
+      "Murder and nonnegligent Manslaughter": "33",
+      "Legacy rape": "348",
+      "Robbery": "233",
+      "Aggravated assault": "2950"
+    },
+    "state31": {
+      "Population": "1768331",
+      "Violent crime total": "5197",
+      "Murder and nonnegligent Manslaughter": "51",
+      "Legacy rape": "577",
+      "Robbery": "1136",
+      "Aggravated assault": "3433"
+    },
+    "state32": {
+      "Population": "2495529",
+      "Violent crime total": "18687",
+      "Murder and nonnegligent Manslaughter": "226",
+      "Legacy rape": "1092",
+      "Robbery": "7038",
+      "Aggravated assault": "10331"
+    },
+    "state33": {
+      "Population": "1314895",
+      "Violent crime total": "1785",
+      "Murder and nonnegligent Manslaughter": "13",
+      "Legacy rape": "295",
+      "Robbery": "435",
+      "Aggravated assault": "1042"
+    },
+    "state34": {
+      "Population": "8724560",
+      "Violent crime total": "30550",
+      "Murder and nonnegligent Manslaughter": "427",
+      "Legacy rape": "1201",
+      "Robbery": "13360",
+      "Aggravated assault": "15562"
+    },
+    "state35": {
+      "Population": "1954599",
+      "Violent crime total": "12797",
+      "Murder and nonnegligent Manslaughter": "134",
+      "Legacy rape": "1073",
+      "Robbery": "2095",
+      "Aggravated assault": "9495"
+    },
+    "state36": {
+      "Population": "19306183",
+      "Violent crime total": "84016",
+      "Murder and nonnegligent Manslaughter": "922",
+      "Legacy rape": "3168",
+      "Robbery": "34459",
+      "Aggravated assault": "45467"
+    },
+    "state37": {
+      "Population": "8856505",
+      "Violent crime total": "42088",
+      "Murder and nonnegligent Manslaughter": "539",
+      "Legacy rape": "2495",
+      "Robbery": "13468",
+      "Aggravated assault": "25586"
+    },
+    "state38": {
+      "Population": "635867",
+      "Violent crime total": "1255",
+      "Murder and nonnegligent Manslaughter": "14",
+      "Legacy rape": "241",
+      "Robbery": "75",
+      "Aggravated assault": "925"
+    },
+    "state39": {
+      "Population": "11478006",
+      "Violent crime total": "41491",
+      "Murder and nonnegligent Manslaughter": "560",
+      "Legacy rape": "4770",
+      "Robbery": "19418",
+      "Aggravated assault": "16743"
+    },
+    "state40": {
+      "Population": "3579212",
+      "Violent crime total": "17905",
+      "Murder and nonnegligent Manslaughter": "210",
+      "Legacy rape": "1488",
+      "Robbery": "3145",
+      "Aggravated assault": "13062"
+    },
+    "state41": {
+      "Population": "3700758",
+      "Violent crime total": "10534",
+      "Murder and nonnegligent Manslaughter": "88",
+      "Legacy rape": "1219",
+      "Robbery": "2711",
+      "Aggravated assault": "6516"
+    },
+    "state42": {
+      "Population": "12440621",
+      "Violent crime total": "55028",
+      "Murder and nonnegligent Manslaughter": "741",
+      "Legacy rape": "3611",
+      "Robbery": "21095",
+      "Aggravated assault": "29581"
+    },
+    "state44": {
+      "Population": "1067610",
+      "Violent crime total": "2460",
+      "Murder and nonnegligent Manslaughter": "27",
+      "Legacy rape": "289",
+      "Robbery": "740",
+      "Aggravated assault": "1404"
+    },
+    "state45": {
+      "Population": "4321249",
+      "Violent crime total": "33322",
+      "Murder and nonnegligent Manslaughter": "362",
+      "Legacy rape": "1834",
+      "Robbery": "5902",
+      "Aggravated assault": "25224"
+    },
+    "state46": {
+      "Population": "781919",
+      "Violent crime total": "2071",
+      "Murder and nonnegligent Manslaughter": "30",
+      "Legacy rape": "465",
+      "Robbery": "158",
+      "Aggravated assault": "1418"
+    },
+    "state47": {
+      "Population": "6038803",
+      "Violent crime total": "46043",
+      "Murder and nonnegligent Manslaughter": "419",
+      "Legacy rape": "2194",
+      "Robbery": "11143",
+      "Aggravated assault": "32287"
+    },
+    "state48": {
+      "Population": "23507783",
+      "Violent crime total": "121602",
+      "Murder and nonnegligent Manslaughter": "1386",
+      "Legacy rape": "8429",
+      "Robbery": "37256",
+      "Aggravated assault": "74531"
+    },
+    "state49": {
+      "Population": "2550063",
+      "Violent crime total": "5771",
+      "Murder and nonnegligent Manslaughter": "51",
+      "Legacy rape": "891",
+      "Robbery": "1242",
+      "Aggravated assault": "3587"
+    },
+    "state50": {
+      "Population": "623908",
+      "Violent crime total": "905",
+      "Murder and nonnegligent Manslaughter": "14",
+      "Legacy rape": "173",
+      "Robbery": "114",
+      "Aggravated assault": "604"
+    },
+    "state51": {
+      "Population": "7642884",
+      "Violent crime total": "21683",
+      "Murder and nonnegligent Manslaughter": "403",
+      "Legacy rape": "1829",
+      "Robbery": "7779",
+      "Aggravated assault": "11672"
+    },
+    "state53": {
+      "Population": "6395798",
+      "Violent crime total": "22303",
+      "Murder and nonnegligent Manslaughter": "197",
+      "Legacy rape": "2748",
+      "Robbery": "6424",
+      "Aggravated assault": "12934"
+    },
+    "state54": {
+      "Population": "1818470",
+      "Violent crime total": "5113",
+      "Murder and nonnegligent Manslaughter": "80",
+      "Legacy rape": "404",
+      "Robbery": "853",
+      "Aggravated assault": "3776"
+    },
+    "state55": {
+      "Population": "5556506",
+      "Violent crime total": "15899",
+      "Murder and nonnegligent Manslaughter": "165",
+      "Legacy rape": "1233",
+      "Robbery": "5564",
+      "Aggravated assault": "8937"
+    },
+    "state56": {
+      "Population": "515004",
+      "Violent crime total": "1307",
+      "Murder and nonnegligent Manslaughter": "13",
+      "Legacy rape": "151",
+      "Robbery": "72",
+      "Aggravated assault": "1071"
+    }
+  },
+  "2007": {
+    "state01": {
+      "Population": "4627851",
+      "Violent crime total": "20775",
+      "Murder and nonnegligent Manslaughter": "412",
+      "Legacy rape": "1548",
+      "Robbery": "7398",
+      "Aggravated assault": "11417"
+    },
+    "state02": {
+      "Population": "683478",
+      "Violent crime total": "4520",
+      "Murder and nonnegligent Manslaughter": "43",
+      "Legacy rape": "545",
+      "Robbery": "581",
+      "Aggravated assault": "3351"
+    },
+    "state04": {
+      "Population": "6338755",
+      "Violent crime total": "32835",
+      "Murder and nonnegligent Manslaughter": "548",
+      "Legacy rape": "2353",
+      "Robbery": "9764",
+      "Aggravated assault": "20170"
+    },
+    "state05": {
+      "Population": "2834797",
+      "Violent crime total": "15226",
+      "Murder and nonnegligent Manslaughter": "198",
+      "Legacy rape": "1294",
+      "Robbery": "3105",
+      "Aggravated assault": "10629"
+    },
+    "state06": {
+      "Population": "36553215",
+      "Violent crime total": "191561",
+      "Murder and nonnegligent Manslaughter": "2262",
+      "Legacy rape": "9046",
+      "Robbery": "70706",
+      "Aggravated assault": "109547"
+    },
+    "state08": {
+      "Population": "4861515",
+      "Violent crime total": "17101",
+      "Murder and nonnegligent Manslaughter": "155",
+      "Legacy rape": "2075",
+      "Robbery": "3461",
+      "Aggravated assault": "11410"
+    },
+    "state09": {
+      "Population": "3502309",
+      "Violent crime total": "10547",
+      "Murder and nonnegligent Manslaughter": "113",
+      "Legacy rape": "690",
+      "Robbery": "4303",
+      "Aggravated assault": "5441"
+    },
+    "state10": {
+      "Population": "864764",
+      "Violent crime total": "6100",
+      "Murder and nonnegligent Manslaughter": "39",
+      "Legacy rape": "341",
+      "Robbery": "1763",
+      "Aggravated assault": "3957"
+    },
+    "state11": {
+      "Population": "588292",
+      "Violent crime total": "8325",
+      "Murder and nonnegligent Manslaughter": "181",
+      "Legacy rape": "192",
+      "Robbery": "4265",
+      "Aggravated assault": "3687"
+    },
+    "state12": {
+      "Population": "18251243",
+      "Violent crime total": "131878",
+      "Murder and nonnegligent Manslaughter": "1202",
+      "Legacy rape": "6149",
+      "Robbery": "38155",
+      "Aggravated assault": "86372"
+    },
+    "state13": {
+      "Population": "9544750",
+      "Violent crime total": "46917",
+      "Murder and nonnegligent Manslaughter": "720",
+      "Legacy rape": "2198",
+      "Robbery": "17291",
+      "Aggravated assault": "26708"
+    },
+    "state15": {
+      "Population": "1283388",
+      "Violent crime total": "3544",
+      "Murder and nonnegligent Manslaughter": "24",
+      "Legacy rape": "377",
+      "Robbery": "1122",
+      "Aggravated assault": "2021"
+    },
+    "state16": {
+      "Population": "1499402",
+      "Violent crime total": "3841",
+      "Murder and nonnegligent Manslaughter": "49",
+      "Legacy rape": "607",
+      "Robbery": "243",
+      "Aggravated assault": "2942"
+    },
+    "state17": {
+      "Population": "12852548",
+      "Violent crime total": "68528",
+      "Murder and nonnegligent Manslaughter": "752",
+      "Legacy rape": "4103",
+      "Robbery": "23100",
+      "Aggravated assault": "40573"
+    },
+    "state18": {
+      "Population": "6345289",
+      "Violent crime total": "21310",
+      "Murder and nonnegligent Manslaughter": "350",
+      "Legacy rape": "1738",
+      "Robbery": "7845",
+      "Aggravated assault": "11377"
+    },
+    "state19": {
+      "Population": "2988046",
+      "Violent crime total": "8970",
+      "Murder and nonnegligent Manslaughter": "39",
+      "Legacy rape": "970",
+      "Robbery": "1328",
+      "Aggravated assault": "6633"
+    },
+    "state20": {
+      "Population": "2775997",
+      "Violent crime total": "12730",
+      "Murder and nonnegligent Manslaughter": "106",
+      "Legacy rape": "1287",
+      "Robbery": "2022",
+      "Aggravated assault": "9315"
+    },
+    "state21": {
+      "Population": "4241474",
+      "Violent crime total": "12329",
+      "Murder and nonnegligent Manslaughter": "206",
+      "Legacy rape": "1365",
+      "Robbery": "4068",
+      "Aggravated assault": "6690"
+    },
+    "state22": {
+      "Population": "4293204",
+      "Violent crime total": "31789",
+      "Murder and nonnegligent Manslaughter": "625",
+      "Legacy rape": "1427",
+      "Robbery": "6316",
+      "Aggravated assault": "23421"
+    },
+    "state23": {
+      "Population": "1317207",
+      "Violent crime total": "1565",
+      "Murder and nonnegligent Manslaughter": "20",
+      "Legacy rape": "392",
+      "Robbery": "349",
+      "Aggravated assault": "804"
+    },
+    "state24": {
+      "Population": "5618344",
+      "Violent crime total": "36063",
+      "Murder and nonnegligent Manslaughter": "554",
+      "Legacy rape": "1179",
+      "Robbery": "13258",
+      "Aggravated assault": "21072"
+    },
+    "state25": {
+      "Population": "6449755",
+      "Violent crime total": "28487",
+      "Murder and nonnegligent Manslaughter": "187",
+      "Legacy rape": "1643",
+      "Robbery": "7021",
+      "Aggravated assault": "19636"
+    },
+    "state26": {
+      "Population": "10071822",
+      "Violent crime total": "53765",
+      "Murder and nonnegligent Manslaughter": "661",
+      "Legacy rape": "4592",
+      "Robbery": "13365",
+      "Aggravated assault": "35147"
+    },
+    "state27": {
+      "Population": "5197621",
+      "Violent crime total": "15054",
+      "Murder and nonnegligent Manslaughter": "116",
+      "Legacy rape": "1873",
+      "Robbery": "4770",
+      "Aggravated assault": "8295"
+    },
+    "state28": {
+      "Population": "2918785",
+      "Violent crime total": "8502",
+      "Murder and nonnegligent Manslaughter": "202",
+      "Legacy rape": "1033",
+      "Robbery": "2896",
+      "Aggravated assault": "4371"
+    },
+    "state29": {
+      "Population": "5878415",
+      "Violent crime total": "32962",
+      "Murder and nonnegligent Manslaughter": "367",
+      "Legacy rape": "1785",
+      "Robbery": "7728",
+      "Aggravated assault": "23082"
+    },
+    "state30": {
+      "Population": "957861",
+      "Violent crime total": "3638",
+      "Murder and nonnegligent Manslaughter": "27",
+      "Legacy rape": "363",
+      "Robbery": "233",
+      "Aggravated assault": "3015"
+    },
+    "state31": {
+      "Population": "1774571",
+      "Violent crime total": "5524",
+      "Murder and nonnegligent Manslaughter": "71",
+      "Legacy rape": "550",
+      "Robbery": "1115",
+      "Aggravated assault": "3788"
+    },
+    "state32": {
+      "Population": "2565382",
+      "Violent crime total": "19365",
+      "Murder and nonnegligent Manslaughter": "193",
+      "Legacy rape": "1096",
+      "Robbery": "6938",
+      "Aggravated assault": "11138"
+    },
+    "state33": {
+      "Population": "1315828",
+      "Violent crime total": "1896",
+      "Murder and nonnegligent Manslaughter": "12",
+      "Legacy rape": "357",
+      "Robbery": "451",
+      "Aggravated assault": "1076"
+    },
+    "state34": {
+      "Population": "8685920",
+      "Violent crime total": "28544",
+      "Murder and nonnegligent Manslaughter": "381",
+      "Legacy rape": "1032",
+      "Robbery": "12567",
+      "Aggravated assault": "14564"
+    },
+    "state35": {
+      "Population": "1969915",
+      "Violent crime total": "13311",
+      "Murder and nonnegligent Manslaughter": "183",
+      "Legacy rape": "1028",
+      "Robbery": "2323",
+      "Aggravated assault": "9777"
+    },
+    "state36": {
+      "Population": "19297729",
+      "Violent crime total": "79962",
+      "Murder and nonnegligent Manslaughter": "805",
+      "Legacy rape": "2928",
+      "Robbery": "31085",
+      "Aggravated assault": "45144"
+    },
+    "state37": {
+      "Population": "9061032",
+      "Violent crime total": "42231",
+      "Murder and nonnegligent Manslaughter": "584",
+      "Legacy rape": "2386",
+      "Robbery": "13534",
+      "Aggravated assault": "25727"
+    },
+    "state38": {
+      "Population": "639715",
+      "Violent crime total": "1343",
+      "Murder and nonnegligent Manslaughter": "17",
+      "Legacy rape": "252",
+      "Robbery": "75",
+      "Aggravated assault": "999"
+    },
+    "state39": {
+      "Population": "11466917",
+      "Violent crime total": "40759",
+      "Murder and nonnegligent Manslaughter": "529",
+      "Legacy rape": "4661",
+      "Robbery": "18351",
+      "Aggravated assault": "17218"
+    },
+    "state40": {
+      "Population": "3617316",
+      "Violent crime total": "18234",
+      "Murder and nonnegligent Manslaughter": "224",
+      "Legacy rape": "1565",
+      "Robbery": "3392",
+      "Aggravated assault": "13053"
+    },
+    "state41": {
+      "Population": "3747455",
+      "Violent crime total": "11015",
+      "Murder and nonnegligent Manslaughter": "76",
+      "Legacy rape": "1276",
+      "Robbery": "2864",
+      "Aggravated assault": "6799"
+    },
+    "state42": {
+      "Population": "12432792",
+      "Violent crime total": "51806",
+      "Murder and nonnegligent Manslaughter": "725",
+      "Legacy rape": "3443",
+      "Robbery": "19440",
+      "Aggravated assault": "28198"
+    },
+    "state44": {
+      "Population": "1057832",
+      "Violent crime total": "2424",
+      "Murder and nonnegligent Manslaughter": "19",
+      "Legacy rape": "258",
+      "Robbery": "760",
+      "Aggravated assault": "1387"
+    },
+    "state45": {
+      "Population": "4407709",
+      "Violent crime total": "34630",
+      "Murder and nonnegligent Manslaughter": "364",
+      "Legacy rape": "1773",
+      "Robbery": "6354",
+      "Aggravated assault": "26139"
+    },
+    "state46": {
+      "Population": "796214",
+      "Violent crime total": "1926",
+      "Murder and nonnegligent Manslaughter": "31",
+      "Legacy rape": "433",
+      "Robbery": "118",
+      "Aggravated assault": "1344"
+    },
+    "state47": {
+      "Population": "6156719",
+      "Violent crime total": "46482",
+      "Murder and nonnegligent Manslaughter": "405",
+      "Legacy rape": "2201",
+      "Robbery": "11033",
+      "Aggravated assault": "32843"
+    },
+    "state48": {
+      "Population": "23904380",
+      "Violent crime total": "122014",
+      "Murder and nonnegligent Manslaughter": "1419",
+      "Legacy rape": "8460",
+      "Robbery": "38778",
+      "Aggravated assault": "73357"
+    },
+    "state49": {
+      "Population": "2645330",
+      "Violent crime total": "6347",
+      "Murder and nonnegligent Manslaughter": "59",
+      "Legacy rape": "935",
+      "Robbery": "1425",
+      "Aggravated assault": "3928"
+    },
+    "state50": {
+      "Population": "621254",
+      "Violent crime total": "802",
+      "Murder and nonnegligent Manslaughter": "13",
+      "Legacy rape": "128",
+      "Robbery": "79",
+      "Aggravated assault": "582"
+    },
+    "state51": {
+      "Population": "7712091",
+      "Violent crime total": "21035",
+      "Murder and nonnegligent Manslaughter": "415",
+      "Legacy rape": "1793",
+      "Robbery": "7696",
+      "Aggravated assault": "11131"
+    },
+    "state53": {
+      "Population": "6468424",
+      "Violent crime total": "21768",
+      "Murder and nonnegligent Manslaughter": "174",
+      "Legacy rape": "2653",
+      "Robbery": "6079",
+      "Aggravated assault": "12862"
+    },
+    "state54": {
+      "Population": "1812035",
+      "Violent crime total": "5016",
+      "Murder and nonnegligent Manslaughter": "65",
+      "Legacy rape": "388",
+      "Robbery": "847",
+      "Aggravated assault": "3716"
+    },
+    "state55": {
+      "Population": "5601640",
+      "Violent crime total": "16330",
+      "Murder and nonnegligent Manslaughter": "185",
+      "Legacy rape": "1227",
+      "Robbery": "5480",
+      "Aggravated assault": "9438"
+    },
+    "state56": {
+      "Population": "522830",
+      "Violent crime total": "1344",
+      "Murder and nonnegligent Manslaughter": "21",
+      "Legacy rape": "172",
+      "Robbery": "84",
+      "Aggravated assault": "1067"
+    }
+  },
+  "2008": {
+    "state01": {
+      "Population": "4661900",
+      "Violent crime total": "21110",
+      "Murder and nonnegligent Manslaughter": "351",
+      "Legacy rape": "1618",
+      "Robbery": "7346",
+      "Aggravated assault": "11795"
+    },
+    "state02": {
+      "Population": "686293",
+      "Violent crime total": "4475",
+      "Murder and nonnegligent Manslaughter": "27",
+      "Legacy rape": "447",
+      "Robbery": "645",
+      "Aggravated assault": "3356"
+    },
+    "state04": {
+      "Population": "6500180",
+      "Violent crime total": "31567",
+      "Murder and nonnegligent Manslaughter": "462",
+      "Legacy rape": "2200",
+      "Robbery": "9809",
+      "Aggravated assault": "19096"
+    },
+    "state05": {
+      "Population": "2855390",
+      "Violent crime total": "14649",
+      "Murder and nonnegligent Manslaughter": "165",
+      "Legacy rape": "1463",
+      "Robbery": "2777",
+      "Aggravated assault": "10244"
+    },
+    "state06": {
+      "Population": "36756666",
+      "Violent crime total": "185329",
+      "Murder and nonnegligent Manslaughter": "2142",
+      "Legacy rape": "8903",
+      "Robbery": "69388",
+      "Aggravated assault": "104896"
+    },
+    "state08": {
+      "Population": "4939456",
+      "Violent crime total": "17480",
+      "Murder and nonnegligent Manslaughter": "165",
+      "Legacy rape": "2151",
+      "Robbery": "3404",
+      "Aggravated assault": "11760"
+    },
+    "state09": {
+      "Population": "3501252",
+      "Violent crime total": "10737",
+      "Murder and nonnegligent Manslaughter": "132",
+      "Legacy rape": "680",
+      "Robbery": "4043",
+      "Aggravated assault": "5882"
+    },
+    "state10": {
+      "Population": "873092",
+      "Violent crime total": "6187",
+      "Murder and nonnegligent Manslaughter": "57",
+      "Legacy rape": "371",
+      "Robbery": "1847",
+      "Aggravated assault": "3912"
+    },
+    "state11": {
+      "Population": "591833",
+      "Violent crime total": "8509",
+      "Murder and nonnegligent Manslaughter": "186",
+      "Legacy rape": "186",
+      "Robbery": "4430",
+      "Aggravated assault": "3707"
+    },
+    "state12": {
+      "Population": "18328340",
+      "Violent crime total": "126256",
+      "Murder and nonnegligent Manslaughter": "1168",
+      "Legacy rape": "5972",
+      "Robbery": "36268",
+      "Aggravated assault": "82848"
+    },
+    "state13": {
+      "Population": "9685744",
+      "Violent crime total": "47353",
+      "Murder and nonnegligent Manslaughter": "640",
+      "Legacy rape": "2334",
+      "Robbery": "17808",
+      "Aggravated assault": "26571"
+    },
+    "state15": {
+      "Population": "1288198",
+      "Violent crime total": "3510",
+      "Murder and nonnegligent Manslaughter": "26",
+      "Legacy rape": "363",
+      "Robbery": "1085",
+      "Aggravated assault": "2036"
+    },
+    "state16": {
+      "Population": "1523816",
+      "Violent crime total": "3680",
+      "Murder and nonnegligent Manslaughter": "23",
+      "Legacy rape": "579",
+      "Robbery": "239",
+      "Aggravated assault": "2839"
+    },
+    "state17": {
+      "Population": "12901563",
+      "Violent crime total": "67780",
+      "Murder and nonnegligent Manslaughter": "790",
+      "Legacy rape": "4118",
+      "Robbery": "24054",
+      "Aggravated assault": "38818"
+    },
+    "state18": {
+      "Population": "6376792",
+      "Violent crime total": "21525",
+      "Murder and nonnegligent Manslaughter": "322",
+      "Legacy rape": "1711",
+      "Robbery": "7580",
+      "Aggravated assault": "11912"
+    },
+    "state19": {
+      "Population": "3002555",
+      "Violent crime total": "8651",
+      "Murder and nonnegligent Manslaughter": "77",
+      "Legacy rape": "937",
+      "Robbery": "1249",
+      "Aggravated assault": "6388"
+    },
+    "state20": {
+      "Population": "2802134",
+      "Violent crime total": "11554",
+      "Murder and nonnegligent Manslaughter": "113",
+      "Legacy rape": "1226",
+      "Robbery": "1681",
+      "Aggravated assault": "8534"
+    },
+    "state21": {
+      "Population": "4269245",
+      "Violent crime total": "12690",
+      "Murder and nonnegligent Manslaughter": "201",
+      "Legacy rape": "1457",
+      "Robbery": "4080",
+      "Aggravated assault": "6952"
+    },
+    "state22": {
+      "Population": "4410796",
+      "Violent crime total": "29613",
+      "Murder and nonnegligent Manslaughter": "544",
+      "Legacy rape": "1250",
+      "Robbery": "6241",
+      "Aggravated assault": "21578"
+    },
+    "state23": {
+      "Population": "1316456",
+      "Violent crime total": "1572",
+      "Murder and nonnegligent Manslaughter": "31",
+      "Legacy rape": "379",
+      "Robbery": "333",
+      "Aggravated assault": "829"
+    },
+    "state24": {
+      "Population": "5633597",
+      "Violent crime total": "35393",
+      "Murder and nonnegligent Manslaughter": "493",
+      "Legacy rape": "1127",
+      "Robbery": "13203",
+      "Aggravated assault": "20570"
+    },
+    "state25": {
+      "Population": "6497967",
+      "Violent crime total": "30137",
+      "Murder and nonnegligent Manslaughter": "166",
+      "Legacy rape": "1751",
+      "Robbery": "7077",
+      "Aggravated assault": "21143"
+    },
+    "state26": {
+      "Population": "10003422",
+      "Violent crime total": "51512",
+      "Murder and nonnegligent Manslaughter": "554",
+      "Legacy rape": "4507",
+      "Robbery": "13246",
+      "Aggravated assault": "33205"
+    },
+    "state27": {
+      "Population": "5220393",
+      "Violent crime total": "13853",
+      "Murder and nonnegligent Manslaughter": "110",
+      "Legacy rape": "1805",
+      "Robbery": "4179",
+      "Aggravated assault": "7759"
+    },
+    "state28": {
+      "Population": "2938618",
+      "Violent crime total": "8942",
+      "Murder and nonnegligent Manslaughter": "236",
+      "Legacy rape": "958",
+      "Robbery": "3079",
+      "Aggravated assault": "4669"
+    },
+    "state29": {
+      "Population": "5911605",
+      "Violent crime total": "29701",
+      "Murder and nonnegligent Manslaughter": "456",
+      "Legacy rape": "1612",
+      "Robbery": "7395",
+      "Aggravated assault": "20238"
+    },
+    "state30": {
+      "Population": "967440",
+      "Violent crime total": "3013",
+      "Murder and nonnegligent Manslaughter": "40",
+      "Legacy rape": "358",
+      "Robbery": "204",
+      "Aggravated assault": "2411"
+    },
+    "state31": {
+      "Population": "1783432",
+      "Violent crime total": "5570",
+      "Murder and nonnegligent Manslaughter": "69",
+      "Legacy rape": "601",
+      "Robbery": "1297",
+      "Aggravated assault": "3603"
+    },
+    "state32": {
+      "Population": "2600167",
+      "Violent crime total": "18973",
+      "Murder and nonnegligent Manslaughter": "165",
+      "Legacy rape": "1106",
+      "Robbery": "6486",
+      "Aggravated assault": "11216"
+    },
+    "state33": {
+      "Population": "1315809",
+      "Violent crime total": "2054",
+      "Murder and nonnegligent Manslaughter": "14",
+      "Legacy rape": "385",
+      "Robbery": "421",
+      "Aggravated assault": "1234"
+    },
+    "state34": {
+      "Population": "8682661",
+      "Violent crime total": "28351",
+      "Murder and nonnegligent Manslaughter": "376",
+      "Legacy rape": "1122",
+      "Robbery": "12701",
+      "Aggravated assault": "14152"
+    },
+    "state35": {
+      "Population": "1984356",
+      "Violent crime total": "12967",
+      "Murder and nonnegligent Manslaughter": "161",
+      "Legacy rape": "1118",
+      "Robbery": "2151",
+      "Aggravated assault": "9537"
+    },
+    "state36": {
+      "Population": "19490297",
+      "Violent crime total": "77546",
+      "Murder and nonnegligent Manslaughter": "836",
+      "Legacy rape": "2798",
+      "Robbery": "31787",
+      "Aggravated assault": "42125"
+    },
+    "state37": {
+      "Population": "9222414",
+      "Violent crime total": "43125",
+      "Murder and nonnegligent Manslaughter": "599",
+      "Legacy rape": "2296",
+      "Robbery": "14323",
+      "Aggravated assault": "25907"
+    },
+    "state38": {
+      "Population": "641481",
+      "Violent crime total": "1441",
+      "Murder and nonnegligent Manslaughter": "11",
+      "Legacy rape": "331",
+      "Robbery": "73",
+      "Aggravated assault": "1026"
+    },
+    "state39": {
+      "Population": "11485910",
+      "Violent crime total": "40436",
+      "Murder and nonnegligent Manslaughter": "547",
+      "Legacy rape": "4531",
+      "Robbery": "18706",
+      "Aggravated assault": "16652"
+    },
+    "state40": {
+      "Population": "3642361",
+      "Violent crime total": "19359",
+      "Murder and nonnegligent Manslaughter": "215",
+      "Legacy rape": "1471",
+      "Robbery": "3698",
+      "Aggravated assault": "13975"
+    },
+    "state41": {
+      "Population": "3790060",
+      "Violent crime total": "9909",
+      "Murder and nonnegligent Manslaughter": "87",
+      "Legacy rape": "1183",
+      "Robbery": "2656",
+      "Aggravated assault": "5983"
+    },
+    "state42": {
+      "Population": "12448279",
+      "Violent crime total": "51044",
+      "Murder and nonnegligent Manslaughter": "705",
+      "Legacy rape": "3485",
+      "Robbery": "18873",
+      "Aggravated assault": "27981"
+    },
+    "state44": {
+      "Population": "1050788",
+      "Violent crime total": "2656",
+      "Murder and nonnegligent Manslaughter": "31",
+      "Legacy rape": "282",
+      "Robbery": "880",
+      "Aggravated assault": "1463"
+    },
+    "state45": {
+      "Population": "4479800",
+      "Violent crime total": "32746",
+      "Murder and nonnegligent Manslaughter": "307",
+      "Legacy rape": "1686",
+      "Robbery": "6595",
+      "Aggravated assault": "24158"
+    },
+    "state46": {
+      "Population": "804194",
+      "Violent crime total": "2227",
+      "Murder and nonnegligent Manslaughter": "37",
+      "Legacy rape": "562",
+      "Robbery": "134",
+      "Aggravated assault": "1494"
+    },
+    "state47": {
+      "Population": "6214888",
+      "Violent crime total": "44913",
+      "Murder and nonnegligent Manslaughter": "412",
+      "Legacy rape": "2078",
+      "Robbery": "10804",
+      "Aggravated assault": "31619"
+    },
+    "state48": {
+      "Population": "24326974",
+      "Violent crime total": "123585",
+      "Murder and nonnegligent Manslaughter": "1370",
+      "Legacy rape": "8055",
+      "Robbery": "37739",
+      "Aggravated assault": "76421"
+    },
+    "state49": {
+      "Population": "2736424",
+      "Violent crime total": "6165",
+      "Murder and nonnegligent Manslaughter": "41",
+      "Legacy rape": "915",
+      "Robbery": "1421",
+      "Aggravated assault": "3788"
+    },
+    "state50": {
+      "Population": "621270",
+      "Violent crime total": "854",
+      "Murder and nonnegligent Manslaughter": "17",
+      "Legacy rape": "133",
+      "Robbery": "93",
+      "Aggravated assault": "611"
+    },
+    "state51": {
+      "Population": "7769089",
+      "Violent crime total": "20031",
+      "Murder and nonnegligent Manslaughter": "370",
+      "Legacy rape": "1794",
+      "Robbery": "7470",
+      "Aggravated assault": "10397"
+    },
+    "state53": {
+      "Population": "6549224",
+      "Violent crime total": "21888",
+      "Murder and nonnegligent Manslaughter": "193",
+      "Legacy rape": "2653",
+      "Robbery": "6419",
+      "Aggravated assault": "12623"
+    },
+    "state54": {
+      "Population": "1814468",
+      "Violent crime total": "5006",
+      "Murder and nonnegligent Manslaughter": "67",
+      "Legacy rape": "389",
+      "Robbery": "896",
+      "Aggravated assault": "3654"
+    },
+    "state55": {
+      "Population": "5627967",
+      "Violent crime total": "15507",
+      "Murder and nonnegligent Manslaughter": "146",
+      "Legacy rape": "1128",
+      "Robbery": "5163",
+      "Aggravated assault": "9070"
+    },
+    "state56": {
+      "Population": "532668",
+      "Violent crime total": "1330",
+      "Murder and nonnegligent Manslaughter": "12",
+      "Legacy rape": "185",
+      "Robbery": "87",
+      "Aggravated assault": "1046"
+    }
+  },
+  "2009": {
+    "state01": {
+      "Population": "4708708",
+      "Violent crime total": "21194",
+      "Murder and nonnegligent Manslaughter": "322",
+      "Legacy rape": "1504",
+      "Robbery": "6265",
+      "Aggravated assault": "13103"
+    },
+    "state02": {
+      "Population": "698473",
+      "Violent crime total": "4424",
+      "Murder and nonnegligent Manslaughter": "22",
+      "Legacy rape": "513",
+      "Robbery": "654",
+      "Aggravated assault": "3235"
+    },
+    "state04": {
+      "Population": "6595778",
+      "Violent crime total": "28128",
+      "Murder and nonnegligent Manslaughter": "380",
+      "Legacy rape": "2279",
+      "Robbery": "8199",
+      "Aggravated assault": "17270"
+    },
+    "state05": {
+      "Population": "2889450",
+      "Violent crime total": "14905",
+      "Murder and nonnegligent Manslaughter": "179",
+      "Legacy rape": "1378",
+      "Robbery": "2576",
+      "Aggravated assault": "10772"
+    },
+    "state06": {
+      "Population": "36961664",
+      "Violent crime total": "174934",
+      "Murder and nonnegligent Manslaughter": "1972",
+      "Legacy rape": "8713",
+      "Robbery": "64093",
+      "Aggravated assault": "100156"
+    },
+    "state08": {
+      "Population": "5024748",
+      "Violent crime total": "17022",
+      "Murder and nonnegligent Manslaughter": "159",
+      "Legacy rape": "2269",
+      "Robbery": "3371",
+      "Aggravated assault": "11223"
+    },
+    "state09": {
+      "Population": "3518288",
+      "Violent crime total": "10588",
+      "Murder and nonnegligent Manslaughter": "106",
+      "Legacy rape": "657",
+      "Robbery": "4001",
+      "Aggravated assault": "5824"
+    },
+    "state10": {
+      "Population": "885122",
+      "Violent crime total": "5713",
+      "Murder and nonnegligent Manslaughter": "41",
+      "Legacy rape": "395",
+      "Robbery": "1680",
+      "Aggravated assault": "3597"
+    },
+    "state11": {
+      "Population": "599657",
+      "Violent crime total": "8089",
+      "Murder and nonnegligent Manslaughter": "145",
+      "Legacy rape": "150",
+      "Robbery": "4404",
+      "Aggravated assault": "3390"
+    },
+    "state12": {
+      "Population": "18537969",
+      "Violent crime total": "113541",
+      "Murder and nonnegligent Manslaughter": "1017",
+      "Legacy rape": "5501",
+      "Robbery": "30911",
+      "Aggravated assault": "76112"
+    },
+    "state13": {
+      "Population": "9829211",
+      "Violent crime total": "42073",
+      "Murder and nonnegligent Manslaughter": "566",
+      "Legacy rape": "2323",
+      "Robbery": "14631",
+      "Aggravated assault": "24553"
+    },
+    "state15": {
+      "Population": "1295178",
+      "Violent crime total": "3550",
+      "Murder and nonnegligent Manslaughter": "23",
+      "Legacy rape": "385",
+      "Robbery": "1030",
+      "Aggravated assault": "2112"
+    },
+    "state16": {
+      "Population": "1545801",
+      "Violent crime total": "3805",
+      "Murder and nonnegligent Manslaughter": "24",
+      "Legacy rape": "575",
+      "Robbery": "254",
+      "Aggravated assault": "2952"
+    },
+    "state17": {
+      "Population": "12910409",
+      "Violent crime total": "64185",
+      "Murder and nonnegligent Manslaughter": "773",
+      "Legacy rape": "3901",
+      "Robbery": "22923",
+      "Aggravated assault": "36588"
+    },
+    "state18": {
+      "Population": "6423113",
+      "Violent crime total": "21455",
+      "Murder and nonnegligent Manslaughter": "312",
+      "Legacy rape": "1621",
+      "Robbery": "7347",
+      "Aggravated assault": "12175"
+    },
+    "state19": {
+      "Population": "3007856",
+      "Violent crime total": "8485",
+      "Murder and nonnegligent Manslaughter": "38",
+      "Legacy rape": "890",
+      "Robbery": "1201",
+      "Aggravated assault": "6356"
+    },
+    "state20": {
+      "Population": "2818747",
+      "Violent crime total": "11460",
+      "Murder and nonnegligent Manslaughter": "125",
+      "Legacy rape": "1179",
+      "Robbery": "1786",
+      "Aggravated assault": "8370"
+    },
+    "state21": {
+      "Population": "4314113",
+      "Violent crime total": "11000",
+      "Murder and nonnegligent Manslaughter": "184",
+      "Legacy rape": "1531",
+      "Robbery": "3642",
+      "Aggravated assault": "5643"
+    },
+    "state22": {
+      "Population": "4492076",
+      "Violent crime total": "28878",
+      "Murder and nonnegligent Manslaughter": "529",
+      "Legacy rape": "1351",
+      "Robbery": "6150",
+      "Aggravated assault": "20848"
+    },
+    "state23": {
+      "Population": "1318301",
+      "Violent crime total": "1580",
+      "Murder and nonnegligent Manslaughter": "26",
+      "Legacy rape": "375",
+      "Robbery": "399",
+      "Aggravated assault": "780"
+    },
+    "state24": {
+      "Population": "5699478",
+      "Violent crime total": "33625",
+      "Murder and nonnegligent Manslaughter": "440",
+      "Legacy rape": "1156",
+      "Robbery": "12007",
+      "Aggravated assault": "20022"
+    },
+    "state25": {
+      "Population": "6593587",
+      "Violent crime total": "30503",
+      "Murder and nonnegligent Manslaughter": "173",
+      "Legacy rape": "1734",
+      "Robbery": "7467",
+      "Aggravated assault": "21129"
+    },
+    "state26": {
+      "Population": "9969727",
+      "Violent crime total": "49825",
+      "Murder and nonnegligent Manslaughter": "623",
+      "Legacy rape": "4524",
+      "Robbery": "12427",
+      "Aggravated assault": "32251"
+    },
+    "state27": {
+      "Population": "5266214",
+      "Violent crime total": "12874",
+      "Murder and nonnegligent Manslaughter": "74",
+      "Legacy rape": "1789",
+      "Robbery": "3619",
+      "Aggravated assault": "7392"
+    },
+    "state28": {
+      "Population": "2951996",
+      "Violent crime total": "8451",
+      "Murder and nonnegligent Manslaughter": "194",
+      "Legacy rape": "991",
+      "Robbery": "2969",
+      "Aggravated assault": "4297"
+    },
+    "state29": {
+      "Population": "5987580",
+      "Violent crime total": "29513",
+      "Murder and nonnegligent Manslaughter": "387",
+      "Legacy rape": "1606",
+      "Robbery": "7437",
+      "Aggravated assault": "20083"
+    },
+    "state30": {
+      "Population": "974989",
+      "Violent crime total": "2798",
+      "Murder and nonnegligent Manslaughter": "32",
+      "Legacy rape": "357",
+      "Robbery": "228",
+      "Aggravated assault": "2181"
+    },
+    "state31": {
+      "Population": "1796619",
+      "Violent crime total": "5199",
+      "Murder and nonnegligent Manslaughter": "41",
+      "Legacy rape": "617",
+      "Robbery": "1220",
+      "Aggravated assault": "3321"
+    },
+    "state32": {
+      "Population": "2643085",
+      "Violent crime total": "18639",
+      "Murder and nonnegligent Manslaughter": "156",
+      "Legacy rape": "1024",
+      "Robbery": "6028",
+      "Aggravated assault": "11431"
+    },
+    "state33": {
+      "Population": "1324575",
+      "Violent crime total": "2125",
+      "Murder and nonnegligent Manslaughter": "11",
+      "Legacy rape": "399",
+      "Robbery": "454",
+      "Aggravated assault": "1261"
+    },
+    "state34": {
+      "Population": "8707739",
+      "Violent crime total": "27113",
+      "Murder and nonnegligent Manslaughter": "319",
+      "Legacy rape": "1041",
+      "Robbery": "11639",
+      "Aggravated assault": "14114"
+    },
+    "state35": {
+      "Population": "2009671",
+      "Violent crime total": "12709",
+      "Murder and nonnegligent Manslaughter": "198",
+      "Legacy rape": "1069",
+      "Robbery": "1932",
+      "Aggravated assault": "9510"
+    },
+    "state36": {
+      "Population": "19541453",
+      "Violent crime total": "75110",
+      "Murder and nonnegligent Manslaughter": "781",
+      "Legacy rape": "2582",
+      "Robbery": "28141",
+      "Aggravated assault": "43606"
+    },
+    "state37": {
+      "Population": "9380884",
+      "Violent crime total": "37946",
+      "Murder and nonnegligent Manslaughter": "489",
+      "Legacy rape": "2306",
+      "Robbery": "11825",
+      "Aggravated assault": "23326"
+    },
+    "state38": {
+      "Population": "646844",
+      "Violent crime total": "1723",
+      "Murder and nonnegligent Manslaughter": "12",
+      "Legacy rape": "296",
+      "Robbery": "107",
+      "Aggravated assault": "1308"
+    },
+    "state39": {
+      "Population": "11542645",
+      "Violent crime total": "38305",
+      "Murder and nonnegligent Manslaughter": "527",
+      "Legacy rape": "4119",
+      "Robbery": "17670",
+      "Aggravated assault": "15989"
+    },
+    "state40": {
+      "Population": "3687050",
+      "Violent crime total": "18560",
+      "Murder and nonnegligent Manslaughter": "234",
+      "Legacy rape": "1535",
+      "Robbery": "3358",
+      "Aggravated assault": "13433"
+    },
+    "state41": {
+      "Population": "3825657",
+      "Violent crime total": "9968",
+      "Murder and nonnegligent Manslaughter": "88",
+      "Legacy rape": "1202",
+      "Robbery": "2499",
+      "Aggravated assault": "6179"
+    },
+    "state42": {
+      "Population": "12604767",
+      "Violent crime total": "48188",
+      "Murder and nonnegligent Manslaughter": "664",
+      "Legacy rape": "3626",
+      "Robbery": "17504",
+      "Aggravated assault": "26394"
+    },
+    "state44": {
+      "Population": "1053209",
+      "Violent crime total": "2678",
+      "Murder and nonnegligent Manslaughter": "32",
+      "Legacy rape": "296",
+      "Robbery": "785",
+      "Aggravated assault": "1565"
+    },
+    "state45": {
+      "Population": "4561242",
+      "Violent crime total": "30799",
+      "Murder and nonnegligent Manslaughter": "305",
+      "Legacy rape": "1663",
+      "Robbery": "5753",
+      "Aggravated assault": "23078"
+    },
+    "state46": {
+      "Population": "812383",
+      "Violent crime total": "1777",
+      "Murder and nonnegligent Manslaughter": "30",
+      "Legacy rape": "501",
+      "Robbery": "117",
+      "Aggravated assault": "1129"
+    },
+    "state47": {
+      "Population": "6296254",
+      "Violent crime total": "41933",
+      "Murder and nonnegligent Manslaughter": "468",
+      "Legacy rape": "2019",
+      "Robbery": "9653",
+      "Aggravated assault": "29793"
+    },
+    "state48": {
+      "Population": "24782302",
+      "Violent crime total": "121684",
+      "Murder and nonnegligent Manslaughter": "1330",
+      "Legacy rape": "8311",
+      "Robbery": "38022",
+      "Aggravated assault": "74021"
+    },
+    "state49": {
+      "Population": "2784572",
+      "Violent crime total": "5998",
+      "Murder and nonnegligent Manslaughter": "39",
+      "Legacy rape": "941",
+      "Robbery": "1304",
+      "Aggravated assault": "3714"
+    },
+    "state50": {
+      "Population": "621760",
+      "Violent crime total": "837",
+      "Murder and nonnegligent Manslaughter": "8",
+      "Legacy rape": "132",
+      "Robbery": "111",
+      "Aggravated assault": "586"
+    },
+    "state51": {
+      "Population": "7882590",
+      "Violent crime total": "18195",
+      "Murder and nonnegligent Manslaughter": "370",
+      "Legacy rape": "1572",
+      "Robbery": "6342",
+      "Aggravated assault": "9911"
+    },
+    "state53": {
+      "Population": "6664195",
+      "Violent crime total": "22412",
+      "Murder and nonnegligent Manslaughter": "190",
+      "Legacy rape": "2583",
+      "Robbery": "6711",
+      "Aggravated assault": "12928"
+    },
+    "state54": {
+      "Population": "1819777",
+      "Violent crime total": "5554",
+      "Murder and nonnegligent Manslaughter": "84",
+      "Legacy rape": "470",
+      "Robbery": "914",
+      "Aggravated assault": "4086"
+    },
+    "state55": {
+      "Population": "5654774",
+      "Violent crime total": "14650",
+      "Murder and nonnegligent Manslaughter": "146",
+      "Legacy rape": "1118",
+      "Robbery": "4904",
+      "Aggravated assault": "8482"
+    },
+    "state56": {
+      "Population": "544270",
+      "Violent crime total": "1196",
+      "Murder and nonnegligent Manslaughter": "11",
+      "Legacy rape": "172",
+      "Robbery": "78",
+      "Aggravated assault": "935"
+    }
+  },
+  "2010": {
+    "state01": {
+      "Population": "4785401",
+      "Violent crime total": "18363",
+      "Murder and nonnegligent Manslaughter": "275",
+      "Legacy rape": "1355",
+      "Robbery": "4864",
+      "Aggravated assault": "11869"
+    },
+    "state02": {
+      "Population": "714146",
+      "Violent crime total": "4537",
+      "Murder and nonnegligent Manslaughter": "31",
+      "Legacy rape": "533",
+      "Robbery": "594",
+      "Aggravated assault": "3379"
+    },
+    "state04": {
+      "Population": "6413158",
+      "Violent crime total": "26528",
+      "Murder and nonnegligent Manslaughter": "408",
+      "Legacy rape": "2191",
+      "Robbery": "6953",
+      "Aggravated assault": "16976"
+    },
+    "state05": {
+      "Population": "2921588",
+      "Violent crime total": "14711",
+      "Murder and nonnegligent Manslaughter": "134",
+      "Legacy rape": "1321",
+      "Robbery": "2369",
+      "Aggravated assault": "10887"
+    },
+    "state06": {
+      "Population": "37338198",
+      "Violent crime total": "164133",
+      "Murder and nonnegligent Manslaughter": "1809",
+      "Legacy rape": "8331",
+      "Robbery": "58116",
+      "Aggravated assault": "95877"
+    },
+    "state08": {
+      "Population": "5047692",
+      "Violent crime total": "16339",
+      "Murder and nonnegligent Manslaughter": "129",
+      "Legacy rape": "2230",
+      "Robbery": "3164",
+      "Aggravated assault": "10816"
+    },
+    "state09": {
+      "Population": "3575498",
+      "Violent crime total": "10083",
+      "Murder and nonnegligent Manslaughter": "133",
+      "Legacy rape": "595",
+      "Robbery": "3553",
+      "Aggravated assault": "5802"
+    },
+    "state10": {
+      "Population": "899792",
+      "Violent crime total": "5608",
+      "Murder and nonnegligent Manslaughter": "51",
+      "Legacy rape": "326",
+      "Robbery": "1839",
+      "Aggravated assault": "3392"
+    },
+    "state11": {
+      "Population": "604912",
+      "Violent crime total": "8026",
+      "Murder and nonnegligent Manslaughter": "132",
+      "Legacy rape": "187",
+      "Robbery": "4325",
+      "Aggravated assault": "3382"
+    },
+    "state12": {
+      "Population": "18838613",
+      "Violent crime total": "101969",
+      "Murder and nonnegligent Manslaughter": "987",
+      "Legacy rape": "5373",
+      "Robbery": "26086",
+      "Aggravated assault": "69523"
+    },
+    "state13": {
+      "Population": "9712157",
+      "Violent crime total": "39068",
+      "Murder and nonnegligent Manslaughter": "555",
+      "Legacy rape": "2107",
+      "Robbery": "12372",
+      "Aggravated assault": "24034"
+    },
+    "state15": {
+      "Population": "1363359",
+      "Violent crime total": "3603",
+      "Murder and nonnegligent Manslaughter": "25",
+      "Legacy rape": "377",
+      "Robbery": "1065",
+      "Aggravated assault": "2136"
+    },
+    "state16": {
+      "Population": "1571102",
+      "Violent crime total": "3464",
+      "Murder and nonnegligent Manslaughter": "22",
+      "Legacy rape": "533",
+      "Robbery": "213",
+      "Aggravated assault": "2696"
+    },
+    "state17": {
+      "Population": "12841980",
+      "Violent crime total": "57132",
+      "Murder and nonnegligent Manslaughter": "704",
+      "Legacy rape": "3066",
+      "Robbery": "20386",
+      "Aggravated assault": "32976"
+    },
+    "state18": {
+      "Population": "6490622",
+      "Violent crime total": "20983",
+      "Murder and nonnegligent Manslaughter": "268",
+      "Legacy rape": "1760",
+      "Robbery": "6559",
+      "Aggravated assault": "12396"
+    },
+    "state19": {
+      "Population": "3050202",
+      "Violent crime total": "8191",
+      "Murder and nonnegligent Manslaughter": "38",
+      "Legacy rape": "883",
+      "Robbery": "1012",
+      "Aggravated assault": "6258"
+    },
+    "state20": {
+      "Population": "2859143",
+      "Violent crime total": "10602",
+      "Murder and nonnegligent Manslaughter": "97",
+      "Legacy rape": "1146",
+      "Robbery": "1538",
+      "Aggravated assault": "7821"
+    },
+    "state21": {
+      "Population": "4347223",
+      "Violent crime total": "10604",
+      "Murder and nonnegligent Manslaughter": "188",
+      "Legacy rape": "1438",
+      "Robbery": "3748",
+      "Aggravated assault": "5230"
+    },
+    "state22": {
+      "Population": "4545343",
+      "Violent crime total": "25241",
+      "Murder and nonnegligent Manslaughter": "500",
+      "Legacy rape": "1230",
+      "Robbery": "5297",
+      "Aggravated assault": "18214"
+    },
+    "state23": {
+      "Population": "1327379",
+      "Violent crime total": "1621",
+      "Murder and nonnegligent Manslaughter": "24",
+      "Legacy rape": "389",
+      "Robbery": "412",
+      "Aggravated assault": "796"
+    },
+    "state24": {
+      "Population": "5785681",
+      "Violent crime total": "31607",
+      "Murder and nonnegligent Manslaughter": "426",
+      "Legacy rape": "1228",
+      "Robbery": "11054",
+      "Aggravated assault": "18899"
+    },
+    "state25": {
+      "Population": "6555466",
+      "Violent crime total": "30737",
+      "Murder and nonnegligent Manslaughter": "214",
+      "Legacy rape": "1784",
+      "Robbery": "6897",
+      "Aggravated assault": "21842"
+    },
+    "state26": {
+      "Population": "9877143",
+      "Violent crime total": "48693",
+      "Murder and nonnegligent Manslaughter": "580",
+      "Legacy rape": "4733",
+      "Robbery": "11522",
+      "Aggravated assault": "31858"
+    },
+    "state27": {
+      "Population": "5310658",
+      "Violent crime total": "12515",
+      "Murder and nonnegligent Manslaughter": "96",
+      "Legacy rape": "1798",
+      "Robbery": "3388",
+      "Aggravated assault": "7233"
+    },
+    "state28": {
+      "Population": "2970072",
+      "Violent crime total": "7999",
+      "Murder and nonnegligent Manslaughter": "204",
+      "Legacy rape": "931",
+      "Robbery": "2777",
+      "Aggravated assault": "4087"
+    },
+    "state29": {
+      "Population": "5995715",
+      "Violent crime total": "27440",
+      "Murder and nonnegligent Manslaughter": "420",
+      "Legacy rape": "1445",
+      "Robbery": "6185",
+      "Aggravated assault": "19390"
+    },
+    "state30": {
+      "Population": "990958",
+      "Violent crime total": "2733",
+      "Murder and nonnegligent Manslaughter": "25",
+      "Legacy rape": "332",
+      "Robbery": "154",
+      "Aggravated assault": "2222"
+    },
+    "state31": {
+      "Population": "1830141",
+      "Violent crime total": "5093",
+      "Murder and nonnegligent Manslaughter": "54",
+      "Legacy rape": "674",
+      "Robbery": "1020",
+      "Aggravated assault": "3345"
+    },
+    "state32": {
+      "Population": "2704283",
+      "Violent crime total": "17929",
+      "Murder and nonnegligent Manslaughter": "158",
+      "Legacy rape": "965",
+      "Robbery": "5298",
+      "Aggravated assault": "11508"
+    },
+    "state33": {
+      "Population": "1316807",
+      "Violent crime total": "2204",
+      "Murder and nonnegligent Manslaughter": "13",
+      "Legacy rape": "411",
+      "Robbery": "450",
+      "Aggravated assault": "1330"
+    },
+    "state34": {
+      "Population": "8799593",
+      "Violent crime total": "27055",
+      "Murder and nonnegligent Manslaughter": "371",
+      "Legacy rape": "981",
+      "Robbery": "11818",
+      "Aggravated assault": "13885"
+    },
+    "state35": {
+      "Population": "2065913",
+      "Violent crime total": "12147",
+      "Murder and nonnegligent Manslaughter": "140",
+      "Legacy rape": "959",
+      "Robbery": "1616",
+      "Aggravated assault": "9432"
+    },
+    "state36": {
+      "Population": "19395206",
+      "Violent crime total": "76492",
+      "Murder and nonnegligent Manslaughter": "868",
+      "Legacy rape": "2797",
+      "Robbery": "28630",
+      "Aggravated assault": "44197"
+    },
+    "state37": {
+      "Population": "9560234",
+      "Violent crime total": "34679",
+      "Murder and nonnegligent Manslaughter": "474",
+      "Legacy rape": "2002",
+      "Robbery": "9620",
+      "Aggravated assault": "22583"
+    },
+    "state38": {
+      "Population": "674629",
+      "Violent crime total": "1548",
+      "Murder and nonnegligent Manslaughter": "10",
+      "Legacy rape": "245",
+      "Robbery": "90",
+      "Aggravated assault": "1203"
+    },
+    "state39": {
+      "Population": "11537968",
+      "Violent crime total": "36306",
+      "Murder and nonnegligent Manslaughter": "479",
+      "Legacy rape": "3730",
+      "Robbery": "16486",
+      "Aggravated assault": "15611"
+    },
+    "state40": {
+      "Population": "3760184",
+      "Violent crime total": "18100",
+      "Murder and nonnegligent Manslaughter": "195",
+      "Legacy rape": "1469",
+      "Robbery": "3345",
+      "Aggravated assault": "13091"
+    },
+    "state41": {
+      "Population": "3838332",
+      "Violent crime total": "9648",
+      "Murder and nonnegligent Manslaughter": "96",
+      "Legacy rape": "1239",
+      "Robbery": "2421",
+      "Aggravated assault": "5892"
+    },
+    "state42": {
+      "Population": "12717722",
+      "Violent crime total": "46612",
+      "Murder and nonnegligent Manslaughter": "653",
+      "Legacy rape": "3472",
+      "Robbery": "16375",
+      "Aggravated assault": "26112"
+    },
+    "state44": {
+      "Population": "1052528",
+      "Violent crime total": "2709",
+      "Murder and nonnegligent Manslaughter": "29",
+      "Legacy rape": "298",
+      "Robbery": "782",
+      "Aggravated assault": "1600"
+    },
+    "state45": {
+      "Population": "4637106",
+      "Violent crime total": "27923",
+      "Murder and nonnegligent Manslaughter": "265",
+      "Legacy rape": "1551",
+      "Robbery": "5017",
+      "Aggravated assault": "21090"
+    },
+    "state46": {
+      "Population": "816598",
+      "Violent crime total": "2196",
+      "Murder and nonnegligent Manslaughter": "23",
+      "Legacy rape": "385",
+      "Robbery": "154",
+      "Aggravated assault": "1634"
+    },
+    "state47": {
+      "Population": "6357436",
+      "Violent crime total": "38909",
+      "Murder and nonnegligent Manslaughter": "359",
+      "Legacy rape": "2173",
+      "Robbery": "8361",
+      "Aggravated assault": "28016"
+    },
+    "state48": {
+      "Population": "25253466",
+      "Violent crime total": "113231",
+      "Murder and nonnegligent Manslaughter": "1249",
+      "Legacy rape": "7622",
+      "Robbery": "32843",
+      "Aggravated assault": "71517"
+    },
+    "state49": {
+      "Population": "2775479",
+      "Violent crime total": "5925",
+      "Murder and nonnegligent Manslaughter": "53",
+      "Legacy rape": "983",
+      "Robbery": "1269",
+      "Aggravated assault": "3620"
+    },
+    "state50": {
+      "Population": "625909",
+      "Violent crime total": "820",
+      "Murder and nonnegligent Manslaughter": "7",
+      "Legacy rape": "141",
+      "Robbery": "76",
+      "Aggravated assault": "596"
+    },
+    "state51": {
+      "Population": "8023953",
+      "Violent crime total": "17184",
+      "Murder and nonnegligent Manslaughter": "376",
+      "Legacy rape": "1580",
+      "Robbery": "5678",
+      "Aggravated assault": "9550"
+    },
+    "state53": {
+      "Population": "6742950",
+      "Violent crime total": "21138",
+      "Murder and nonnegligent Manslaughter": "154",
+      "Legacy rape": "2579",
+      "Robbery": "5929",
+      "Aggravated assault": "12476"
+    },
+    "state54": {
+      "Population": "1854368",
+      "Violent crime total": "5586",
+      "Murder and nonnegligent Manslaughter": "58",
+      "Legacy rape": "362",
+      "Robbery": "776",
+      "Aggravated assault": "4390"
+    },
+    "state55": {
+      "Population": "5691659",
+      "Violent crime total": "14167",
+      "Murder and nonnegligent Manslaughter": "155",
+      "Legacy rape": "1191",
+      "Robbery": "4516",
+      "Aggravated assault": "8305"
+    },
+    "state56": {
+      "Population": "564554",
+      "Violent crime total": "1117",
+      "Murder and nonnegligent Manslaughter": "8",
+      "Legacy rape": "162",
+      "Robbery": "77",
+      "Aggravated assault": "870"
+    }
+  },
+  "2011": {
+    "state01": {
+      "Population": "4803689",
+      "Violent crime total": "20166",
+      "Murder and nonnegligent Manslaughter": "299",
+      "Legacy rape": "1370",
+      "Robbery": "4906",
+      "Aggravated assault": "13591"
+    },
+    "state02": {
+      "Population": "723860",
+      "Violent crime total": "4416",
+      "Murder and nonnegligent Manslaughter": "30",
+      "Legacy rape": "436",
+      "Robbery": "576",
+      "Aggravated assault": "3374"
+    },
+    "state04": {
+      "Population": "6467315",
+      "Violent crime total": "26789",
+      "Murder and nonnegligent Manslaughter": "397",
+      "Legacy rape": "2499",
+      "Robbery": "7145",
+      "Aggravated assault": "16748"
+    },
+    "state05": {
+      "Population": "2938582",
+      "Violent crime total": "14173",
+      "Murder and nonnegligent Manslaughter": "160",
+      "Legacy rape": "1230",
+      "Robbery": "2357",
+      "Aggravated assault": "10426"
+    },
+    "state06": {
+      "Population": "37683933",
+      "Violent crime total": "154943",
+      "Murder and nonnegligent Manslaughter": "1792",
+      "Legacy rape": "7665",
+      "Robbery": "54291",
+      "Aggravated assault": "91195"
+    },
+    "state08": {
+      "Population": "5116302",
+      "Violent crime total": "16085",
+      "Murder and nonnegligent Manslaughter": "155",
+      "Legacy rape": "2285",
+      "Robbery": "3299",
+      "Aggravated assault": "10346"
+    },
+    "state09": {
+      "Population": "3586717",
+      "Violent crime total": "9889",
+      "Murder and nonnegligent Manslaughter": "129",
+      "Legacy rape": "689",
+      "Robbery": "3689",
+      "Aggravated assault": "5382"
+    },
+    "state10": {
+      "Population": "908137",
+      "Violent crime total": "5144",
+      "Murder and nonnegligent Manslaughter": "48",
+      "Legacy rape": "307",
+      "Robbery": "1558",
+      "Aggravated assault": "3231"
+    },
+    "state11": {
+      "Population": "619020",
+      "Violent crime total": "7433",
+      "Murder and nonnegligent Manslaughter": "108",
+      "Legacy rape": "173",
+      "Robbery": "4094",
+      "Aggravated assault": "3058"
+    },
+    "state12": {
+      "Population": "19082262",
+      "Violent crime total": "98198",
+      "Murder and nonnegligent Manslaughter": "984",
+      "Legacy rape": "5273",
+      "Robbery": "25622",
+      "Aggravated assault": "66319"
+    },
+    "state13": {
+      "Population": "9812460",
+      "Violent crime total": "36762",
+      "Murder and nonnegligent Manslaughter": "549",
+      "Legacy rape": "2066",
+      "Robbery": "12266",
+      "Aggravated assault": "21881"
+    },
+    "state15": {
+      "Population": "1378129",
+      "Violent crime total": "3465",
+      "Murder and nonnegligent Manslaughter": "20",
+      "Legacy rape": "353",
+      "Robbery": "994",
+      "Aggravated assault": "2098"
+    },
+    "state16": {
+      "Population": "1583744",
+      "Violent crime total": "3202",
+      "Murder and nonnegligent Manslaughter": "35",
+      "Legacy rape": "444",
+      "Robbery": "188",
+      "Aggravated assault": "2535"
+    },
+    "state17": {
+      "Population": "12859752",
+      "Violent crime total": "54523",
+      "Murder and nonnegligent Manslaughter": "781",
+      "Legacy rape": "3030",
+      "Robbery": "20217",
+      "Aggravated assault": "30495"
+    },
+    "state18": {
+      "Population": "6516353",
+      "Violent crime total": "21619",
+      "Murder and nonnegligent Manslaughter": "306",
+      "Legacy rape": "1758",
+      "Robbery": "6977",
+      "Aggravated assault": "12578"
+    },
+    "state19": {
+      "Population": "3064097",
+      "Violent crime total": "7883",
+      "Murder and nonnegligent Manslaughter": "44",
+      "Legacy rape": "866",
+      "Robbery": "824",
+      "Aggravated assault": "6149"
+    },
+    "state20": {
+      "Population": "2870386",
+      "Violent crime total": "10209",
+      "Murder and nonnegligent Manslaughter": "111",
+      "Legacy rape": "1122",
+      "Robbery": "1448",
+      "Aggravated assault": "7528"
+    },
+    "state21": {
+      "Population": "4366814",
+      "Violent crime total": "10465",
+      "Murder and nonnegligent Manslaughter": "151",
+      "Legacy rape": "1499",
+      "Robbery": "3705",
+      "Aggravated assault": "5110"
+    },
+    "state22": {
+      "Population": "4574766",
+      "Violent crime total": "25373",
+      "Murder and nonnegligent Manslaughter": "506",
+      "Legacy rape": "1262",
+      "Robbery": "5235",
+      "Aggravated assault": "18370"
+    },
+    "state23": {
+      "Population": "1328544",
+      "Violent crime total": "1638",
+      "Murder and nonnegligent Manslaughter": "26",
+      "Legacy rape": "394",
+      "Robbery": "370",
+      "Aggravated assault": "848"
+    },
+    "state24": {
+      "Population": "5839572",
+      "Violent crime total": "28817",
+      "Murder and nonnegligent Manslaughter": "399",
+      "Legacy rape": "1200",
+      "Robbery": "10342",
+      "Aggravated assault": "16876"
+    },
+    "state25": {
+      "Population": "6607003",
+      "Violent crime total": "28232",
+      "Murder and nonnegligent Manslaughter": "184",
+      "Legacy rape": "1654",
+      "Robbery": "6768",
+      "Aggravated assault": "19626"
+    },
+    "state26": {
+      "Population": "9876801",
+      "Violent crime total": "43731",
+      "Murder and nonnegligent Manslaughter": "617",
+      "Legacy rape": "4344",
+      "Robbery": "10263",
+      "Aggravated assault": "28507"
+    },
+    "state27": {
+      "Population": "5347299",
+      "Violent crime total": "12323",
+      "Murder and nonnegligent Manslaughter": "75",
+      "Legacy rape": "2113",
+      "Robbery": "3385",
+      "Aggravated assault": "6750"
+    },
+    "state28": {
+      "Population": "2977457",
+      "Violent crime total": "8009",
+      "Murder and nonnegligent Manslaughter": "232",
+      "Legacy rape": "863",
+      "Robbery": "2496",
+      "Aggravated assault": "4418"
+    },
+    "state29": {
+      "Population": "6008984",
+      "Violent crime total": "26888",
+      "Murder and nonnegligent Manslaughter": "366",
+      "Legacy rape": "1469",
+      "Robbery": "6275",
+      "Aggravated assault": "18778"
+    },
+    "state30": {
+      "Population": "997667",
+      "Violent crime total": "2755",
+      "Murder and nonnegligent Manslaughter": "29",
+      "Legacy rape": "366",
+      "Robbery": "171",
+      "Aggravated assault": "2189"
+    },
+    "state31": {
+      "Population": "1842234",
+      "Violent crime total": "4672",
+      "Murder and nonnegligent Manslaughter": "68",
+      "Legacy rape": "699",
+      "Robbery": "993",
+      "Aggravated assault": "2912"
+    },
+    "state32": {
+      "Population": "2720028",
+      "Violent crime total": "15452",
+      "Murder and nonnegligent Manslaughter": "139",
+      "Legacy rape": "913",
+      "Robbery": "4308",
+      "Aggravated assault": "10092"
+    },
+    "state33": {
+      "Population": "1317807",
+      "Violent crime total": "2864",
+      "Murder and nonnegligent Manslaughter": "16",
+      "Legacy rape": "581",
+      "Robbery": "509",
+      "Aggravated assault": "1758"
+    },
+    "state34": {
+      "Population": "8834773",
+      "Violent crime total": "27203",
+      "Murder and nonnegligent Manslaughter": "380",
+      "Legacy rape": "1006",
+      "Robbery": "12209",
+      "Aggravated assault": "13608"
+    },
+    "state35": {
+      "Population": "2078674",
+      "Violent crime total": "11904",
+      "Murder and nonnegligent Manslaughter": "158",
+      "Legacy rape": "856",
+      "Robbery": "1720",
+      "Aggravated assault": "9170"
+    },
+    "state36": {
+      "Population": "19501616",
+      "Violent crime total": "77463",
+      "Murder and nonnegligent Manslaughter": "769",
+      "Legacy rape": "2751",
+      "Robbery": "28405",
+      "Aggravated assault": "45538"
+    },
+    "state37": {
+      "Population": "9651103",
+      "Violent crime total": "33421",
+      "Murder and nonnegligent Manslaughter": "498",
+      "Legacy rape": "1959",
+      "Robbery": "9448",
+      "Aggravated assault": "21516"
+    },
+    "state38": {
+      "Population": "684740",
+      "Violent crime total": "1699",
+      "Murder and nonnegligent Manslaughter": "24",
+      "Legacy rape": "266",
+      "Robbery": "91",
+      "Aggravated assault": "1318"
+    },
+    "state39": {
+      "Population": "11541007",
+      "Violent crime total": "35218",
+      "Murder and nonnegligent Manslaughter": "500",
+      "Legacy rape": "3679",
+      "Robbery": "15991",
+      "Aggravated assault": "15048"
+    },
+    "state40": {
+      "Population": "3784163",
+      "Violent crime total": "17311",
+      "Murder and nonnegligent Manslaughter": "212",
+      "Legacy rape": "1410",
+      "Robbery": "3288",
+      "Aggravated assault": "12401"
+    },
+    "state41": {
+      "Population": "3868229",
+      "Violent crime total": "9643",
+      "Murder and nonnegligent Manslaughter": "84",
+      "Legacy rape": "1239",
+      "Robbery": "2237",
+      "Aggravated assault": "6083"
+    },
+    "state42": {
+      "Population": "12743948",
+      "Violent crime total": "46189",
+      "Murder and nonnegligent Manslaughter": "639",
+      "Legacy rape": "3339",
+      "Robbery": "16165",
+      "Aggravated assault": "26046"
+    },
+    "state44": {
+      "Population": "1050646",
+      "Violent crime total": "2586",
+      "Murder and nonnegligent Manslaughter": "20",
+      "Legacy rape": "319",
+      "Robbery": "744",
+      "Aggravated assault": "1503"
+    },
+    "state45": {
+      "Population": "4673348",
+      "Violent crime total": "27894",
+      "Murder and nonnegligent Manslaughter": "320",
+      "Legacy rape": "1678",
+      "Robbery": "4631",
+      "Aggravated assault": "21265"
+    },
+    "state46": {
+      "Population": "823593",
+      "Violent crime total": "2105",
+      "Murder and nonnegligent Manslaughter": "20",
+      "Legacy rape": "503",
+      "Robbery": "167",
+      "Aggravated assault": "1415"
+    },
+    "state47": {
+      "Population": "6399787",
+      "Violent crime total": "38895",
+      "Murder and nonnegligent Manslaughter": "380",
+      "Legacy rape": "2095",
+      "Robbery": "8082",
+      "Aggravated assault": "28338"
+    },
+    "state48": {
+      "Population": "25631778",
+      "Violent crime total": "104734",
+      "Murder and nonnegligent Manslaughter": "1130",
+      "Legacy rape": "7486",
+      "Robbery": "28620",
+      "Aggravated assault": "67498"
+    },
+    "state49": {
+      "Population": "2814347",
+      "Violent crime total": "5547",
+      "Murder and nonnegligent Manslaughter": "50",
+      "Legacy rape": "901",
+      "Robbery": "1079",
+      "Aggravated assault": "3517"
+    },
+    "state50": {
+      "Population": "626592",
+      "Violent crime total": "925",
+      "Murder and nonnegligent Manslaughter": "11",
+      "Legacy rape": "146",
+      "Robbery": "99",
+      "Aggravated assault": "669"
+    },
+    "state51": {
+      "Population": "8104384",
+      "Violent crime total": "16014",
+      "Murder and nonnegligent Manslaughter": "304",
+      "Legacy rape": "1591",
+      "Robbery": "5425",
+      "Aggravated assault": "8694"
+    },
+    "state53": {
+      "Population": "6823267",
+      "Violent crime total": "20152",
+      "Murder and nonnegligent Manslaughter": "163",
+      "Legacy rape": "2320",
+      "Robbery": "5627",
+      "Aggravated assault": "12042"
+    },
+    "state54": {
+      "Population": "1854908",
+      "Violent crime total": "5497",
+      "Murder and nonnegligent Manslaughter": "87",
+      "Legacy rape": "372",
+      "Robbery": "802",
+      "Aggravated assault": "4236"
+    },
+    "state55": {
+      "Population": "5709843",
+      "Violent crime total": "14268",
+      "Murder and nonnegligent Manslaughter": "138",
+      "Legacy rape": "1190",
+      "Robbery": "4600",
+      "Aggravated assault": "8340"
+    },
+    "state56": {
+      "Population": "567356",
+      "Violent crime total": "1245",
+      "Murder and nonnegligent Manslaughter": "18",
+      "Legacy rape": "146",
+      "Robbery": "71",
+      "Aggravated assault": "1010"
+    }
+  },
+  "2012": {
+    "state01": {
+      "Population": "4817528",
+      "Violent crime total": "21693",
+      "Murder and nonnegligent Manslaughter": "342",
+      "Legacy rape": "1296",
+      "Robbery": "5020",
+      "Aggravated assault": "15035"
+    },
+    "state02": {
+      "Population": "730307",
+      "Violent crime total": "4412",
+      "Murder and nonnegligent Manslaughter": "30",
+      "Legacy rape": "583",
+      "Robbery": "630",
+      "Aggravated assault": "3169"
+    },
+    "state04": {
+      "Population": "6551149",
+      "Violent crime total": "28077",
+      "Murder and nonnegligent Manslaughter": "358",
+      "Legacy rape": "2282",
+      "Robbery": "7383",
+      "Aggravated assault": "18054"
+    },
+    "state05": {
+      "Population": "2949828",
+      "Violent crime total": "13851",
+      "Murder and nonnegligent Manslaughter": "174",
+      "Legacy rape": "1233",
+      "Robbery": "2310",
+      "Aggravated assault": "10134"
+    },
+    "state06": {
+      "Population": "37999878",
+      "Violent crime total": "160944",
+      "Murder and nonnegligent Manslaughter": "1884",
+      "Legacy rape": "7837",
+      "Robbery": "56521",
+      "Aggravated assault": "94702"
+    },
+    "state08": {
+      "Population": "5189458",
+      "Violent crime total": "15951",
+      "Murder and nonnegligent Manslaughter": "152",
+      "Legacy rape": "2122",
+      "Robbery": "3392",
+      "Aggravated assault": "10285"
+    },
+    "state09": {
+      "Population": "3591765",
+      "Violent crime total": "10183",
+      "Murder and nonnegligent Manslaughter": "117",
+      "Legacy rape": "933",
+      "Robbery": "3709",
+      "Aggravated assault": "5424"
+    },
+    "state10": {
+      "Population": "917053",
+      "Violent crime total": "5048",
+      "Murder and nonnegligent Manslaughter": "56",
+      "Legacy rape": "249",
+      "Robbery": "1498",
+      "Aggravated assault": "3245"
+    },
+    "state11": {
+      "Population": "633427",
+      "Violent crime total": "7866",
+      "Murder and nonnegligent Manslaughter": "88",
+      "Legacy rape": "236",
+      "Robbery": "4037",
+      "Aggravated assault": "3505"
+    },
+    "state12": {
+      "Population": "19320749",
+      "Violent crime total": "94087",
+      "Murder and nonnegligent Manslaughter": "1009",
+      "Legacy rape": "5260",
+      "Robbery": "23889",
+      "Aggravated assault": "63929"
+    },
+    "state13": {
+      "Population": "9915646",
+      "Violent crime total": "37675",
+      "Murder and nonnegligent Manslaughter": "583",
+      "Legacy rape": "2143",
+      "Robbery": "12502",
+      "Aggravated assault": "22447"
+    },
+    "state15": {
+      "Population": "1390090",
+      "Violent crime total": "3378",
+      "Murder and nonnegligent Manslaughter": "21",
+      "Legacy rape": "279",
+      "Robbery": "1125",
+      "Aggravated assault": "1953"
+    },
+    "state16": {
+      "Population": "1595590",
+      "Violent crime total": "3348",
+      "Murder and nonnegligent Manslaughter": "30",
+      "Legacy rape": "495",
+      "Robbery": "243",
+      "Aggravated assault": "2580"
+    },
+    "state17": {
+      "Population": "12868192",
+      "Violent crime total": "53556",
+      "Murder and nonnegligent Manslaughter": "770",
+      "Legacy rape": "3581",
+      "Robbery": "19480",
+      "Aggravated assault": "29725"
+    },
+    "state18": {
+      "Population": "6537782",
+      "Violent crime total": "22544",
+      "Murder and nonnegligent Manslaughter": "307",
+      "Legacy rape": "1661",
+      "Robbery": "6601",
+      "Aggravated assault": "13975"
+    },
+    "state19": {
+      "Population": "3075039",
+      "Violent crime total": "8167",
+      "Murder and nonnegligent Manslaughter": "49",
+      "Legacy rape": "901",
+      "Robbery": "962",
+      "Aggravated assault": "6255"
+    },
+    "state20": {
+      "Population": "2885398",
+      "Violent crime total": "10292",
+      "Murder and nonnegligent Manslaughter": "85",
+      "Legacy rape": "1105",
+      "Robbery": "1493",
+      "Aggravated assault": "7609"
+    },
+    "state21": {
+      "Population": "4379730",
+      "Violent crime total": "9852",
+      "Murder and nonnegligent Manslaughter": "201",
+      "Legacy rape": "1312",
+      "Robbery": "3547",
+      "Aggravated assault": "4792"
+    },
+    "state22": {
+      "Population": "4602134",
+      "Violent crime total": "22839",
+      "Murder and nonnegligent Manslaughter": "489",
+      "Legacy rape": "1155",
+      "Robbery": "5458",
+      "Aggravated assault": "15737"
+    },
+    "state23": {
+      "Population": "1328501",
+      "Violent crime total": "1626",
+      "Murder and nonnegligent Manslaughter": "26",
+      "Legacy rape": "372",
+      "Robbery": "420",
+      "Aggravated assault": "808"
+    },
+    "state24": {
+      "Population": "5884868",
+      "Violent crime total": "28086",
+      "Murder and nonnegligent Manslaughter": "373",
+      "Legacy rape": "1237",
+      "Robbery": "10173",
+      "Aggravated assault": "16303"
+    },
+    "state25": {
+      "Population": "6645303",
+      "Violent crime total": "27047",
+      "Murder and nonnegligent Manslaughter": "121",
+      "Legacy rape": "1650",
+      "Robbery": "6555",
+      "Aggravated assault": "18721"
+    },
+    "state26": {
+      "Population": "9882519",
+      "Violent crime total": "44962",
+      "Murder and nonnegligent Manslaughter": "701",
+      "Legacy rape": "4635",
+      "Robbery": "10423",
+      "Aggravated assault": "29203"
+    },
+    "state27": {
+      "Population": "5379646",
+      "Violent crime total": "12419",
+      "Murder and nonnegligent Manslaughter": "99",
+      "Legacy rape": "1638",
+      "Robbery": "3475",
+      "Aggravated assault": "7207"
+    },
+    "state28": {
+      "Population": "2986450",
+      "Violent crime total": "7769",
+      "Murder and nonnegligent Manslaughter": "213",
+      "Legacy rape": "819",
+      "Robbery": "2277",
+      "Aggravated assault": "4460"
+    },
+    "state29": {
+      "Population": "6024522",
+      "Violent crime total": "27189",
+      "Murder and nonnegligent Manslaughter": "390",
+      "Legacy rape": "1527",
+      "Robbery": "5782",
+      "Aggravated assault": "19490"
+    },
+    "state30": {
+      "Population": "1005494",
+      "Violent crime total": "2803",
+      "Murder and nonnegligent Manslaughter": "29",
+      "Legacy rape": "392",
+      "Robbery": "202",
+      "Aggravated assault": "2180"
+    },
+    "state31": {
+      "Population": "1855350",
+      "Violent crime total": "4802",
+      "Murder and nonnegligent Manslaughter": "52",
+      "Legacy rape": "710",
+      "Robbery": "1128",
+      "Aggravated assault": "2912"
+    },
+    "state32": {
+      "Population": "2754354",
+      "Violent crime total": "16763",
+      "Murder and nonnegligent Manslaughter": "124",
+      "Legacy rape": "931",
+      "Robbery": "4918",
+      "Aggravated assault": "10790"
+    },
+    "state33": {
+      "Population": "1321617",
+      "Violent crime total": "2841",
+      "Murder and nonnegligent Manslaughter": "15",
+      "Legacy rape": "486",
+      "Robbery": "471",
+      "Aggravated assault": "1869"
+    },
+    "state34": {
+      "Population": "8867749",
+      "Violent crime total": "25727",
+      "Murder and nonnegligent Manslaughter": "388",
+      "Legacy rape": "1035",
+      "Robbery": "11385",
+      "Aggravated assault": "12919"
+    },
+    "state35": {
+      "Population": "2083540",
+      "Violent crime total": "11660",
+      "Murder and nonnegligent Manslaughter": "116",
+      "Legacy rape": "957",
+      "Robbery": "1847",
+      "Aggravated assault": "8740"
+    },
+    "state36": {
+      "Population": "19576125",
+      "Violent crime total": "79535",
+      "Murder and nonnegligent Manslaughter": "683",
+      "Legacy rape": "2837",
+      "Robbery": "28633",
+      "Aggravated assault": "47382"
+    },
+    "state37": {
+      "Population": "9748364",
+      "Violent crime total": "34464",
+      "Murder and nonnegligent Manslaughter": "479",
+      "Legacy rape": "1984",
+      "Robbery": "9392",
+      "Aggravated assault": "22609"
+    },
+    "state38": {
+      "Population": "701345",
+      "Violent crime total": "1723",
+      "Murder and nonnegligent Manslaughter": "25",
+      "Legacy rape": "279",
+      "Robbery": "127",
+      "Aggravated assault": "1292"
+    },
+    "state39": {
+      "Population": "11553031",
+      "Violent crime total": "34827",
+      "Murder and nonnegligent Manslaughter": "478",
+      "Legacy rape": "3813",
+      "Robbery": "15396",
+      "Aggravated assault": "15140"
+    },
+    "state40": {
+      "Population": "3815780",
+      "Violent crime total": "18102",
+      "Murder and nonnegligent Manslaughter": "220",
+      "Legacy rape": "1622",
+      "Robbery": "3248",
+      "Aggravated assault": "13012"
+    },
+    "state41": {
+      "Population": "3899801",
+      "Violent crime total": "9638",
+      "Murder and nonnegligent Manslaughter": "91",
+      "Legacy rape": "1159",
+      "Robbery": "2419",
+      "Aggravated assault": "5969"
+    },
+    "state42": {
+      "Population": "12764475",
+      "Violent crime total": "45384",
+      "Murder and nonnegligent Manslaughter": "707",
+      "Legacy rape": "3371",
+      "Robbery": "15735",
+      "Aggravated assault": "25571"
+    },
+    "state44": {
+      "Population": "1050304",
+      "Violent crime total": "2657",
+      "Murder and nonnegligent Manslaughter": "36",
+      "Legacy rape": "292",
+      "Robbery": "715",
+      "Aggravated assault": "1614"
+    },
+    "state45": {
+      "Population": "4723417",
+      "Violent crime total": "26474",
+      "Murder and nonnegligent Manslaughter": "332",
+      "Legacy rape": "1712",
+      "Robbery": "4511",
+      "Aggravated assault": "19919"
+    },
+    "state46": {
+      "Population": "834047",
+      "Violent crime total": "2701",
+      "Murder and nonnegligent Manslaughter": "23",
+      "Legacy rape": "600",
+      "Robbery": "157",
+      "Aggravated assault": "1921"
+    },
+    "state47": {
+      "Population": "6454914",
+      "Violent crime total": "41213",
+      "Murder and nonnegligent Manslaughter": "400",
+      "Legacy rape": "2047",
+      "Robbery": "8151",
+      "Aggravated assault": "30615"
+    },
+    "state48": {
+      "Population": "26060796",
+      "Violent crime total": "106475",
+      "Murder and nonnegligent Manslaughter": "1148",
+      "Legacy rape": "7715",
+      "Robbery": "30385",
+      "Aggravated assault": "67227"
+    },
+    "state49": {
+      "Population": "2854871",
+      "Violent crime total": "5939",
+      "Murder and nonnegligent Manslaughter": "52",
+      "Legacy rape": "975",
+      "Robbery": "1105",
+      "Aggravated assault": "3807"
+    },
+    "state50": {
+      "Population": "625953",
+      "Violent crime total": "891",
+      "Murder and nonnegligent Manslaughter": "8",
+      "Legacy rape": "131",
+      "Robbery": "114",
+      "Aggravated assault": "638"
+    },
+    "state51": {
+      "Population": "8186628",
+      "Violent crime total": "15676",
+      "Murder and nonnegligent Manslaughter": "322",
+      "Legacy rape": "1505",
+      "Robbery": "4718",
+      "Aggravated assault": "9131"
+    },
+    "state53": {
+      "Population": "6895318",
+      "Violent crime total": "20553",
+      "Murder and nonnegligent Manslaughter": "217",
+      "Legacy rape": "2250",
+      "Robbery": "5801",
+      "Aggravated assault": "12285"
+    },
+    "state54": {
+      "Population": "1856680",
+      "Violent crime total": "5943",
+      "Murder and nonnegligent Manslaughter": "70",
+      "Legacy rape": "415",
+      "Robbery": "835",
+      "Aggravated assault": "4623"
+    },
+    "state55": {
+      "Population": "5724554",
+      "Violent crime total": "16254",
+      "Murder and nonnegligent Manslaughter": "169",
+      "Legacy rape": "1228",
+      "Robbery": "4692",
+      "Aggravated assault": "10165"
+    },
+    "state56": {
+      "Population": "576626",
+      "Violent crime total": "1161",
+      "Murder and nonnegligent Manslaughter": "14",
+      "Legacy rape": "154",
+      "Robbery": "61",
+      "Aggravated assault": "932"
+    }
+  },
+  "2013": {
+    "state01": {
+      "Population": "4833996",
+      "Violent crime total": "20834",
+      "Murder and nonnegligent Manslaughter": "346",
+      "Legacy rape": "1449",
+      "Robbery": "4645",
+      "Aggravated assault": "13788"
+    },
+    "state02": {
+      "Population": "737259",
+      "Violent crime total": "4709",
+      "Murder and nonnegligent Manslaughter": "34",
+      "Legacy rape": "657",
+      "Robbery": "623",
+      "Aggravated assault": "3127"
+    },
+    "state04": {
+      "Population": "6634997",
+      "Violent crime total": "27576",
+      "Murder and nonnegligent Manslaughter": "355",
+      "Legacy rape": "2344",
+      "Robbery": "6656",
+      "Aggravated assault": "17391"
+    },
+    "state05": {
+      "Population": "2958765",
+      "Violent crime total": "13705",
+      "Murder and nonnegligent Manslaughter": "158",
+      "Legacy rape": "1135",
+      "Robbery": "2261",
+      "Aggravated assault": "9796"
+    },
+    "state06": {
+      "Population": "38431393",
+      "Violent crime total": "154739",
+      "Murder and nonnegligent Manslaughter": "1746",
+      "Legacy rape": "7464",
+      "Robbery": "53640",
+      "Aggravated assault": "89029"
+    },
+    "state08": {
+      "Population": "5272086",
+      "Violent crime total": "16099",
+      "Murder and nonnegligent Manslaughter": "174",
+      "Legacy rape": "2198",
+      "Robbery": "3136",
+      "Aggravated assault": "9826"
+    },
+    "state09": {
+      "Population": "3599341",
+      "Violent crime total": "9439",
+      "Murder and nonnegligent Manslaughter": "91",
+      "Legacy rape": "647",
+      "Robbery": "3551",
+      "Aggravated assault": "4906"
+    },
+    "state10": {
+      "Population": "925240",
+      "Violent crime total": "4633",
+      "Murder and nonnegligent Manslaughter": "41",
+      "Legacy rape": "278",
+      "Robbery": "1233",
+      "Aggravated assault": "2960"
+    },
+    "state11": {
+      "Population": "649111",
+      "Violent crime total": "8415",
+      "Murder and nonnegligent Manslaughter": "103",
+      "Legacy rape": "297",
+      "Robbery": "4082",
+      "Aggravated assault": "3835"
+    },
+    "state12": {
+      "Population": "19600311",
+      "Violent crime total": "91993",
+      "Murder and nonnegligent Manslaughter": "972",
+      "Legacy rape": "4765",
+      "Robbery": "23200",
+      "Aggravated assault": "61054"
+    },
+    "state13": {
+      "Population": "9994759",
+      "Violent crime total": "37519",
+      "Murder and nonnegligent Manslaughter": "563",
+      "Legacy rape": "2022",
+      "Robbery": "12704",
+      "Aggravated assault": "21361"
+    },
+    "state15": {
+      "Population": "1408987",
+      "Violent crime total": "3585",
+      "Murder and nonnegligent Manslaughter": "32",
+      "Legacy rape": "366",
+      "Robbery": "934",
+      "Aggravated assault": "2111"
+    },
+    "state16": {
+      "Population": "1612843",
+      "Violent crime total": "3471",
+      "Murder and nonnegligent Manslaughter": "29",
+      "Legacy rape": "516",
+      "Robbery": "220",
+      "Aggravated assault": "2548"
+    },
+    "state17": {
+      "Population": "12890552",
+      "Violent crime total": "51956",
+      "Murder and nonnegligent Manslaughter": "722",
+      "Legacy rape": "3895",
+      "Robbery": "17733",
+      "Aggravated assault": "28161"
+    },
+    "state18": {
+      "Population": "6570713",
+      "Violent crime total": "23627",
+      "Murder and nonnegligent Manslaughter": "357",
+      "Legacy rape": "1623",
+      "Robbery": "7114",
+      "Aggravated assault": "13915"
+    },
+    "state19": {
+      "Population": "3092341",
+      "Violent crime total": "8443",
+      "Murder and nonnegligent Manslaughter": "41",
+      "Legacy rape": "873",
+      "Robbery": "937",
+      "Aggravated assault": "6332"
+    },
+    "state20": {
+      "Population": "2895801",
+      "Violent crime total": "9928",
+      "Murder and nonnegligent Manslaughter": "117",
+      "Legacy rape": "1003",
+      "Robbery": "1339",
+      "Aggravated assault": "7177"
+    },
+    "state21": {
+      "Population": "4399583",
+      "Violent crime total": "9280",
+      "Murder and nonnegligent Manslaughter": "172",
+      "Legacy rape": "951",
+      "Robbery": "3247",
+      "Aggravated assault": "4215"
+    },
+    "state22": {
+      "Population": "4629284",
+      "Violent crime total": "24127",
+      "Murder and nonnegligent Manslaughter": "494",
+      "Legacy rape": "1248",
+      "Robbery": "5539",
+      "Aggravated assault": "16331"
+    },
+    "state23": {
+      "Population": "1328702",
+      "Violent crime total": "1761",
+      "Murder and nonnegligent Manslaughter": "24",
+      "Legacy rape": "366",
+      "Robbery": "335",
+      "Aggravated assault": "907"
+    },
+    "state24": {
+      "Population": "5938737",
+      "Violent crime total": "28235",
+      "Murder and nonnegligent Manslaughter": "384",
+      "Legacy rape": "1179",
+      "Robbery": "10048",
+      "Aggravated assault": "16124"
+    },
+    "state25": {
+      "Population": "6708874",
+      "Violent crime total": "27264",
+      "Murder and nonnegligent Manslaughter": "138",
+      "Legacy rape": "1722",
+      "Robbery": "6705",
+      "Aggravated assault": "18118"
+    },
+    "state26": {
+      "Population": "9898193",
+      "Violent crime total": "44757",
+      "Murder and nonnegligent Manslaughter": "625",
+      "Legacy rape": "4506",
+      "Robbery": "10093",
+      "Aggravated assault": "27254"
+    },
+    "state27": {
+      "Population": "5422060",
+      "Violent crime total": "12710",
+      "Murder and nonnegligent Manslaughter": "114",
+      "Legacy rape": "1453",
+      "Robbery": "3674",
+      "Aggravated assault": "6908"
+    },
+    "state28": {
+      "Population": "2992206",
+      "Violent crime total": "8303",
+      "Murder and nonnegligent Manslaughter": "217",
+      "Legacy rape": "726",
+      "Robbery": "2413",
+      "Aggravated assault": "4649"
+    },
+    "state29": {
+      "Population": "6044917",
+      "Violent crime total": "26216",
+      "Murder and nonnegligent Manslaughter": "369",
+      "Legacy rape": "1679",
+      "Robbery": "5486",
+      "Aggravated assault": "18056"
+    },
+    "state30": {
+      "Population": "1014864",
+      "Violent crime total": "2924",
+      "Murder and nonnegligent Manslaughter": "23",
+      "Legacy rape": "382",
+      "Robbery": "217",
+      "Aggravated assault": "2217"
+    },
+    "state31": {
+      "Population": "1868969",
+      "Violent crime total": "4949",
+      "Murder and nonnegligent Manslaughter": "56",
+      "Legacy rape": "621",
+      "Robbery": "1035",
+      "Aggravated assault": "3011"
+    },
+    "state32": {
+      "Population": "2791494",
+      "Violent crime total": "16888",
+      "Murder and nonnegligent Manslaughter": "163",
+      "Legacy rape": "1090",
+      "Robbery": "5183",
+      "Aggravated assault": "10060"
+    },
+    "state33": {
+      "Population": "1322616",
+      "Violent crime total": "2952",
+      "Murder and nonnegligent Manslaughter": "21",
+      "Legacy rape": "522",
+      "Robbery": "647",
+      "Aggravated assault": "1506"
+    },
+    "state34": {
+      "Population": "8911502",
+      "Violent crime total": "25748",
+      "Murder and nonnegligent Manslaughter": "404",
+      "Legacy rape": "861",
+      "Robbery": "12084",
+      "Aggravated assault": "12071"
+    },
+    "state35": {
+      "Population": "2086895",
+      "Violent crime total": "12990",
+      "Murder and nonnegligent Manslaughter": "123",
+      "Legacy rape": "1135",
+      "Robbery": "1832",
+      "Aggravated assault": "9470"
+    },
+    "state36": {
+      "Population": "19695680",
+      "Violent crime total": "77563",
+      "Murder and nonnegligent Manslaughter": "644",
+      "Legacy rape": "2575",
+      "Robbery": "27241",
+      "Aggravated assault": "46130"
+    },
+    "state37": {
+      "Population": "9848917",
+      "Violent crime total": "33587",
+      "Murder and nonnegligent Manslaughter": "463",
+      "Legacy rape": "1790",
+      "Robbery": "9275",
+      "Aggravated assault": "21325"
+    },
+    "state38": {
+      "Population": "723857",
+      "Violent crime total": "1979",
+      "Murder and nonnegligent Manslaughter": "16",
+      "Legacy rape": "288",
+      "Robbery": "161",
+      "Aggravated assault": "1447"
+    },
+    "state39": {
+      "Population": "11572005",
+      "Violent crime total": "33722",
+      "Murder and nonnegligent Manslaughter": "478",
+      "Legacy rape": "3594",
+      "Robbery": "14483",
+      "Aggravated assault": "14370"
+    },
+    "state40": {
+      "Population": "3853118",
+      "Violent crime total": "17187",
+      "Murder and nonnegligent Manslaughter": "198",
+      "Legacy rape": "1715",
+      "Robbery": "3023",
+      "Aggravated assault": "11652"
+    },
+    "state41": {
+      "Population": "3928068",
+      "Violent crime total": "9536",
+      "Murder and nonnegligent Manslaughter": "82",
+      "Legacy rape": "1000",
+      "Robbery": "2394",
+      "Aggravated assault": "5596"
+    },
+    "state42": {
+      "Population": "12781296",
+      "Violent crime total": "42825",
+      "Murder and nonnegligent Manslaughter": "611",
+      "Legacy rape": "2728",
+      "Robbery": "14739",
+      "Aggravated assault": "23680"
+    },
+    "state44": {
+      "Population": "1053354",
+      "Violent crime total": "2710",
+      "Murder and nonnegligent Manslaughter": "31",
+      "Legacy rape": "333",
+      "Robbery": "683",
+      "Aggravated assault": "1547"
+    },
+    "state45": {
+      "Population": "4771929",
+      "Violent crime total": "24263",
+      "Murder and nonnegligent Manslaughter": "305",
+      "Legacy rape": "1739",
+      "Robbery": "3965",
+      "Aggravated assault": "17760"
+    },
+    "state46": {
+      "Population": "845510",
+      "Violent crime total": "2733",
+      "Murder and nonnegligent Manslaughter": "18",
+      "Legacy rape": "454",
+      "Robbery": "156",
+      "Aggravated assault": "2052"
+    },
+    "state47": {
+      "Population": "6497269",
+      "Violent crime total": "38063",
+      "Murder and nonnegligent Manslaughter": "335",
+      "Legacy rape": "1904",
+      "Robbery": "7333",
+      "Aggravated assault": "27895"
+    },
+    "state48": {
+      "Population": "26505637",
+      "Violent crime total": "108757",
+      "Murder and nonnegligent Manslaughter": "1140",
+      "Legacy rape": "7610",
+      "Robbery": "31810",
+      "Aggravated assault": "65351"
+    },
+    "state49": {
+      "Population": "2902787",
+      "Violent crime total": "6644",
+      "Murder and nonnegligent Manslaughter": "51",
+      "Legacy rape": "926",
+      "Robbery": "1247",
+      "Aggravated assault": "3824"
+    },
+    "state50": {
+      "Population": "626855",
+      "Violent crime total": "775",
+      "Murder and nonnegligent Manslaughter": "10",
+      "Legacy rape": "113",
+      "Robbery": "75",
+      "Aggravated assault": "554"
+    },
+    "state51": {
+      "Population": "8270345",
+      "Violent crime total": "16355",
+      "Murder and nonnegligent Manslaughter": "320",
+      "Legacy rape": "1476",
+      "Robbery": "4574",
+      "Aggravated assault": "9111"
+    },
+    "state53": {
+      "Population": "6973742",
+      "Violent crime total": "20223",
+      "Murder and nonnegligent Manslaughter": "167",
+      "Legacy rape": "2072",
+      "Robbery": "5829",
+      "Aggravated assault": "11623"
+    },
+    "state54": {
+      "Population": "1853595",
+      "Violent crime total": "5657",
+      "Murder and nonnegligent Manslaughter": "62",
+      "Legacy rape": "367",
+      "Robbery": "653",
+      "Aggravated assault": "4242"
+    },
+    "state55": {
+      "Population": "5742953",
+      "Violent crime total": "16118",
+      "Murder and nonnegligent Manslaughter": "163",
+      "Legacy rape": "1308",
+      "Robbery": "4834",
+      "Aggravated assault": "9285"
+    },
+    "state56": {
+      "Population": "583223",
+      "Violent crime total": "1212",
+      "Murder and nonnegligent Manslaughter": "17",
+      "Legacy rape": "144",
+      "Robbery": "74",
+      "Aggravated assault": "917"
+    }
+  },
+  "2014": {
+    "state01": {
+      "Population": "4849377",
+      "Violent crime total": "20727",
+      "Murder and nonnegligent Manslaughter": "276",
+      "Legacy rape": "1436",
+      "Robbery": "4701",
+      "Aggravated assault": "13745"
+    },
+    "state02": {
+      "Population": "736732",
+      "Violent crime total": "4684",
+      "Murder and nonnegligent Manslaughter": "41",
+      "Legacy rape": "555",
+      "Robbery": "629",
+      "Aggravated assault": "3243"
+    },
+    "state04": {
+      "Population": "6731484",
+      "Violent crime total": "26916",
+      "Murder and nonnegligent Manslaughter": "319",
+      "Legacy rape": "2464",
+      "Robbery": "6249",
+      "Aggravated assault": "16970"
+    },
+    "state05": {
+      "Population": "2966369",
+      "Violent crime total": "14243",
+      "Murder and nonnegligent Manslaughter": "165",
+      "Legacy rape": "1182",
+      "Robbery": "2050",
+      "Aggravated assault": "10265"
+    },
+    "state06": {
+      "Population": "38802500",
+      "Violent crime total": "153709",
+      "Murder and nonnegligent Manslaughter": "1699",
+      "Legacy rape": "8398",
+      "Robbery": "48680",
+      "Aggravated assault": "91803"
+    },
+    "state08": {
+      "Population": "5355866",
+      "Violent crime total": "16554",
+      "Murder and nonnegligent Manslaughter": "151",
+      "Legacy rape": "2121",
+      "Robbery": "3039",
+      "Aggravated assault": "10325"
+    },
+    "state09": {
+      "Population": "3596677",
+      "Violent crime total": "8522",
+      "Murder and nonnegligent Manslaughter": "86",
+      "Legacy rape": "571",
+      "Robbery": "3159",
+      "Aggravated assault": "4495"
+    },
+    "state10": {
+      "Population": "935614",
+      "Violent crime total": "4576",
+      "Murder and nonnegligent Manslaughter": "54",
+      "Legacy rape": "249",
+      "Robbery": "1269",
+      "Aggravated assault": "2867"
+    },
+    "state11": {
+      "Population": "658893",
+      "Violent crime total": "8199",
+      "Murder and nonnegligent Manslaughter": "105",
+      "Legacy rape": "352",
+      "Robbery": "3497",
+      "Aggravated assault": "4125"
+    },
+    "state12": {
+      "Population": "19893297",
+      "Violent crime total": "107521",
+      "Murder and nonnegligent Manslaughter": "1149",
+      "Legacy rape": "6051",
+      "Robbery": "24914",
+      "Aggravated assault": "72895"
+    },
+    "state13": {
+      "Population": "10097343",
+      "Violent crime total": "38097",
+      "Murder and nonnegligent Manslaughter": "580",
+      "Legacy rape": "2159",
+      "Robbery": "12417",
+      "Aggravated assault": "22052"
+    },
+    "state15": {
+      "Population": "1419561",
+      "Violent crime total": "3680",
+      "Murder and nonnegligent Manslaughter": "26",
+      "Legacy rape": "314",
+      "Robbery": "1107",
+      "Aggravated assault": "2102"
+    },
+    "state16": {
+      "Population": "1634464",
+      "Violent crime total": "3468",
+      "Murder and nonnegligent Manslaughter": "32",
+      "Legacy rape": "468",
+      "Robbery": "204",
+      "Aggravated assault": "2623"
+    },
+    "state17": {
+      "Population": "12880580",
+      "Violent crime total": "47663",
+      "Murder and nonnegligent Manslaughter": "685",
+      "Legacy rape": "3081",
+      "Robbery": "15299",
+      "Aggravated assault": "27520"
+    },
+    "state18": {
+      "Population": "6596855",
+      "Violent crime total": "24099",
+      "Murder and nonnegligent Manslaughter": "330",
+      "Legacy rape": "1615",
+      "Robbery": "6897",
+      "Aggravated assault": "14686"
+    },
+    "state19": {
+      "Population": "3107126",
+      "Violent crime total": "8497",
+      "Murder and nonnegligent Manslaughter": "60",
+      "Legacy rape": "828",
+      "Robbery": "1045",
+      "Aggravated assault": "6264"
+    },
+    "state20": {
+      "Population": "2904021",
+      "Violent crime total": "10123",
+      "Murder and nonnegligent Manslaughter": "91",
+      "Legacy rape": "1075",
+      "Robbery": "1362",
+      "Aggravated assault": "7259"
+    },
+    "state21": {
+      "Population": "4413457",
+      "Violent crime total": "9340",
+      "Murder and nonnegligent Manslaughter": "160",
+      "Legacy rape": "883",
+      "Robbery": "3336",
+      "Aggravated assault": "4404"
+    },
+    "state22": {
+      "Population": "4649676",
+      "Violent crime total": "23934",
+      "Murder and nonnegligent Manslaughter": "477",
+      "Legacy rape": "992",
+      "Robbery": "5695",
+      "Aggravated assault": "16387"
+    },
+    "state23": {
+      "Population": "1330089",
+      "Violent crime total": "1700",
+      "Murder and nonnegligent Manslaughter": "21",
+      "Legacy rape": "360",
+      "Robbery": "304",
+      "Aggravated assault": "890"
+    },
+    "state24": {
+      "Population": "5976407",
+      "Violent crime total": "26661",
+      "Murder and nonnegligent Manslaughter": "365",
+      "Legacy rape": "1144",
+      "Robbery": "9544",
+      "Aggravated assault": "15133"
+    },
+    "state25": {
+      "Population": "6745408",
+      "Violent crime total": "26399",
+      "Murder and nonnegligent Manslaughter": "132",
+      "Legacy rape": "1629",
+      "Robbery": "6036",
+      "Aggravated assault": "18051"
+    },
+    "state26": {
+      "Population": "9909877",
+      "Violent crime total": "42348",
+      "Murder and nonnegligent Manslaughter": "535",
+      "Legacy rape": "4049",
+      "Robbery": "8021",
+      "Aggravated assault": "27519"
+    },
+    "state27": {
+      "Population": "5457173",
+      "Violent crime total": "12505",
+      "Murder and nonnegligent Manslaughter": "88",
+      "Legacy rape": "1452",
+      "Robbery": "3687",
+      "Aggravated assault": "6729"
+    },
+    "state28": {
+      "Population": "2994079",
+      "Violent crime total": "8338",
+      "Murder and nonnegligent Manslaughter": "258",
+      "Legacy rape": "764",
+      "Robbery": "2430",
+      "Aggravated assault": "4592"
+    },
+    "state29": {
+      "Population": "6063589",
+      "Violent crime total": "26856",
+      "Murder and nonnegligent Manslaughter": "403",
+      "Legacy rape": "1706",
+      "Robbery": "5592",
+      "Aggravated assault": "18482"
+    },
+    "state30": {
+      "Population": "1023579",
+      "Violent crime total": "3313",
+      "Murder and nonnegligent Manslaughter": "37",
+      "Legacy rape": "430",
+      "Robbery": "203",
+      "Aggravated assault": "2532"
+    },
+    "state31": {
+      "Population": "1881503",
+      "Violent crime total": "5275",
+      "Murder and nonnegligent Manslaughter": "54",
+      "Legacy rape": "620",
+      "Robbery": "1043",
+      "Aggravated assault": "3316"
+    },
+    "state32": {
+      "Population": "2839099",
+      "Violent crime total": "18045",
+      "Murder and nonnegligent Manslaughter": "170",
+      "Legacy rape": "995",
+      "Robbery": "5954",
+      "Aggravated assault": "10564"
+    },
+    "state33": {
+      "Population": "1326813",
+      "Violent crime total": "2602",
+      "Murder and nonnegligent Manslaughter": "12",
+      "Legacy rape": "458",
+      "Robbery": "537",
+      "Aggravated assault": "1459"
+    },
+    "state34": {
+      "Population": "8938175",
+      "Violent crime total": "23346",
+      "Murder and nonnegligent Manslaughter": "349",
+      "Legacy rape": "953",
+      "Robbery": "10498",
+      "Aggravated assault": "11225"
+    },
+    "state35": {
+      "Population": "2085572",
+      "Violent crime total": "12459",
+      "Murder and nonnegligent Manslaughter": "101",
+      "Legacy rape": "1071",
+      "Robbery": "2086",
+      "Aggravated assault": "8797"
+    },
+    "state36": {
+      "Population": "19746227",
+      "Violent crime total": "75398",
+      "Murder and nonnegligent Manslaughter": "617",
+      "Legacy rape": "3918",
+      "Robbery": "24045",
+      "Aggravated assault": "45303"
+    },
+    "state37": {
+      "Population": "9943964",
+      "Violent crime total": "32767",
+      "Murder and nonnegligent Manslaughter": "510",
+      "Legacy rape": "1740",
+      "Robbery": "8416",
+      "Aggravated assault": "21421"
+    },
+    "state38": {
+      "Population": "739482",
+      "Violent crime total": "1960",
+      "Murder and nonnegligent Manslaughter": "22",
+      "Legacy rape": "276",
+      "Robbery": "173",
+      "Aggravated assault": "1407"
+    },
+    "state39": {
+      "Population": "11594163",
+      "Violent crime total": "33030",
+      "Murder and nonnegligent Manslaughter": "464",
+      "Legacy rape": "4097",
+      "Robbery": "12753",
+      "Aggravated assault": "14771"
+    },
+    "state40": {
+      "Population": "3878051",
+      "Violent crime total": "15744",
+      "Murder and nonnegligent Manslaughter": "175",
+      "Legacy rape": "1277",
+      "Robbery": "3048",
+      "Aggravated assault": "10744"
+    },
+    "state41": {
+      "Population": "3970239",
+      "Violent crime total": "9224",
+      "Murder and nonnegligent Manslaughter": "81",
+      "Legacy rape": "1052",
+      "Robbery": "2093",
+      "Aggravated assault": "5592"
+    },
+    "state42": {
+      "Population": "12787209",
+      "Violent crime total": "40164",
+      "Murder and nonnegligent Manslaughter": "614",
+      "Legacy rape": "2787",
+      "Robbery": "13534",
+      "Aggravated assault": "22189"
+    },
+    "state44": {
+      "Population": "1055173",
+      "Violent crime total": "2313",
+      "Murder and nonnegligent Manslaughter": "25",
+      "Legacy rape": "253",
+      "Robbery": "529",
+      "Aggravated assault": "1398"
+    },
+    "state45": {
+      "Population": "4832482",
+      "Violent crime total": "24052",
+      "Murder and nonnegligent Manslaughter": "311",
+      "Legacy rape": "1480",
+      "Robbery": "3997",
+      "Aggravated assault": "17676"
+    },
+    "state46": {
+      "Population": "853175",
+      "Violent crime total": "2786",
+      "Murder and nonnegligent Manslaughter": "20",
+      "Legacy rape": "413",
+      "Robbery": "200",
+      "Aggravated assault": "2096"
+    },
+    "state47": {
+      "Population": "6549352",
+      "Violent crime total": "39848",
+      "Murder and nonnegligent Manslaughter": "371",
+      "Legacy rape": "1861",
+      "Robbery": "7265",
+      "Aggravated assault": "29681"
+    },
+    "state48": {
+      "Population": "26956958",
+      "Violent crime total": "109414",
+      "Murder and nonnegligent Manslaughter": "1184",
+      "Legacy rape": "8236",
+      "Robbery": "31181",
+      "Aggravated assault": "65656"
+    },
+    "state49": {
+      "Population": "2942902",
+      "Violent crime total": "6346",
+      "Murder and nonnegligent Manslaughter": "67",
+      "Legacy rape": "945",
+      "Robbery": "1312",
+      "Aggravated assault": "3513"
+    },
+    "state50": {
+      "Population": "626562",
+      "Violent crime total": "622",
+      "Murder and nonnegligent Manslaughter": "10",
+      "Legacy rape": "99",
+      "Robbery": "70",
+      "Aggravated assault": "432"
+    },
+    "state51": {
+      "Population": "8326289",
+      "Violent crime total": "16340",
+      "Murder and nonnegligent Manslaughter": "338",
+      "Legacy rape": "1432",
+      "Robbery": "4292",
+      "Aggravated assault": "9400"
+    },
+    "state53": {
+      "Population": "7061530",
+      "Violent crime total": "20136",
+      "Murder and nonnegligent Manslaughter": "174",
+      "Legacy rape": "2171",
+      "Robbery": "5640",
+      "Aggravated assault": "11627"
+    },
+    "state54": {
+      "Population": "1850326",
+      "Violent crime total": "5588",
+      "Murder and nonnegligent Manslaughter": "74",
+      "Legacy rape": "285",
+      "Robbery": "651",
+      "Aggravated assault": "4358"
+    },
+    "state55": {
+      "Population": "5757564",
+      "Violent crime total": "16714",
+      "Murder and nonnegligent Manslaughter": "165",
+      "Legacy rape": "1168",
+      "Robbery": "5066",
+      "Aggravated assault": "9809"
+    },
+    "state56": {
+      "Population": "584153",
+      "Violent crime total": "1142",
+      "Murder and nonnegligent Manslaughter": "16",
+      "Legacy rape": "126",
+      "Robbery": "53",
+      "Aggravated assault": "899"
+    }
+  }
+}

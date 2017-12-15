@@ -107,7 +107,7 @@ console.log();
 
 				d3.select("svg g").select(".line.three")	// Add the valueline3 path
 					.attr("d", valueline6(data));
-					
+
 };
 
 
@@ -210,22 +210,7 @@ console.log();
       .attr("y2", 0)
       .attr("stroke-width", 1)
       .attr("stroke", "grey");
-	focus.append("line")
-			.attr("id", "line_y1")
-			.attr("x1", 0)
-			.attr("x2", 0)
-			.attr("y1", 0)
-			.attr("y2", 0)
-			.attr("stroke-width", 1)
-			.attr("stroke", "grey");
-	focus.append("line")
-      .attr("id", "line_y2")
-      .attr("x1", 0)
-      .attr("x2", 0)
-      .attr("y1", 0)
-      .attr("y2", 0)
-      .attr("stroke-width", 1)
-      .attr("stroke", "grey");
+	
   // add line element to focus to trace from path to x-axis
   focus.append("line")
       .attr("id", "line_x")
